@@ -1,0 +1,2258 @@
+__v,_id,brand,device,devicetype,protocol,subdevice
+0,6045c9b456c8123a1d549d56,AMC,7,CD Player,NEC1,252
+0,6045c9b456c8123a1d549d5d,AMC,145,Tuner,NECx1,145
+0,6045c9b456c8123a1d549d5e,AMC,7,Pre-Amplifier,NEC1,252
+0,6045c9b456c8123a1d549d5f,Accupel,,Signal Generator,NEC1,-1
+0,6045c9b556c8123a1d549d60,Acer,8,Projector,NEC,19
+0,6045c9b556c8123a1d549d61,Acesonic,5,Karaoke,NEC1,122
+0,6045c9b556c8123a1d549d62,Acesonic,77,Karaoke,NEC1,-1
+0,6045c9b456c8123a1d549d57,ADA,27,Millenium,Panasonic_Old,-1
+0,6045c9b456c8123a1d549d58,3M,134,Video Projector,Fujitsu,-1
+0,6045c9b456c8123a1d549d59,3M,134,Projector,Fujitsu,-1
+0,6045c9b456c8123a1d549d5a,ADB,42,Set Top Box,XMP-1,17
+0,6045c9b456c8123a1d549d5b,ADB,42,Set Top Box,XMP-1/2,17
+0,6045c9b456c8123a1d549d5c,AMC,7,Input Selector,NEC1,232
+0,6045c9b556c8123a1d549d63,Adcom,26,CD Player,NEC1,-1
+0,6045c9b556c8123a1d549d64,Adcom,81,Receiver,Aiwa,
+0,6045c9b556c8123a1d549d65,Adcom,26,Receiver,NEC,-1
+0,6045c9b556c8123a1d549d66,Adcom,26,Receiver,NEC,232
+0,6045c9b556c8123a1d549d67,Adcom,26,Receiver,NEC1,-1
+0,6045c9b556c8123a1d549d68,Adcom,26,Receiver,NEC2,-1
+0,6045c9b556c8123a1d549d69,Adcom,26,Receiver,NEC2,232
+0,6045c9b556c8123a1d549d6a,Adcom,26,Tuner,NEC1,-1
+0,6045c9b556c8123a1d549d6b,Adcom,26,Surround Processor,NEC1,-1
+0,6045c9b556c8123a1d549d6c,Adcom,81,Unknown,Aiwa,
+0,6045c9b556c8123a1d549d6d,Adcom,26,Unknown,NEC1,-1
+0,6045c9b556c8123a1d549d6e,AMX,4,PLR-IR1,Denon{1},-1
+0,6045c9b556c8123a1d549d6f,AMX,85,PLR-IR1,Dgtec,-1
+0,6045c9b656c8123a1d549d70,Adelphia,,Cable Box,G.I. Cable,-1
+0,6045c9b656c8123a1d549d71,Adelphia,27,Cable Box,Panasonic_Old,-1
+0,6045c9b656c8123a1d549d72,Adelphia,1,Cable Box,Sony12,-1
+0,6045c9b656c8123a1d549d73,Aiwa,115,Cassette Tape,Aiwa,
+0,6045c9b656c8123a1d549d74,Aesthetix,16,Pre-Amplifier,RC5,-1
+0,6045c9b656c8123a1d549d75,Adcom,26,AV Preamplifier,NEC2,-1
+0,6045c9b656c8123a1d549d77,Aiwa,13,Receiver,Sony12,-1
+0,6045c9b656c8123a1d549d78,Aiwa,16,Receiver,Sony12,-1
+0,6045c9b656c8123a1d549d79,Aiwa,18,Receiver,Sony12,-1
+0,6045c9b656c8123a1d549d76,Aiwa,12,Receiver,Sony12,-1
+0,6045c9b656c8123a1d549d7a,Aiwa,127,Unknown,Aiwa,
+0,6045c9b656c8123a1d549d7b,Adcom,81,Pre-Amplifier,Aiwa,
+0,6045c9b656c8123a1d549d7c,Adcom,26,Pre-Amplifier,NEC1,-1
+0,6045c9b656c8123a1d549d7d,Adcom,26,Pre-Amplifier,NEC1,232
+0,6045c9b656c8123a1d549d7f,Adcom,232,Pre-Amplifier,NEC1,26
+0,6045c9b656c8123a1d549d7e,Adcom,88,Pre-Amplifier,NEC1,23
+0,6045c9b656c8123a1d549d80,Adcom,26,Pre-Amplifier,NEC2,-1
+0,6045c9b656c8123a1d549d81,Adcom,26,Pre-Amplifier,NEC2,232
+0,6045c9b656c8123a1d549d82,Aiwa,127,VCR,Aiwa,
+0,6045c9b656c8123a1d549d83,Aiwa,130,VCR,NEC1,111
+0,6045c9b656c8123a1d549d84,Aiwa,118,CD Player,Aiwa,
+0,6045c9b656c8123a1d549d85,Akai,141,CD Player,NEC1,-1
+0,6045c9b656c8123a1d549d86,Aiwa,110,Mini System,Aiwa,
+0,6045c9b756c8123a1d549d87,Alphaluxx,240,Screen,null,129
+0,6045c9b756c8123a1d549d89,Alphaluxx,240,Screen,F32,33
+0,6045c9b756c8123a1d549d88,Alphaluxx,240,Screen,F32,17
+0,6045c9b756c8123a1d549d8a,Alphaluxx,240,Screen,F32,65
+0,6045c9b756c8123a1d549d8b,Alphaluxx,241,Screen,F32,1
+0,6045c9b756c8123a1d549d8c,AmPro,134,Video Projector,Fujitsu,-1
+0,6045c9b756c8123a1d549d8d,AmPro,85,Video Projector,NEC1,-1
+0,6045c9b756c8123a1d549d8f,AmPro,5,Video Projector,Zenith,1
+0,6045c9b756c8123a1d549d90,AmPro,7,Video Projector,Zenith,
+0,6045c9b756c8123a1d549d8e,AmPro,11,Video Projector,Sony12,-1
+0,6045c9b756c8123a1d549d91,Amstrad,128,Twin Receiver,NEC1,105
+0,6045c9b756c8123a1d549d92,Antex Electronics,26,Satellite Radio,ScAtl-6,-1
+0,6045c9b756c8123a1d549d93,Aopen,4,Media PC,NEC,-1
+0,6045c9b756c8123a1d549d94,Aopen,4,Media PC,NEC1,-1
+0,6045c9b756c8123a1d549d95,Apex,4,DVD Player,NEC1,-1
+0,6045c9b756c8123a1d549d96,Apple,238,Apple TV,Apple,135
+0,6045c9b756c8123a1d549d97,Apple,238,Computer,Apple,135
+0,6045c9b756c8123a1d549d98,Apple,238,Digital Jukebox,Apple,135
+0,6045c9b756c8123a1d549d99,Apple,238,MP3 Player,Apple,135
+0,6045c9b756c8123a1d549d9a,Apple,1,MP3 Player,NEC,222
+0,6045c9b756c8123a1d549d9b,Apple,1,MP3 Player,NEC1,222
+0,6045c9b756c8123a1d549d9c,Apple,1,MP3 Player,NEC2,222
+0,6045c9b756c8123a1d549d9d,Apple,238,iPod,Apple,135
+0,6045c9b856c8123a1d549d9e,Aragon,25,Pre-Amplifier,RC5,-1
+0,6045c9b856c8123a1d549d9f,Aragon,31,Pre-Amplifier,RC5,-1
+0,6045c9b856c8123a1d549da1,Arcam,16,CD Player,RC5,-1
+0,6045c9b856c8123a1d549da0,Arcam,,CD Player,RC5,-1
+0,6045c9b856c8123a1d549da2,Arcam,20,CD Player,RC5,-1
+0,6045c9b856c8123a1d549da3,Arcam,16,DVD Player,RC5,-1
+0,6045c9b856c8123a1d549da4,Arcam,25,DVD Player,RC5,-1
+0,6045c9b856c8123a1d549da6,Arcam,17,Music System,RC5,-1
+0,6045c9b856c8123a1d549da5,Arcam,16,Music System,RC5,-1
+0,6045c9b856c8123a1d549da7,Arcam,20,Music System,RC5,-1
+0,6045c9b856c8123a1d549da8,Arcam,,Receiver,DirecTV,-1
+0,6045c9b856c8123a1d549da9,Arcam,16,Receiver,RC5,-1
+0,6045c9b856c8123a1d549daa,Arcam,17,Receiver,RC5,-1
+0,6045c9b856c8123a1d549dab,Arcam,19,Receiver,RC5,-1
+0,6045c9b856c8123a1d549dac,Arcam,23,Receiver,RC5,-1
+0,6045c9b856c8123a1d549dad,Arcam,25,Receiver,RC5,-1
+0,6045c9b856c8123a1d549dae,Arcam,16,Pre-Amplifier,RC5,-1
+0,6045c9b856c8123a1d549daf,Arcam,,Surround Receiver,DirecTV,-1
+0,6045c9b856c8123a1d549db1,Arcam,25,Surround Receiver,RC5,-1
+0,6045c9b856c8123a1d549db0,Arcam,16,Surround Receiver,RC5,-1
+0,6045c9b856c8123a1d549db2,Arcam,17,Tuner,RC5,-1
+0,6045c9b956c8123a1d549db3,Architectural Audio,132,Amplifier,NECx1,132
+0,6045c9b956c8123a1d549db4,Architectural Audio,130,Multi-Zone Receiver,NECx1,130
+0,6045c9b956c8123a1d549db6,Arrakis Systems,71,CD Jukebox,NEC1,-1
+0,6045c9b956c8123a1d549db5,Arrakis Systems,39,CD Jukebox,NEC1,-1
+0,6045c9b956c8123a1d549db7,Arrakis Systems,103,CD Jukebox,NEC1,-1
+0,6045c9b956c8123a1d549db8,Astro,8,Satellite,NEC1,-1
+0,6045c9b956c8123a1d549db9,Atlantic Technology,64,Surround Processor,NEC1,64
+0,6045c9b956c8123a1d549dbb,Atlantic Technology,7,Surround Processor,RCA-38,-1
+0,6045c9b956c8123a1d549dba,Atlantic Technology,131,Surround Processor,NEC1,95
+0,6045c9b956c8123a1d549dbc,Atlona,,Matrix Switcher,NEC1,-1
+0,6045c9b956c8123a1d549dbd,Atlona,134,Matrix Switcher,NEC1,107
+0,6045c9b956c8123a1d549dbe,Audio Access,133,Pre-Amplifier,NEC1,83
+0,6045c9b956c8123a1d549dbf,Atlona,134,Switcher,NEC1,107
+0,6045c9b956c8123a1d549dc1,Audio Access,133,Zone Controller,NEC1,83
+0,6045c9b956c8123a1d549dc0,Audio Access,4,Zone Controller,Akai,-1
+0,6045c9b956c8123a1d549dc2,Audio Authority,134,HDMI Switcher,NEC1,107
+0,6045c9b956c8123a1d549dc3,Audio Authority,26,IR to Bluetooth,Sony20,73
+0,6045c9b956c8123a1d549dc4,Audio Authority,26,IR to Bluetooth,Sony20,218
+0,6045c9ba56c8123a1d549dc5,Audio Authority,64,Switcher,NEC1,159
+0,6045c9ba56c8123a1d549dc6,Audio Control,16,Receiver,RC5,-1
+0,6045c9ba56c8123a1d549dc7,Audio Control,17,Receiver,RC5,-1
+0,6045c9ba56c8123a1d549dc8,Audio Control,23,Receiver,RC5,-1
+0,6045c9ba56c8123a1d549dca,Audio Control,17,Pre-Amplifier,RC5,-1
+0,6045c9ba56c8123a1d549dcb,Audio Control,23,Pre-Amplifier,RC5,-1
+0,6045c9ba56c8123a1d549dc9,Audio Control,16,Pre-Amplifier,RC5,-1
+0,6045c9ba56c8123a1d549dcc,Audio Control,16,Processor,RC5,-1
+0,6045c9ba56c8123a1d549dcd,Audio Refinement,20,Tuner,RC5,-1
+0,6045c9ba56c8123a1d549dce,Audio Refinement,20,Amplifier,RC5,-1
+0,6045c9ba56c8123a1d549dcf,Audio Refinement,20,CD Player,RC5,-1
+0,6045c9ba56c8123a1d549dd0,Audio Research,7,Pre-Amplifier,RC5,-1
+0,6045c9ba56c8123a1d549dd1,Audiovox.,128,Monitor,NEC,126
+0,6045c9ba56c8123a1d549dd2,Audiovox.,128,Monitor,NEC1,126
+0,6045c9ba56c8123a1d549dd3,Austar,32,Cable Box,Nokia32,224
+0,6045c9bb56c8123a1d549dd4,Axonix,17,DVD Player,RC5-7F,-1
+0,6045c9bb56c8123a1d549dd5,Axonix,17,Media Server,RC5-7F,-1
+0,6045c9bb56c8123a1d549dd6,Axonix,17,MediaMax,MCE,20
+0,6045c9bb56c8123a1d549dd7,Ayre,16,Amplifier,RC5,-1
+0,6045c9bb56c8123a1d549dd8,B&K Components,11,2-Channel Preamp,JVC,-1
+0,6045c9bb56c8123a1d549dd9,B&K Components,11,2-Channel Preamp,NEC2,79
+0,6045c9bb56c8123a1d549ddb,B&K Components,27,6 Zone Receiver,NEC2,78
+0,6045c9bb56c8123a1d549ddc,B&K Components,43,6 Zone Receiver,NEC2,77
+0,6045c9bb56c8123a1d549dda,B&K Components,11,6 Zone Receiver,NEC2,79
+0,6045c9bb56c8123a1d549ddd,B&K Components,59,6 Zone Receiver,NEC2,76
+0,6045c9bb56c8123a1d549dde,B&K Components,75,6 Zone Receiver,NEC2,75
+0,6045c9bb56c8123a1d549ddf,B&K Components,91,6 Zone Receiver,NEC2,74
+0,6045c9bb56c8123a1d549de0,B&K Components,123,6 Zone Receiver,NEC2,72
+0,6045c9bb56c8123a1d549de1,B&K Components,139,6 Zone Receiver,NEC2,71
+0,6045c9bb56c8123a1d549de2,B&K Components,187,6 Zone Receiver,NEC2,-1
+0,6045c9bb56c8123a1d549de3,B&K Components,203,6 Zone Receiver,NEC2,67
+0,6045c9bb56c8123a1d549de4,B&K Components,219,6 Zone Receiver,NEC2,66
+0,6045c9bb56c8123a1d549de5,B&K Components,242,6 Zone Receiver,NEC2,208
+0,6045c9bb56c8123a1d549de6,B&K Components,243,6 Zone Receiver,NEC2,192
+0,6045c9bb56c8123a1d549de7,B&K Components,251,6 Zone Receiver,NEC2,64
+0,6045c9bb56c8123a1d549de9,B&K Components,7,Matrix Switcher,NEC2,143
+0,6045c9bb56c8123a1d549de8,B&K Components,,Matrix Switcher,NEC2,-1
+0,6045c9bb56c8123a1d549dea,B&K Components,15,Matrix Switcher,NEC2,15
+0,6045c9bb56c8123a1d549deb,B&K Components,23,Matrix Switcher,NEC2,142
+0,6045c9bb56c8123a1d549dec,B&K Components,31,Matrix Switcher,NEC2,14
+0,6045c9bb56c8123a1d549ded,B&K Components,39,Matrix Switcher,NEC2,141
+0,6045c9bb56c8123a1d549dee,B&K Components,44,Matrix Switcher,NEC2,61
+0,6045c9bb56c8123a1d549def,B&K Components,55,Matrix Switcher,NEC2,140
+0,6045c9bb56c8123a1d549df0,B&K Components,59,Matrix Switcher,NEC2,76
+0,6045c9bb56c8123a1d549df1,B&K Components,63,Matrix Switcher,NEC2,12
+0,6045c9bb56c8123a1d549df2,B&K Components,64,Matrix Switcher,NEC2,251
+0,6045c9bb56c8123a1d549df3,B&K Components,71,Matrix Switcher,NEC2,139
+0,6045c9bb56c8123a1d549df4,B&K Components,76,Matrix Switcher,NEC2,59
+0,6045c9bb56c8123a1d549df5,B&K Components,79,Matrix Switcher,NEC2,11
+0,6045c9bb56c8123a1d549df6,B&K Components,91,Matrix Switcher,NEC2,74
+0,6045c9bb56c8123a1d549df7,B&K Components,95,Matrix Switcher,NEC2,10
+0,6045c9bb56c8123a1d549df8,B&K Components,103,Matrix Switcher,NEC2,137
+0,6045c9bb56c8123a1d549df9,B&K Components,108,Matrix Switcher,NEC2,57
+0,6045c9bb56c8123a1d549dfa,B&K Components,111,Matrix Switcher,NEC2,9
+0,6045c9bb56c8123a1d549dfb,B&K Components,119,Matrix Switcher,NEC2,-1
+0,6045c9bb56c8123a1d549dfc,B&K Components,123,Matrix Switcher,NEC2,72
+0,6045c9bb56c8123a1d549dfd,B&K Components,127,Matrix Switcher,NEC2,8
+0,6045c9bb56c8123a1d549dfe,B&K Components,128,Matrix Switcher,NEC2,247
+0,6045c9bb56c8123a1d549dff,B&K Components,135,Matrix Switcher,NEC2,135
+0,6045c9bb56c8123a1d549e00,B&K Components,143,Matrix Switcher,NEC2,7
+0,6045c9bb56c8123a1d549e01,B&K Components,159,Matrix Switcher,NEC2,6
+0,6045c9bb56c8123a1d549e02,B&K Components,167,Matrix Switcher,NEC2,133
+0,6045c9bb56c8123a1d549e03,B&K Components,172,Matrix Switcher,NEC2,53
+0,6045c9bb56c8123a1d549e04,B&K Components,183,Matrix Switcher,NEC2,132
+0,6045c9bb56c8123a1d549e05,B&K Components,187,Matrix Switcher,NEC2,-1
+0,6045c9bb56c8123a1d549e06,B&K Components,192,Matrix Switcher,NEC2,243
+0,6045c9bb56c8123a1d549e07,B&K Components,199,Matrix Switcher,NEC2,131
+0,6045c9bb56c8123a1d549e08,B&K Components,204,Matrix Switcher,NEC2,-1
+0,6045c9bb56c8123a1d549e09,B&K Components,219,Matrix Switcher,NEC2,66
+0,6045c9bb56c8123a1d549e0a,B&K Components,223,Matrix Switcher,NEC2,2
+0,6045c9bb56c8123a1d549e0b,B&K Components,239,Matrix Switcher,NEC2,1
+0,6045c9bb56c8123a1d549e0c,B&K Components,242,Matrix Switcher,NEC2,208
+0,6045c9bb56c8123a1d549e0d,B&K Components,243,Matrix Switcher,NEC2,192
+0,6045c9bb56c8123a1d549e0e,B&K Components,247,Matrix Switcher,NEC2,128
+0,6045c9bb56c8123a1d549e0f,B&K Components,251,Matrix Switcher,NEC2,64
+0,6045c9bb56c8123a1d549e10,B&K Components,255,Matrix Switcher,NEC2,-1
+0,6045c9bb56c8123a1d549e12,B&K Components,15,Multi-Zone Receiver,NEC2,15
+0,6045c9bb56c8123a1d549e11,B&K Components,7,Multi-Zone Receiver,NEC2,143
+0,6045c9bb56c8123a1d549e13,B&K Components,23,Multi-Zone Receiver,NEC2,142
+0,6045c9bb56c8123a1d549e14,B&K Components,31,Multi-Zone Receiver,NEC2,14
+0,6045c9bb56c8123a1d549e15,B&K Components,39,Multi-Zone Receiver,NEC2,141
+0,6045c9bb56c8123a1d549e17,B&K Components,59,Multi-Zone Receiver,NEC2,76
+0,6045c9bb56c8123a1d549e16,B&K Components,55,Multi-Zone Receiver,NEC2,140
+0,6045c9bb56c8123a1d549e18,B&K Components,71,Multi-Zone Receiver,NEC2,139
+0,6045c9bb56c8123a1d549e19,B&K Components,79,Multi-Zone Receiver,NEC2,11
+0,6045c9bb56c8123a1d549e1a,B&K Components,87,Multi-Zone Receiver,NEC2,138
+0,6045c9bb56c8123a1d549e1b,B&K Components,91,Multi-Zone Receiver,NEC2,74
+0,6045c9bb56c8123a1d549e1c,B&K Components,103,Multi-Zone Receiver,NEC2,137
+0,6045c9bb56c8123a1d549e1d,B&K Components,119,Multi-Zone Receiver,NEC2,-1
+0,6045c9bb56c8123a1d549e1e,B&K Components,123,Multi-Zone Receiver,NEC2,72
+0,6045c9bb56c8123a1d549e1f,B&K Components,135,Multi-Zone Receiver,NEC2,135
+0,6045c9bb56c8123a1d549e20,B&K Components,143,Multi-Zone Receiver,NEC2,7
+0,6045c9bb56c8123a1d549e21,B&K Components,151,Multi-Zone Receiver,NEC2,134
+0,6045c9bb56c8123a1d549e22,B&K Components,167,Multi-Zone Receiver,NEC2,133
+0,6045c9bb56c8123a1d549e23,B&K Components,183,Multi-Zone Receiver,NEC2,132
+0,6045c9bb56c8123a1d549e24,B&K Components,187,Multi-Zone Receiver,NEC2,-1
+0,6045c9bb56c8123a1d549e25,B&K Components,199,Multi-Zone Receiver,NEC2,131
+0,6045c9bb56c8123a1d549e26,B&K Components,215,Multi-Zone Receiver,NEC2,130
+0,6045c9bb56c8123a1d549e27,B&K Components,219,Multi-Zone Receiver,NEC2,66
+0,6045c9bb56c8123a1d549e28,B&K Components,231,Multi-Zone Receiver,NEC2,129
+0,6045c9bb56c8123a1d549e29,B&K Components,242,Multi-Zone Receiver,NEC2,208
+0,6045c9bb56c8123a1d549e2a,B&K Components,243,Multi-Zone Receiver,NEC2,192
+0,6045c9bb56c8123a1d549e2b,B&K Components,247,Multi-Zone Receiver,NEC2,128
+0,6045c9bb56c8123a1d549e2c,B&K Components,251,Multi-Zone Receiver,NEC2,64
+0,6045c9bb56c8123a1d549e2e,B&K Components,6,Pre-Amplifier,Aiwa,1
+0,6045c9bb56c8123a1d549e2d,B&K Components,5,Pre-Amplifier,Aiwa,1
+0,6045c9bb56c8123a1d549e2f,B&K Components,11,Pre-Amplifier,JVC,-1
+0,6045c9bb56c8123a1d549e30,B&K Components,11,Pre-Amplifier,NEC,79
+0,6045c9bb56c8123a1d549e31,B&K Components,27,Pre-Amplifier,NEC,78
+0,6045c9bb56c8123a1d549e32,B&K Components,11,Pre-Amplifier,NEC2,79
+0,6045c9bb56c8123a1d549e33,B&K Components,27,Pre-Amplifier,NEC2,78
+0,6045c9bb56c8123a1d549e34,B&K Components,139,Pre-Amplifier,NEC2,71
+0,6045c9bb56c8123a1d549e35,B&K Components,203,Pre-Amplifier,NEC2,67
+0,6045c9bb56c8123a1d549e36,B&K Components,27,Receiver,NEC,78
+0,6045c9bb56c8123a1d549e38,B&K Components,139,Receiver,NEC2,71
+0,6045c9bb56c8123a1d549e37,B&K Components,27,Receiver,NEC2,78
+0,6045c9bb56c8123a1d549e39,B&K Components,203,Receiver,NEC2,67
+0,6045c9bc56c8123a1d549e3b,B&K Components,27,Surround Processor,NEC,78
+0,6045c9bc56c8123a1d549e3a,B&K Components,11,Surround Processor,NEC,79
+0,6045c9bc56c8123a1d549e3c,B&K Components,11,Surround Processor,NEC2,79
+0,6045c9bc56c8123a1d549e3d,B&K Components,27,Surround Processor,NEC2,78
+0,6045c9bc56c8123a1d549e3e,B&K Components,27,Surround Processor,Pioneer,78
+0,6045c9bc56c8123a1d549e40,B&K Components,139,Theater Preamplifier,NEC2,71
+0,6045c9bc56c8123a1d549e41,B&K Components,203,Theater Preamplifier,NEC2,67
+0,6045c9bc56c8123a1d549e3f,B&K Components,27,Theater Preamplifier,NEC2,78
+0,6045c9bc56c8123a1d549e42,B&K Components,11,Theater-Zone 2,NEC2,79
+0,6045c9bc56c8123a1d549e43,B&K Components,43,Theater-Zone 2,NEC2,77
+0,6045c9bc56c8123a1d549e44,B&K Components,75,Theater-Zone 2,NEC2,75
+0,6045c9bc56c8123a1d549e46,B&K Components,11,Tuner/preamp,NEC2,79
+0,6045c9bc56c8123a1d549e45,B&K Components,11,Tuner/preamp,JVC,-1
+0,6045c9bc56c8123a1d549e47,B.A.T.,16,Pre-Amplifier,RC5,-1
+0,6045c9bc56c8123a1d549e48,BTX,81,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e49,BTX,82,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e4a,BTX,83,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e4c,BTX,145,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e4b,BTX,84,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e4d,BTX,146,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e4f,BTX,148,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e50,BTX,193,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e51,BTX,194,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e4e,BTX,147,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e53,BTX,196,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e52,BTX,195,Drapery Controller,JVC,-1
+0,6045c9bc56c8123a1d549e54,Bang & Olufsen,26,CD Player,Sony20,73
+0,6045c9bc56c8123a1d549e55,Barco,18,Video Projector,Barco,-1
+0,6045c9bc56c8123a1d549e56,Barco,,Video Projector,RC5,-1
+0,6045c9bc56c8123a1d549e57,Barix,,CD Jukebox,NEC1,127
+0,6045c9bd56c8123a1d549e58,Bell,,Satellite,Dish_Network,
+0,6045c9bd56c8123a1d549e59,Bell,,Satellite,Dish_Network,1
+0,6045c9bd56c8123a1d549e5a,Bell,,Satellite,Dish_Network,2
+0,6045c9bd56c8123a1d549e5b,Bell,1,Satellite,Dish_Network,
+0,6045c9bd56c8123a1d549e5d,Bell,1,Satellite,Dish_Network,2
+0,6045c9bd56c8123a1d549e5c,Bell,1,Satellite,Dish_Network,1
+0,6045c9bd56c8123a1d549e5e,Bell,16,Satellite,Dish_Network,1
+0,6045c9bd56c8123a1d549e5f,Bell,24,Satellite,Dish_Network,
+0,6045c9bd56c8123a1d549e61,Bell,7,Satellite,RCA,-1
+0,6045c9bd56c8123a1d549e60,Bell,128,Satellite,Panasonic,
+0,6045c9bd56c8123a1d549e64,Bell ExpressVu,16,Satellite,Dish_Network,
+0,6045c9bd56c8123a1d549e63,Bell ExpressVu,1,Satellite,Dish_Network,
+0,6045c9bd56c8123a1d549e62,Bell ExpressVu,,Satellite,Dish_Network,
+0,6045c9bd56c8123a1d549e65,Bell ExpressVu,,HD DVR,Dish_Network,
+0,6045c9bd56c8123a1d549e66,Bell ExpressVu,1,HD DVR,Dish_Network,
+0,6045c9bd56c8123a1d549e67,Bell ExpressVu,12,HD DVR,Dish_Network,
+0,6045c9bd56c8123a1d549e68,Bell ExpressVu,7,HD DVR,RCA,-1
+0,6045c9bd56c8123a1d549e6b,BenQ,72,Projector,NEC2,80
+0,6045c9bd56c8123a1d549e69,BenQ,48,Projector,NEC,-1
+0,6045c9bd56c8123a1d549e6a,BenQ,48,Projector,NEC1,-1
+0,6045c9bd56c8123a1d549e6d,BenQ,48,DLP Projector,NEC2,-1
+0,6045c9bd56c8123a1d549e6c,BenQ,48,DLP Projector,NEC1,-1
+0,6045c9bd56c8123a1d549e6e,Big Ben,67,Game Console,NEC2,164
+0,6045c9bd56c8123a1d549e6f,Bose,186,3-2-1,NEC2,75
+0,6045c9bd56c8123a1d549e70,Bogen,1,Amplifier,NEC1,-1
+0,6045c9bd56c8123a1d549e71,Bose,186,A/V Switcher,NEC2,71
+0,6045c9bd56c8123a1d549e72,Bose,186,Lifestyle,NEC2,1
+0,6045c9bd56c8123a1d549e73,Bose,186,Lifestyle,NEC2,85
+0,6045c9bd56c8123a1d549e74,Bose,186,Lifestyle,NEC2,136
+0,6045c9bd56c8123a1d549e75,Bose,186,Lifestyle,NEC2,160
+0,6045c9bd56c8123a1d549e76,Bose,186,Lifestyle,NEC2,161
+0,6045c9bd56c8123a1d549e77,Bose,186,Lifestyle,NEC2,162
+0,6045c9bd56c8123a1d549e78,Bose,186,Lifestyle,NEC2,163
+0,6045c9bd56c8123a1d549e79,Bose,186,Lifestyle,NEC2,164
+0,6045c9bd56c8123a1d549e7a,Bose,186,Lifestyle,NEC2,165
+0,6045c9bd56c8123a1d549e7b,Bose,186,Lifestyle,NEC2,166
+0,6045c9bd56c8123a1d549e7c,Bose,186,Lifestyle,NEC2,167
+0,6045c9bd56c8123a1d549e7d,Bose,186,Lifestyle,NEC2,168
+0,6045c9bd56c8123a1d549e7e,Bose,186,Lifestyle,NEC2,169
+0,6045c9bd56c8123a1d549e7f,Bose,186,Lifestyle,NEC2,170
+0,6045c9bd56c8123a1d549e81,Bose,186,Lifestyle,NEC2,172
+0,6045c9bd56c8123a1d549e80,Bose,186,Lifestyle,NEC2,171
+0,6045c9bd56c8123a1d549e82,Bose,186,Lifestyle,NEC2,173
+0,6045c9bd56c8123a1d549e83,Bose,186,Lifestyle,NEC2,174
+0,6045c9bd56c8123a1d549e84,Bose,186,Lifestyle,NEC2,176
+0,6045c9bd56c8123a1d549e85,Bose,186,Lifestyle,NEC2,177
+0,6045c9bd56c8123a1d549e86,Bose,186,Lifestyle,NEC2,178
+0,6045c9bd56c8123a1d549e87,Bose,186,Lifestyle,NEC2,179
+0,6045c9bd56c8123a1d549e88,Bose,186,Lifestyle,NEC2,180
+0,6045c9bd56c8123a1d549e89,Bose,186,Lifestyle,NEC2,181
+0,6045c9bd56c8123a1d549e8a,Bose,186,Lifestyle,NEC2,182
+0,6045c9bd56c8123a1d549e8b,Bose,186,Lifestyle,NEC2,183
+0,6045c9bd56c8123a1d549e8c,Bose,186,Lifestyle,NEC2,184
+0,6045c9bd56c8123a1d549e8d,Bose,186,Lifestyle,NEC2,185
+0,6045c9bd56c8123a1d549e8e,Bose,186,Lifestyle,NEC2,186
+0,6045c9bd56c8123a1d549e8f,Bose,186,Lifestyle,NEC2,187
+0,6045c9bd56c8123a1d549e90,Bose,186,Lifestyle,NEC2,188
+0,6045c9bd56c8123a1d549e91,Bose,186,Lifestyle,NEC2,189
+0,6045c9bd56c8123a1d549e92,Bose,186,Lifestyle,NEC2,190
+0,6045c9bd56c8123a1d549e93,Bose,186,Lifestyle,NEC2,191
+0,6045c9bd56c8123a1d549e94,Bose,186,Lifestyle,Pioneer,160
+0,6045c9bd56c8123a1d549e95,Bose,186,Lifestyle,Pioneer,177
+0,6045c9bd56c8123a1d549e96,Bose,186,Lifestyle,Pioneer,178
+0,6045c9bd56c8123a1d549e97,Bose,186,Lifestyle,Pioneer,179
+0,6045c9bd56c8123a1d549e98,Bose,186,Lifestyle,Pioneer,180
+0,6045c9be56c8123a1d549e9b,Bose,186,CCF Conversion,NEC2,213
+0,6045c9be56c8123a1d549e9c,Bose,186,CCF Conversion,NEC2,229
+0,6045c9be56c8123a1d549e9a,Bose,186,CCF Conversion,NEC2,133
+0,6045c9be56c8123a1d549e99,Bose,186,CCF Conversion,NEC2,85
+0,6045c9be56c8123a1d549e9d,Bose,186,Media Center,NEC2,136
+0,6045c9be56c8123a1d549e9e,Bose,1,Media Center,Sony12,-1
+0,6045c9be56c8123a1d549ea0,Bose,186,Receiver,NEC2,75
+0,6045c9be56c8123a1d549ea1,Bose,186,Receiver,Pioneer,160
+0,6045c9be56c8123a1d549e9f,Bose,186,Receiver,NEC,75
+0,6045c9be56c8123a1d549ea3,Bose,186,Music Center,NEC1,213
+0,6045c9be56c8123a1d549ea2,Bose,186,Music Center,NEC1,85
+0,6045c9be56c8123a1d549ea6,Bose,186,Music Center,NEC2,213
+0,6045c9be56c8123a1d549ea5,Bose,186,Music Center,NEC2,133
+0,6045c9be56c8123a1d549ea4,Bose,186,Music Center,NEC2,85
+0,6045c9be56c8123a1d549ea7,Bose,186,Music Center,NEC2,229
+0,6045c9be56c8123a1d549ea8,Bose,186,Switcher/Amplifier,NEC2,85
+0,6045c9be56c8123a1d549ea9,Bose,186,System,NEC2,85
+0,6045c9be56c8123a1d549eaa,Bose,186,Tuner,NEC2,85
+0,6045c9be56c8123a1d549ead,Boxlight,48,Projector,NEC2,-1
+0,6045c9be56c8123a1d549eac,Boxlight,135,Projector,NEC1,78
+0,6045c9be56c8123a1d549eab,Boxlight,48,Projector,NEC1,-1
+0,6045c9be56c8123a1d549eae,Boxlight,48,Projector,NEC2,206
+0,6045c9be56c8123a1d549eaf,Broksonic,128,VCR,NEC1,123
+0,6045c9be56c8123a1d549eb1,Busch-Jaeger,30,Elektro,RC5,-1
+0,6045c9be56c8123a1d549eb0,Busch-Jaeger,29,Elektro,RC5,-1
+0,6045c9bf56c8123a1d549eb2,Bush,29,Light,RC5,-1
+0,6045c9bf56c8123a1d549eb3,ByDesign,71,LCD,JVC{2},-1
+0,6045c9bf56c8123a1d549eb4,CIS BOX,17,CD Player,Sony12,-1
+0,6045c9bf56c8123a1d549eb5,CIS BOX,183,DSS,Sony15,-1
+0,6045c9bf56c8123a1d549eb7,CIS BOX,26,DVD Changer,Sony20,98
+0,6045c9bf56c8123a1d549eb6,CIS BOX,26,DVD Changer,Sony20,73
+0,6045c9bf56c8123a1d549eba,CIS BOX,164,HDTV ALL,Sony15,-1
+0,6045c9bf56c8123a1d549ebb,CIS BOX,26,HDTV ALL,Sony20,26
+0,6045c9bf56c8123a1d549eb9,CIS BOX,151,HDTV ALL,Sony15,-1
+0,6045c9bf56c8123a1d549eb8,CIS BOX,1,HDTV ALL,Sony12,-1
+0,6045c9bf56c8123a1d549ebd,CIS BOX,26,DVD Player,Sony20,122
+0,6045c9bf56c8123a1d549ebc,CIS BOX,26,DVD Player,Sony20,73
+0,6045c9bf56c8123a1d549ebe,CIS BOX,84,LCD Projector,Sony15,-1
+0,6045c9bf56c8123a1d549ec0,CIS BOX,119,Plasma,Sony15,-1
+0,6045c9bf56c8123a1d549ebf,CIS BOX,1,Plasma,Sony12,-1
+0,6045c9bf56c8123a1d549ec1,CIS BOX,164,Plasma,Sony15,-1
+0,6045c9bf56c8123a1d549ec5,CIS BOX,121,Receiver,Sony15,-1
+0,6045c9bf56c8123a1d549ec4,CIS BOX,48,Receiver,Sony15,-1
+0,6045c9bf56c8123a1d549ec6,CIS BOX,144,Receiver,Sony15,-1
+0,6045c9bf56c8123a1d549ec7,CIS BOX,25,Receiver,Sony20,11
+0,6045c9bf56c8123a1d549ec8,CIS BOX,25,Receiver,Sony20,107
+0,6045c9bf56c8123a1d549ec3,CIS BOX,16,Receiver,Sony12,-1
+0,6045c9bf56c8123a1d549ec2,CIS BOX,7,Receiver,Sony12,-1
+0,6045c9c056c8123a1d549ec9,CIS BOX,2,VCR,Sony12,-1
+0,6045c9c056c8123a1d549ecb,CIS BOX,84,TV,Sony15,-1
+0,6045c9c056c8123a1d549ecc,CIS BOX,164,TV,Sony15,-1
+0,6045c9c056c8123a1d549ecd,CIS BOX,26,TV,Sony20,26
+0,6045c9c056c8123a1d549eca,CIS BOX,1,TV,Sony12,-1
+0,6045c9c056c8123a1d549ece,Cables to Go,,VGA Switcher,NEC1,191
+0,6045c9c056c8123a1d549ecf,Calrad,4,Video Switcher,NEC1,-1
+0,6045c9c056c8123a1d549ed0,Calypso,17,Amplifier,Sony12,-1
+0,6045c9c056c8123a1d549ed3,Calypso,17,Control System,Sony12,-1
+0,6045c9c056c8123a1d549ed1,Calypso,1,Control System,Sony12,-1
+0,6045c9c056c8123a1d549ed2,Calypso,7,Control System,Sony12,-1
+0,6045c9c056c8123a1d549ed4,Cambridge Audio,160,Amp/CD,NECx1,160
+0,6045c9c056c8123a1d549ed6,Cambridge Audio,16,Amp/CD,RC5,-1
+0,6045c9c056c8123a1d549ed5,Cambridge Audio,160,Amp/CD,NECx2,160
+0,6045c9c056c8123a1d549ed8,Cambridge Audio,192,Receiver,NECx1,192
+0,6045c9c056c8123a1d549ed7,Cambridge Audio,192,Receiver,NEC2,192
+0,6045c9c056c8123a1d549ed9,Cambridge Audio,16,Receiver,RC5,-1
+0,6045c9c056c8123a1d549eda,Cambridge Audio,19,Receiver,RC5,-1
+0,6045c9c056c8123a1d549edc,Cambridge Audio,12,DVD Player,RC5,-1
+0,6045c9c056c8123a1d549edb,Cambridge Audio,7,DVD Player,NEC,-1
+0,6045c9c156c8123a1d549edd,Camera,133,Camera Multi Plex,NEC1,115
+0,6045c9c156c8123a1d549ede,Canalsat,10,Satellite,RC5,-1
+0,6045c9c156c8123a1d549edf,Canon,129,Video Projector,NEC2,6
+0,6045c9c156c8123a1d549ee0,Carver,99,CD Player,Aiwa,
+0,6045c9c156c8123a1d549ee5,Carver,20,CD Player,RC5,-1
+0,6045c9c156c8123a1d549ee2,Carver,60,CD Player,NEC1,-1
+0,6045c9c156c8123a1d549ee1,Carver,42,CD Player,NEC1,-1
+0,6045c9c156c8123a1d549ee4,Carver,135,CD Player,NEC1,123
+0,6045c9c156c8123a1d549ee3,Carver,68,CD Player,NEC1,-1
+0,6045c9c156c8123a1d549ee7,Carver,135,Cassette Tape,NEC1,126
+0,6045c9c156c8123a1d549ee6,Carver,130,Cassette Tape,NEC1,111
+0,6045c9c156c8123a1d549ee8,Carver,18,Cassette Tape,RC5,-1
+0,6045c9c156c8123a1d549ee9,Carver,102,Laser Disc,Aiwa,
+0,6045c9c156c8123a1d549eea,Carver,135,Amplifier,NEC1,123
+0,6045c9c156c8123a1d549eeb,Carver,135,Tuner,NEC1,123
+0,6045c9c156c8123a1d549eed,Carver,17,Tuner,RC5,-1
+0,6045c9c156c8123a1d549eec,Carver,16,Tuner,RC5,-1
+0,6045c9c156c8123a1d549eee,Carver,20,Tuner,RC5,-1
+0,6045c9c156c8123a1d549eef,Carver,135,Receiver,NEC1,123
+0,6045c9c156c8123a1d549ef1,Carver,5,Receiver,RC5,-1
+0,6045c9c156c8123a1d549ef2,Carver,12,Receiver,RC5,-1
+0,6045c9c156c8123a1d549ef3,Carver,16,Receiver,RC5,-1
+0,6045c9c156c8123a1d549ef4,Carver,17,Receiver,RC5,-1
+0,6045c9c156c8123a1d549ef5,Carver,20,Receiver,RC5,-1
+0,6045c9c156c8123a1d549ef0,Carver,,Receiver,RC5,-1
+0,6045c9c156c8123a1d549ef6,Carver,135,Pre-Amplifier,NEC1,123
+0,6045c9c156c8123a1d549ef7,Carver,,Pre-Amplifier,RC5,-1
+0,6045c9c156c8123a1d549ef9,Carver,12,Pre-Amplifier,RC5,-1
+0,6045c9c156c8123a1d549ef8,Carver,5,Pre-Amplifier,RC5,-1
+0,6045c9c156c8123a1d549efa,Carver,16,Pre-Amplifier,RC5,-1
+0,6045c9c156c8123a1d549efb,Carver,17,Pre-Amplifier,RC5,-1
+0,6045c9c156c8123a1d549efc,Carver,20,Pre-Amplifier,RC5,-1
+0,6045c9c156c8123a1d549efd,Carver,21,Pre-Amplifier,RC5,-1
+0,6045c9c156c8123a1d549efe,Carver,23,Pre-Amplifier,RC5,-1
+0,6045c9c256c8123a1d549eff,Cary Audio Design,23,DVD Player,RC5,-1
+0,6045c9c256c8123a1d549f00,Cary Audio Design,19,Receiver,RC5,-1
+0,6045c9c256c8123a1d549f01,Cary Audio Design,4,CD Player,RC5,-1
+0,6045c9c256c8123a1d549f02,Celadon,123,IR to RS232,NEC,2
+0,6045c9c256c8123a1d549f03,Celadon,123,IR to RS232,NEC2,2
+0,6045c9c256c8123a1d549f04,Channel Master,132,Satellite,NEC1,99
+0,6045c9c256c8123a1d549f05,Channel Plus,49,Video Switcher,NEC1,235
+0,6045c9c256c8123a1d549f07,Chief Manufacturing,48,Motorized Lift,NEC1,-1
+0,6045c9c256c8123a1d549f06,Chief Manufacturing,48,Motorized Lift,NEC,-1
+0,6045c9c256c8123a1d549f08,Chief Manufacturing,130,Motorized Lift,NEC1,19
+0,6045c9c256c8123a1d549f09,Cinemateq,26,DVD Player,CanalSat,
+0,6045c9c256c8123a1d549f0a,Cinemateq,27,Video Scaler,CanalSat,1
+0,6045c9c256c8123a1d549f0b,Cisco,35,DVR,Nokia32,64
+0,6045c9c356c8123a1d549f0c,Citation,132,Surround Processor,NEC1,66
+0,6045c9c356c8123a1d549f0d,Classe Audio,201,Amplifier,RC6,-1
+0,6045c9c356c8123a1d549f0e,Classe Audio,3,Amplifier,RECS80,-1
+0,6045c9c356c8123a1d549f0f,Classe Audio,7,Amplifier,RECS80,-1
+0,6045c9c356c8123a1d549f11,Classe Audio,20,CD/DVD,RC6,-1
+0,6045c9c356c8123a1d549f10,Classe Audio,4,CD/DVD,RC6,-1
+0,6045c9c356c8123a1d549f12,Classe Audio,200,CD/DVD,RC6,-1
+0,6045c9c356c8123a1d549f16,Classe Audio,4,DVD Player,RC6,-1
+0,6045c9c356c8123a1d549f13,Classe Audio,12,DVD Player,RC5,-1
+0,6045c9c356c8123a1d549f15,Classe Audio,25,DVD Player,RC5,-1
+0,6045c9c356c8123a1d549f18,Classe Audio,7,DVD Player,RECS80,-1
+0,6045c9c356c8123a1d549f14,Classe Audio,20,DVD Player,RC5,-1
+0,6045c9c356c8123a1d549f17,Classe Audio,200,DVD Player,RC6,-1
+0,6045c9c356c8123a1d549f19,Classe Audio,16,CRCD,RC5,-1
+0,6045c9c356c8123a1d549f1a,Classe Audio,17,CRCD,RC5,-1
+0,6045c9c356c8123a1d549f1b,Classe Audio,20,CRCD,RC5,-1
+0,6045c9c356c8123a1d549f1c,Classe Audio,134,CD Player,NEC1,97
+0,6045c9c356c8123a1d549f1d,Classe Audio,20,CD Player,RC5,-1
+0,6045c9c356c8123a1d549f1e,Classe Audio,7,Integrated Amplifier,RECS80,-1
+0,6045c9c356c8123a1d549f22,Classe Audio,3,Pre-Amplifier,RECS80,-1
+0,6045c9c356c8123a1d549f1f,Classe Audio,25,Pre-Amplifier,RC5,-1
+0,6045c9c356c8123a1d549f21,Classe Audio,200,Pre-Amplifier,RC6,-1
+0,6045c9c356c8123a1d549f23,Classe Audio,7,Pre-Amplifier,RECS80,-1
+0,6045c9c356c8123a1d549f20,Classe Audio,16,Pre-Amplifier,RC6,-1
+0,6045c9c356c8123a1d549f25,Classe Audio,7,SACD,RECS80,-1
+0,6045c9c356c8123a1d549f24,Classe Audio,20,SACD,RC5,-1
+0,6045c9c356c8123a1d549f26,Classe Audio,25,Surround Processor,RC5,-1
+0,6045c9c356c8123a1d549f27,Classe Audio,116,Surround Processor,RC6,-1
+0,6045c9c356c8123a1d549f28,Classe Audio,200,Surround Processor,RC6,-1
+0,6045c9c456c8123a1d549f2a,Classe Audio,200,Surround Sound,RC6,-1
+0,6045c9c456c8123a1d549f29,Classe Audio,116,Surround Sound,RC6,-1
+0,6045c9c456c8123a1d549f2c,Classe Audio,7,Tuner,RECS80,-1
+0,6045c9c456c8123a1d549f2b,Classe Audio,17,Tuner,RC5,-1
+0,6045c9c456c8123a1d549f2d,Coby,,TV,NEC1,127
+0,6045c9c456c8123a1d549f2e,Coby,,DVD Player,NEC1,-1
+0,6045c9c456c8123a1d549f2f,Colorado Vnet,110,Music Server,NEC2,146
+0,6045c9c456c8123a1d549f33,Comcast,27,Cable Box,Panasonic_Old,-1
+0,6045c9c456c8123a1d549f30,Comcast,,Cable Box,G.I. Cable,-1
+0,6045c9c456c8123a1d549f31,Comcast,,Cable Box,G.I. Cable{1},-1
+0,6045c9c456c8123a1d549f32,Comcast,15,Cable Box,Old),-1
+0,6045c9c456c8123a1d549f34,Comcast,14,Cable Box,RCA-38,-1
+0,6045c9c456c8123a1d549f35,Comcast,15,Cable Box,RCA-38,-1
+0,6045c9c456c8123a1d549f36,Comcast,1,Cable Box,Sharp,-1
+0,6045c9c456c8123a1d549f37,Comcast,62,Cable Box,XMP-1,16
+0,6045c9c456c8123a1d549f38,Comcast,62,Cable Box,XMP-1/2,16
+0,6045c9c456c8123a1d549f39,Comcast,15,Digital Cable,Old),-1
+0,6045c9c456c8123a1d549f3a,Comcast,27,Digital Cable,Panasonic_Old,-1
+0,6045c9c456c8123a1d549f3c,Comcast,14,HD Cable with DVR,RCA-38,-1
+0,6045c9c456c8123a1d549f3b,Comcast,,HD Cable with DVR,G.I. Cable,-1
+0,6045c9c456c8123a1d549f3d,Cool Sat,64,Satellite,NEC1,64
+0,6045c9c556c8123a1d549f3f,Copland,129,CD Player,NEC1,49
+0,6045c9c556c8123a1d549f3e,Copland,128,CD Player,NEC1,114
+0,6045c9c556c8123a1d549f40,Corvo,27,Relaybox,RC5,-1
+0,6045c9c556c8123a1d549f41,Cox,,Digital Cable,G.I. Cable,-1
+0,6045c9c556c8123a1d549f42,Cox,,Digital Cable,G.I. Cable{1},-1
+0,6045c9c556c8123a1d549f43,Cox,1,Digital Cable,Sony12,-1
+0,6045c9c556c8123a1d549f44,Creek,16,Line/Volume Control,RC5,-1
+0,6045c9c556c8123a1d549f46,Crestron,1,IR Receiver,RC5,-1
+0,6045c9c556c8123a1d549f45,Crestron,,IR Receiver,RC5,-1
+0,6045c9c556c8123a1d549f48,Crestron,3,IR Receiver,RC5,-1
+0,6045c9c556c8123a1d549f47,Crestron,2,IR Receiver,RC5,-1
+0,6045c9c556c8123a1d549f49,Crestron,4,IR Receiver,RC5,-1
+0,6045c9c556c8123a1d549f4a,Crestron,30,Lighting Controller,RC5,-1
+0,6045c9c556c8123a1d549f4b,Crestron,14,Music Server,RC5,-1
+0,6045c9c556c8123a1d549f4c,Curtis Mathes,144,VCR,Panasonic,
+0,6045c9c556c8123a1d549f4d,Curtis Mathes,144,VCR,Panasonic,1
+0,6045c9c556c8123a1d549f4e,Cyberhome,114,DVD Player,NEC1,205
+0,6045c9c656c8123a1d549f4f,Cyron,2,Lighting Controller,NEC1,189
+0,6045c9c656c8123a1d549f50,D-LINK,8,MP3 Player,NEC1,230
+0,6045c9c656c8123a1d549f51,D-LINK,18,MP3 Player,NEC1,37
+0,6045c9c656c8123a1d549f52,D-LINK,8,MP3 Player,NEC2,230
+0,6045c9c656c8123a1d549f53,D-LINK,8,Media Center,NEC,231
+0,6045c9c656c8123a1d549f54,D-LINK,8,Media Center,NEC1,230
+0,6045c9c656c8123a1d549f55,D-LINK,8,Media Center,NEC1,231
+0,6045c9c656c8123a1d549f56,DK digital,,DVD Player,NEC1,-1
+0,6045c9c656c8123a1d549f59,DLO,238,HomeDock,NEC1-f16,135
+0,6045c9c656c8123a1d549f57,DLO,238,HomeDock,Apple,135
+0,6045c9c656c8123a1d549f5a,DLO,238,HomeDock,NEC1-rnc,135
+0,6045c9c656c8123a1d549f58,DLO,238,HomeDock,NEC1,135
+0,6045c9c656c8123a1d549f5c,DVDO,132,Scaler,NEC,32
+0,6045c9c656c8123a1d549f5d,DVDO,132,Scaler,NEC1,32
+0,6045c9c656c8123a1d549f5b,DVDO,,Scaler,NEC,45
+0,6045c9c656c8123a1d549f5f,DVDO,132,Video Processor,NEC,32
+0,6045c9c656c8123a1d549f5e,DVDO,,Video Processor,NEC,45
+0,6045c9c656c8123a1d549f60,DVDO,132,Video Processor,NEC1,32
+0,6045c9c656c8123a1d549f61,Da Lite,,Screen,RECS80,-1
+0,6045c9c656c8123a1d549f62,Daewoo,21,DVD Player,Proton,-1
+0,6045c9c656c8123a1d549f64,Daewoo,6,TV,NECx1,6
+0,6045c9c656c8123a1d549f65,Daewoo,20,TV,Proton,-1
+0,6045c9c656c8123a1d549f63,Daewoo,4,TV,NEC1,-1
+0,6045c9c656c8123a1d549f66,Daewoo,21,VCR,Proton,-1
+0,6045c9c756c8123a1d549f67,Dantax,,DVD Player,NEC1,-1
+0,6045c9c756c8123a1d549f68,Dedicated Micros,4,Camera Switcher,RC5,-1
+0,6045c9c756c8123a1d549f69,Dell,,TV,MCE,28
+0,6045c9c756c8123a1d549f6a,Dell,79,Video Projector,NEC2,80
+0,6045c9c756c8123a1d549f6b,Delphi,27,Satellite Receiver,RC5,-1
+0,6045c9c756c8123a1d549f6c,Denon,2,A/V Receiver,Denon,-1
+0,6045c9c756c8123a1d549f6e,Denon,12,A/V Receiver,Denon,-1
+0,6045c9c756c8123a1d549f6d,Denon,4,A/V Receiver,Denon,-1
+0,6045c9c756c8123a1d549f6f,Denon,2,A/V Receiver,Denon-K,3
+0,6045c9c756c8123a1d549f70,Denon,4,A/V Receiver,Denon-K,1
+0,6045c9c756c8123a1d549f71,Denon,4,A/V Receiver,Denon-K,2
+0,6045c9c756c8123a1d549f72,Denon,4,A/V Receiver,Denon-K,3
+0,6045c9c756c8123a1d549f73,Denon,4,A/V Receiver,Denon-K,5
+0,6045c9c756c8123a1d549f74,Denon,4,A/V Receiver,Denon-K,7
+0,6045c9c756c8123a1d549f75,Denon,7,A/V Receiver,Denon-K,5
+0,6045c9c756c8123a1d549f76,Denon,12,A/V Receiver,Denon{2},-1
+0,6045c9c756c8123a1d549f78,Denon,4,AV Processor,Denon,-1
+0,6045c9c756c8123a1d549f77,Denon,2,AV Processor,Denon,-1
+0,6045c9c756c8123a1d549f79,Denon,12,AV Processor,Denon,-1
+0,6045c9c756c8123a1d549f7c,Denon,6,Amplifier,Denon,-1
+0,6045c9c756c8123a1d549f7a,Denon,2,Amplifier,Denon,-1
+0,6045c9c756c8123a1d549f7e,Denon,12,Amplifier,Denon,-1
+0,6045c9c756c8123a1d549f7b,Denon,4,Amplifier,Denon,-1
+0,6045c9c756c8123a1d549f7d,Denon,8,Amplifier,Denon,-1
+0,6045c9c756c8123a1d549f7f,Denon,2,Blu-Ray,Denon-K,1
+0,6045c9c856c8123a1d549f80,Denon,4,CD Jukebox,Denon,-1
+0,6045c9c856c8123a1d549f81,Denon,8,CD Jukebox,Denon,-1
+0,6045c9c856c8123a1d549f83,Denon,6,CD Receiver,Denon,-1
+0,6045c9c856c8123a1d549f84,Denon,8,CD Receiver,Denon,-1
+0,6045c9c856c8123a1d549f85,Denon,12,CD Receiver,Denon,-1
+0,6045c9c856c8123a1d549f82,Denon,4,CD Receiver,Denon,-1
+0,6045c9c856c8123a1d549f86,Denon,4,CD Player,Denon,-1
+0,6045c9c856c8123a1d549f88,Denon,8,CD Player,Denon,-1
+0,6045c9c856c8123a1d549f8a,Denon,8,CD Player,Denon{2},-1
+0,6045c9c856c8123a1d549f8b,Denon,168,CD Player,Pioneer,-1
+0,6045c9c856c8123a1d549f89,Denon,8,CD Player,Denon{1},-1
+0,6045c9c856c8123a1d549f87,Denon,6,CD Player,Denon,-1
+0,6045c9c856c8123a1d549f8c,Denon,175,CD Player,Pioneer,-1
+0,6045c9c856c8123a1d549f8f,Denon,8,Cassette Tape,Denon,-1
+0,6045c9c856c8123a1d549f8d,Denon,2,Cassette Tape,Denon,-1
+0,6045c9c856c8123a1d549f8e,Denon,4,Cassette Tape,Denon,-1
+0,6045c9c856c8123a1d549f90,Denon,12,Cassette Tape,Denon,-1
+0,6045c9c856c8123a1d549f91,Denon,4,DAT,Denon,-1
+0,6045c9c856c8123a1d549f92,Denon,2,DVD Player,Denon,-1
+0,6045c9c856c8123a1d549f94,Denon,6,DVD Player,Denon,-1
+0,6045c9c856c8123a1d549f95,Denon,8,DVD Player,Denon,-1
+0,6045c9c856c8123a1d549f96,Denon,2,DVD Player,Denon-K,1
+0,6045c9c856c8123a1d549f97,Denon,8,DVD Player,Denon{2},-1
+0,6045c9c856c8123a1d549f93,Denon,4,DVD Player,Denon,-1
+0,6045c9c856c8123a1d549f98,Denon,176,DVD Player,Panasonic,
+0,6045c9c856c8123a1d549f99,Denon,168,Laser Disc,Pioneer,-1
+0,6045c9c856c8123a1d549f9a,Denon,6,Mini-Disc,Denon,-1
+0,6045c9c856c8123a1d549f9b,Denon,2,Pre-Amplifier,Denon,-1
+0,6045c9c856c8123a1d549f9c,Denon,12,Pre-Amplifier,Denon,-1
+0,6045c9c856c8123a1d549fa0,Denon,4,Processor,Denon-K,1
+0,6045c9c856c8123a1d549f9e,Denon,4,Processor,Denon,-1
+0,6045c9c856c8123a1d549f9d,Denon,2,Processor,Denon,-1
+0,6045c9c856c8123a1d549f9f,Denon,12,Processor,Denon,-1
+0,6045c9c856c8123a1d549fa1,Denon,4,Processor,Denon-K,3
+0,6045c9c856c8123a1d549fa2,Denon,4,Processor,Denon-K,5
+0,6045c9c956c8123a1d549fa3,Denon,4,Receiver/CD,Denon,-1
+0,6045c9c956c8123a1d549fa4,Denon,6,Receiver/CD,Denon,-1
+0,6045c9c956c8123a1d549fa6,Denon,12,Receiver/CD,Denon,-1
+0,6045c9c956c8123a1d549fa5,Denon,8,Receiver/CD,Denon,-1
+0,6045c9c956c8123a1d549fa9,Denon,6,Receiver,Denon,-1
+0,6045c9c956c8123a1d549fa8,Denon,4,Receiver,Denon,-1
+0,6045c9c956c8123a1d549fa7,Denon,2,Receiver,Denon,-1
+0,6045c9c956c8123a1d549faa,Denon,8,Receiver,Denon,-1
+0,6045c9c956c8123a1d549fab,Denon,12,Receiver,Denon,-1
+0,6045c9c956c8123a1d549fad,Denon,4,Receiver,Denon-K,1
+0,6045c9c956c8123a1d549fae,Denon,4,Receiver,Denon-K,2
+0,6045c9c956c8123a1d549fac,Denon,2,Receiver,Denon-K,3
+0,6045c9c956c8123a1d549faf,Denon,4,Receiver,Denon-K,3
+0,6045c9c956c8123a1d549fb0,Denon,4,Receiver,Denon-K,5
+0,6045c9c956c8123a1d549fb1,Denon,4,Receiver,Denon-K,7
+0,6045c9c956c8123a1d549fb3,Denon,7,Receiver,Denon-K,5
+0,6045c9c956c8123a1d549fb2,Denon,7,Receiver,Denon-K,4
+0,6045c9c956c8123a1d549fb4,Denon,7,Receiver,Denon-K,6
+0,6045c9c956c8123a1d549fb5,Denon,7,Receiver,Denon-K,7
+0,6045c9c956c8123a1d549fb6,Denon,7,Receiver,Denon-K,8
+0,6045c9c956c8123a1d549fb7,Denon,2,Receiver,Denon{1},-1
+0,6045c9c956c8123a1d549fb8,Denon,4,Receiver,Denon{1},-1
+0,6045c9c956c8123a1d549fb9,Denon,12,Receiver,Denon{1},-1
+0,6045c9c956c8123a1d549fba,Denon,2,Receiver,Denon{2},-1
+0,6045c9c956c8123a1d549fbb,Denon,6,Receiver,Denon{2},-1
+0,6045c9c956c8123a1d549fbc,Denon,12,Receiver,Denon{2},-1
+0,6045c9c956c8123a1d549fbd,Denon,80,Receiver,NEC1,-1
+0,6045c9c956c8123a1d549fbe,Denon,96,Receiver,NEC1,-1
+0,6045c9c956c8123a1d549fbf,Denon,97,Receiver,NEC2,-1
+0,6045c9c956c8123a1d549fc0,Denon,2,Surround Receiver,Denon,-1
+0,6045c9c956c8123a1d549fc1,Denon,4,Surround Receiver,Denon,-1
+0,6045c9c956c8123a1d549fc3,Denon,12,Surround Receiver,Denon{1},-1
+0,6045c9c956c8123a1d549fc2,Denon,12,Surround Receiver,Denon,-1
+0,6045c9c956c8123a1d549fc4,Denon,2,Surround Receiver,Denon{2},-1
+0,6045c9c956c8123a1d549fc5,Denon,12,Surround Receiver,Denon{2},-1
+0,6045c9c956c8123a1d549fc6,Denon,176,Unknown,Panasonic,
+0,6045c9c956c8123a1d549fc7,Digital Music Expres,38,DMX,ScAtl-6,-1
+0,6045c9c956c8123a1d549fcb,Denon,6,Tuner,??Kaseikyo-84.50,4
+0,6045c9c956c8123a1d549fc9,Denon,6,Tuner,??Kaseikyo-84.50,2
+0,6045c9c956c8123a1d549fca,Denon,6,Tuner,??Kaseikyo-84.50,3
+0,6045c9c956c8123a1d549fcc,Denon,6,Tuner,??Kaseikyo-84.50,5
+0,6045c9c956c8123a1d549fc8,Denon,6,Tuner,??Kaseikyo-84.50,1
+0,6045c9c956c8123a1d549fce,Denon,6,Tuner,??Kaseikyo-84.50,18
+0,6045c9c956c8123a1d549fcf,Denon,6,Tuner,??Kaseikyo-84.50,19
+0,6045c9c956c8123a1d549fd0,Denon,6,Tuner,??Kaseikyo-84.50,20
+0,6045c9c956c8123a1d549fcd,Denon,6,Tuner,??Kaseikyo-84.50,17
+0,6045c9c956c8123a1d549fd1,Denon,6,Tuner,??Kaseikyo-84.50,21
+0,6045c9c956c8123a1d549fd2,Denon,6,Tuner,??Kaseikyo-84.50,22
+0,6045c9c956c8123a1d549fd3,Denon,6,Tuner,??Kaseikyo-84.50,33
+0,6045c9c956c8123a1d549fd4,Denon,6,Tuner,??Kaseikyo-84.50,34
+0,6045c9c956c8123a1d549fd5,Denon,6,Tuner,??Kaseikyo-84.50,35
+0,6045c9c956c8123a1d549fd6,Denon,6,Tuner,??Kaseikyo-84.50,37
+0,6045c9c956c8123a1d549fd7,Denon,6,Tuner,??Kaseikyo-84.50,38
+0,6045c9c956c8123a1d549fd8,Denon,6,Tuner,??Kaseikyo-84.50,49
+0,6045c9c956c8123a1d549fd9,Denon,6,Tuner,??Kaseikyo-84.50,50
+0,6045c9c956c8123a1d549fda,Denon,6,Tuner,??Kaseikyo-84.50,51
+0,6045c9c956c8123a1d549fdb,Denon,6,Tuner,??Kaseikyo-84.50,52
+0,6045c9c956c8123a1d549fdc,Denon,6,Tuner,??Kaseikyo-84.50,54
+0,6045c9c956c8123a1d549fdd,Denon,6,Tuner,??Kaseikyo-84.50,65
+0,6045c9c956c8123a1d549fde,Denon,6,Tuner,??Kaseikyo-84.50,67
+0,6045c9c956c8123a1d549fdf,Denon,6,Tuner,??Kaseikyo-84.50,68
+0,6045c9c956c8123a1d549fe0,Denon,6,Tuner,??Kaseikyo-84.50,69
+0,6045c9c956c8123a1d549fe1,Denon,6,Tuner,??Kaseikyo-84.50,70
+0,6045c9c956c8123a1d549fe2,Denon,6,Tuner,??Kaseikyo-84.50,81
+0,6045c9c956c8123a1d549fe3,Denon,6,Tuner,??Kaseikyo-84.50,82
+0,6045c9c956c8123a1d549fe4,Denon,6,Tuner,??Kaseikyo-84.50,84
+0,6045c9c956c8123a1d549fe5,Denon,6,Tuner,??Kaseikyo-84.50,85
+0,6045c9c956c8123a1d549fe6,Denon,6,Tuner,??Kaseikyo-84.50,86
+0,6045c9c956c8123a1d549fe7,Denon,6,Tuner,??Kaseikyo-84.50,97
+0,6045c9c956c8123a1d549fe8,Denon,6,Tuner,??Kaseikyo-84.50,98
+0,6045c9c956c8123a1d549fe9,Denon,6,Tuner,??Kaseikyo-84.50,99
+0,6045c9c956c8123a1d549fea,Denon,6,Tuner,??Kaseikyo-84.50,100
+0,6045c9c956c8123a1d549feb,Denon,6,Tuner,??Kaseikyo-84.50,101
+0,6045c9c956c8123a1d549fec,Denon,6,Tuner,??Kaseikyo-84.50,102
+0,6045c9c956c8123a1d549fed,Denon,6,Tuner,??Kaseikyo-84.50,114
+0,6045c9c956c8123a1d549fee,Denon,6,Tuner,??Kaseikyo-84.50,115
+0,6045c9c956c8123a1d549fef,Denon,6,Tuner,??Kaseikyo-84.50,116
+0,6045c9c956c8123a1d549ff0,Denon,6,Tuner,??Kaseikyo-84.50,117
+0,6045c9c956c8123a1d549ff1,Denon,6,Tuner,??Kaseikyo-84.50,118
+0,6045c9c956c8123a1d549ff2,Denon,6,Tuner,??Kaseikyo-84.50,129
+0,6045c9c956c8123a1d549ff3,Denon,6,Tuner,??Kaseikyo-84.50,130
+0,6045c9c956c8123a1d549ff4,Denon,6,Tuner,??Kaseikyo-84.50,131
+0,6045c9c956c8123a1d549ff8,Denon,6,Tuner,??Kaseikyo-84.50,145
+0,6045c9c956c8123a1d549ff5,Denon,6,Tuner,??Kaseikyo-84.50,132
+0,6045c9c956c8123a1d549ff7,Denon,6,Tuner,??Kaseikyo-84.50,134
+0,6045c9c956c8123a1d549ff9,Denon,6,Tuner,??Kaseikyo-84.50,146
+0,6045c9c956c8123a1d549ff6,Denon,6,Tuner,??Kaseikyo-84.50,133
+0,6045c9c956c8123a1d549ffa,Denon,6,Tuner,??Kaseikyo-84.50,147
+0,6045c9c956c8123a1d549ffb,Denon,6,Tuner,??Kaseikyo-84.50,148
+0,6045c9c956c8123a1d549ffc,Denon,6,Tuner,??Kaseikyo-84.50,149
+0,6045c9c956c8123a1d549ffd,Denon,6,Tuner,??Kaseikyo-84.50,150
+0,6045c9c956c8123a1d549ffe,Denon,6,Tuner,??Kaseikyo-84.50,161
+0,6045c9c956c8123a1d549fff,Denon,6,Tuner,??Kaseikyo-84.50,162
+0,6045c9c956c8123a1d54a000,Denon,6,Tuner,??Kaseikyo-84.50,163
+0,6045c9c956c8123a1d54a001,Denon,6,Tuner,??Kaseikyo-84.50,164
+0,6045c9c956c8123a1d54a002,Denon,6,Tuner,??Kaseikyo-84.50,165
+0,6045c9c956c8123a1d54a003,Denon,6,Tuner,??Kaseikyo-84.50,166
+0,6045c9c956c8123a1d54a004,Denon,6,Tuner,??Kaseikyo-84.50,177
+0,6045c9c956c8123a1d54a005,Denon,6,Tuner,??Kaseikyo-84.50,178
+0,6045c9c956c8123a1d54a006,Denon,6,Tuner,??Kaseikyo-84.50,179
+0,6045c9c956c8123a1d54a007,Denon,6,Tuner,??Kaseikyo-84.50,180
+0,6045c9c956c8123a1d54a008,Denon,6,Tuner,??Kaseikyo-84.50,181
+0,6045c9c956c8123a1d54a009,Denon,6,Tuner,??Kaseikyo-84.50,182
+0,6045c9c956c8123a1d54a00a,Denon,6,Tuner,??Kaseikyo-84.50,193
+0,6045c9c956c8123a1d54a00b,Denon,6,Tuner,??Kaseikyo-84.50,194
+0,6045c9c956c8123a1d54a00c,Denon,6,Tuner,??Kaseikyo-84.50,195
+0,6045c9c956c8123a1d54a00d,Denon,6,Tuner,??Kaseikyo-84.50,196
+0,6045c9c956c8123a1d54a00e,Denon,6,Tuner,??Kaseikyo-84.50,197
+0,6045c9c956c8123a1d54a00f,Denon,6,Tuner,??Kaseikyo-84.50,198
+0,6045c9c956c8123a1d54a010,Denon,6,Tuner,??Kaseikyo-84.50,209
+0,6045c9c956c8123a1d54a011,Denon,6,Tuner,??Kaseikyo-84.50,210
+0,6045c9c956c8123a1d54a012,Denon,6,Tuner,??Kaseikyo-84.50,211
+0,6045c9c956c8123a1d54a013,Denon,6,Tuner,??Kaseikyo-84.50,212
+0,6045c9c956c8123a1d54a014,Denon,6,Tuner,??Kaseikyo-84.50,213
+0,6045c9c956c8123a1d54a015,Denon,6,Tuner,??Kaseikyo-84.50,214
+0,6045c9c956c8123a1d54a016,Denon,6,Tuner,??Kaseikyo-84.50,225
+0,6045c9c956c8123a1d54a017,Denon,6,Tuner,??Kaseikyo-84.50,226
+0,6045c9c956c8123a1d54a018,Denon,6,Tuner,??Kaseikyo-84.50,227
+0,6045c9c956c8123a1d54a019,Denon,6,Tuner,??Kaseikyo-84.50,228
+0,6045c9c956c8123a1d54a01a,Denon,6,Tuner,??Kaseikyo-84.50,229
+0,6045c9c956c8123a1d54a01b,Denon,6,Tuner,??Kaseikyo-84.50,230
+0,6045c9c956c8123a1d54a01c,Denon,6,Tuner,??Kaseikyo-84.50,241
+0,6045c9c956c8123a1d54a01d,Denon,6,Tuner,??Kaseikyo-84.50,242
+0,6045c9c956c8123a1d54a01e,Denon,6,Tuner,??Kaseikyo-84.50,243
+0,6045c9c956c8123a1d54a01f,Denon,6,Tuner,??Kaseikyo-84.50,244
+0,6045c9c956c8123a1d54a020,Denon,6,Tuner,??Kaseikyo-84.50,245
+0,6045c9c956c8123a1d54a021,Denon,6,Tuner,??Kaseikyo-84.50,246
+0,6045c9c956c8123a1d54a022,Denon,2,Tuner,Denon,-1
+0,6045c9c956c8123a1d54a023,Denon,12,Tuner,Denon,-1
+0,6045c9c956c8123a1d54a024,Denon,12,Tuner,Denon{1},-1
+0,6045c9c956c8123a1d54a025,Denon,6,Tuner,Kaseikyo-84.50,6
+0,6045c9c956c8123a1d54a026,Denon,6,Tuner,Kaseikyo-84.50,36
+0,6045c9c956c8123a1d54a027,Denon,6,Tuner,Kaseikyo-84.50,53
+0,6045c9c956c8123a1d54a028,Denon,6,Tuner,Kaseikyo-84.50,66
+0,6045c9c956c8123a1d54a029,Denon,6,Tuner,Kaseikyo-84.50,83
+0,6045c9c956c8123a1d54a02a,Denon,6,Tuner,Kaseikyo-84.50,113
+0,6045c9c956c8123a1d54a02b,Digital Projection,32,Projector,NEC1,-1
+0,6045c9c956c8123a1d54a02d,Digital Projection,32,Video Projector,NEC2,-1
+0,6045c9c956c8123a1d54a02c,Digital Projection,32,Video Projector,NEC1,-1
+0,6045c9c956c8123a1d54a02e,Digital Projection,58,Video Scaler,NEC1,-1
+0,6045c9ca56c8123a1d54a02f,Digital Stream,4,HDTV Tuner,NEC1,2
+0,6045c9ca56c8123a1d54a030,DigitalView,128,HDTV Tuner,NEC1,-1
+0,6045c9ca56c8123a1d54a031,DirecTV,12,Basic Satellite,DirecTV,-1
+0,6045c9ca56c8123a1d54a032,DirecTV,7,Basic Satellite,RCA,-1
+0,6045c9ca56c8123a1d54a033,DirecTV,12,DSS,DirecTV,-1
+0,6045c9ca56c8123a1d54a035,DirecTV,133,DVR,Tivo unit=1,48
+0,6045c9ca56c8123a1d54a034,DirecTV,133,DVR,Tivo unit=0,48
+0,6045c9ca56c8123a1d54a036,DirecTV,12,HDTV Tuner,DirecTV,-1
+0,6045c9ca56c8123a1d54a037,DirecTV,2,Receiver HDDVR,DirecTV,-1
+0,6045c9ca56c8123a1d54a039,DirecTV,12,Receiver HDDVR,DirecTV,-1
+0,6045c9ca56c8123a1d54a038,DirecTV,3,Receiver HDDVR,DirecTV,-1
+0,6045c9ca56c8123a1d54a03a,DirecTV,13,Receiver HDDVR,DirecTV,-1
+0,6045c9ca56c8123a1d54a03b,DirecTV,71,Receiver HDDVR,Mitsubishi,-1
+0,6045c9ca56c8123a1d54a03d,DirecTV,15,Receiver HDDVR,Old),-1
+0,6045c9ca56c8123a1d54a03c,DirecTV,64,Receiver HDDVR,NEC1,-1
+0,6045c9ca56c8123a1d54a040,DirecTV,12,Receiver HD,NEC1,251
+0,6045c9ca56c8123a1d54a03e,DirecTV,12,Receiver HD,DirecTV,-1
+0,6045c9ca56c8123a1d54a03f,DirecTV,13,Receiver HD,DirecTV,-1
+0,6045c9ca56c8123a1d54a041,DirecTV,12,Receiver SD,DirecTV,-1
+0,6045c9ca56c8123a1d54a042,DirecTV,13,Receiver SD,DirecTV,-1
+0,6045c9ca56c8123a1d54a045,DirecTV,133,Receiver SDDVR,Tivo unit=0,48
+0,6045c9ca56c8123a1d54a043,DirecTV,12,Receiver SDDVR,DirecTV,-1
+0,6045c9ca56c8123a1d54a044,DirecTV,15,Receiver SDDVR,Old),-1
+0,6045c9ca56c8123a1d54a046,DirecTV,133,Receiver/HDR,Tivo unit=0,48
+0,6045c9cb56c8123a1d54a049,DirecTV,133,Satellite,Tivo unit=0,48
+0,6045c9cb56c8123a1d54a047,DirecTV,12,Satellite,DirecTV,-1
+0,6045c9cb56c8123a1d54a048,DirecTV,4,Satellite,NEC1,-1
+0,6045c9cb56c8123a1d54a04a,DirecTV,133,Tivo/Sat Reciever,Tivo unit=0,48
+0,6045c9cb56c8123a1d54a04b,DirecTV,133,Tivo/Sat Reciever,Tivo unit=1,48
+0,6045c9cb56c8123a1d54a04d,DirecTV,12,Unknown,NEC1,251
+0,6045c9cb56c8123a1d54a04c,DirecTV,12,Unknown,DirecTV,-1
+0,6045c9cb56c8123a1d54a04e,DirecTV,15,Unknown,RCA (Old),-1
+0,6045c9cb56c8123a1d54a04f,Dish Network,,Satelite DVR,Dish_Network,
+0,6045c9cb56c8123a1d54a051,Dish Network,15,Satelite DVR,RCA,-1
+0,6045c9cb56c8123a1d54a050,Dish Network,1,Satelite DVR,Dish_Network,
+0,6045c9cb56c8123a1d54a052,Draper,,Electric Screen,RECS80,-1
+0,6045c9cb56c8123a1d54a053,Draper,,Dropdown Screen,RECS80,-1
+0,6045c9cb56c8123a1d54a054,Draper,2,Screen,Akai,-1
+0,6045c9cb56c8123a1d54a055,Draper,,Screen,RECS80,-1
+0,6045c9cb56c8123a1d54a059,Dream,25,Satellite,XMP-1,
+0,6045c9cb56c8123a1d54a057,Dream,10,Satellite,XMP-1,
+0,6045c9cb56c8123a1d54a056,Dream,,Satellite,RC5,-1
+0,6045c9cb56c8123a1d54a058,Dream,11,Satellite,XMP-1,
+0,6045c9cb56c8123a1d54a05a,Dream,26,Satellite,XMP-1,
+0,6045c9cb56c8123a1d54a05b,Dream,41,Satellite,XMP-1,
+0,6045c9cb56c8123a1d54a05c,Dream,10,Satellite,XMP-1/2,
+0,6045c9cb56c8123a1d54a05d,Dream,26,Satellite,XMP-1/2,
+0,6045c9cb56c8123a1d54a05e,Dream Vision,135,DLP Projector,NEC1,78
+0,6045c9cc56c8123a1d54a05f,Dwin,15,Plasma,Old),-1
+0,6045c9cc56c8123a1d54a060,Dwin,15,Projector,Old),-1
+0,6045c9cc56c8123a1d54a061,Dwin,1,Line Multiplier,Sharp,-1
+0,6045c9cc56c8123a1d54a062,Dwin,15,TV,Old),-1
+0,6045c9cc56c8123a1d54a064,Dwin,7,Video Projector,Zenith,
+0,6045c9cc56c8123a1d54a063,Dwin,15,Video Projector,Old),-1
+0,6045c9cc56c8123a1d54a066,Dish Network,,Satellite,Dish_Network,
+0,6045c9cc56c8123a1d54a065,Dish Network,28,Satellite,Barco,-1
+0,6045c9cc56c8123a1d54a069,Dish Network,,Satellite,Dish_Network,3
+0,6045c9cc56c8123a1d54a068,Dish Network,,Satellite,Dish_Network,2
+0,6045c9cc56c8123a1d54a06a,Dish Network,,Satellite,Dish_Network,4
+0,6045c9cc56c8123a1d54a06b,Dish Network,,Satellite,Dish_Network,5
+0,6045c9cc56c8123a1d54a06c,Dish Network,,Satellite,Dish_Network,6
+0,6045c9cc56c8123a1d54a06d,Dish Network,,Satellite,Dish_Network,7
+0,6045c9cc56c8123a1d54a067,Dish Network,,Satellite,Dish_Network,1
+0,6045c9cc56c8123a1d54a06e,Dish Network,,Satellite,Dish_Network,12
+0,6045c9cc56c8123a1d54a06f,Dish Network,,Satellite,Dish_Network,31
+0,6045c9cc56c8123a1d54a070,Dish Network,1,Satellite,Dish_Network,
+0,6045c9cc56c8123a1d54a072,Dish Network,1,Satellite,Dish_Network,2
+0,6045c9cc56c8123a1d54a071,Dish Network,1,Satellite,Dish_Network,1
+0,6045c9cc56c8123a1d54a073,Dish Network,1,Satellite,Dish_Network,3
+0,6045c9cc56c8123a1d54a074,Dish Network,1,Satellite,Dish_Network,4
+0,6045c9cc56c8123a1d54a075,Dish Network,1,Satellite,Dish_Network,5
+0,6045c9cc56c8123a1d54a076,Dish Network,1,Satellite,Dish_Network,6
+0,6045c9cc56c8123a1d54a077,Dish Network,1,Satellite,Dish_Network,7
+0,6045c9cc56c8123a1d54a079,Dish Network,4,Satellite,Dish_Network,
+0,6045c9cc56c8123a1d54a078,Dish Network,1,Satellite,Dish_Network,12
+0,6045c9cc56c8123a1d54a07a,Dish Network,4,Satellite,Dish_Network,5
+0,6045c9cc56c8123a1d54a07b,Dish Network,8,Satellite,Dish_Network,
+0,6045c9cc56c8123a1d54a07c,Dish Network,16,Satellite,Dish_Network,
+0,6045c9cc56c8123a1d54a07d,Dish Network,24,Satellite,Dish_Network,
+0,6045c9cc56c8123a1d54a07e,Dish Network,15,Satellite,RCA,-1
+0,6045c9cc56c8123a1d54a07f,Dish Network,48,Satellite,Sony15,-1
+0,6045c9cc56c8123a1d54a080,Echostar,,Dish Network,Dish_Network,
+0,6045c9cc56c8123a1d54a082,Echostar,1,PVR SAT,Dish_Network,
+0,6045c9cc56c8123a1d54a081,Echostar,,PVR SAT,Dish_Network,
+0,6045c9cc56c8123a1d54a083,Echostar,2,Satelite DVR,Denon,-1
+0,6045c9cc56c8123a1d54a084,Echostar,,Satelite DVR,Dish_Network,
+0,6045c9cc56c8123a1d54a087,Echostar,1,Satelite DVR,Dish_Network,4
+0,6045c9cc56c8123a1d54a086,Echostar,1,Satelite DVR,Dish_Network,
+0,6045c9cc56c8123a1d54a085,Echostar,,Satelite DVR,Dish_Network,4
+0,6045c9cd56c8123a1d54a089,Echostar,1,Sat/PVR Recorder Box,Dish_Network,4
+0,6045c9cd56c8123a1d54a088,Echostar,,Sat/PVR Recorder Box,Dish_Network,4
+0,6045c9cd56c8123a1d54a08a,Echostar,,DSS,Dish_Network,
+0,6045c9cd56c8123a1d54a08c,Echostar,1,Satellite,Dish_Network,
+0,6045c9cd56c8123a1d54a08e,Echostar,4,Satellite,NEC1,-1
+0,6045c9cd56c8123a1d54a08b,Echostar,,Satellite,Dish_Network,
+0,6045c9cd56c8123a1d54a08d,Echostar,16,Satellite,Dish_Network,
+0,6045c9cd56c8123a1d54a08f,Echostar,,DVR,Dish_Network,
+0,6045c9cd56c8123a1d54a090,Echostar,1,DVR,Dish_Network,
+0,6045c9cd56c8123a1d54a091,Elan,,A/V Distributor,Velleman,-1
+0,6045c9cd56c8123a1d54a092,Dwin,1,Video Processor,Sharp,-1
+0,6045c9cd56c8123a1d54a093,Dwin,7,Video Processor,Zenith,
+0,6045c9cd56c8123a1d54a094,Elan,15,DVD Manager,RC5,-1
+0,6045c9cd56c8123a1d54a095,Elan,1,IR Router,Velleman,-1
+0,6045c9cd56c8123a1d54a096,Elan,2,IR Router,Velleman,-1
+0,6045c9cd56c8123a1d54a097,Elan,,Camera Switcher,NEC,-1
+0,6045c9cd56c8123a1d54a098,Elan,,Camera Switcher,NEC1,-1
+0,6045c9cd56c8123a1d54a09b,Elan,5,Master Controller,RECS80,-1
+0,6045c9cd56c8123a1d54a09a,Elan,1,Master Controller,RECS80,-1
+0,6045c9cd56c8123a1d54a099,Elan,,Master Controller,RECS80,-1
+0,6045c9cd56c8123a1d54a09c,Elan,96,DMX,NEC1,-1
+0,6045c9cd56c8123a1d54a09d,Elan,99,DMX,NEC1,-1
+0,6045c9cd56c8123a1d54a09e,Elan,100,DMX,NEC1,-1
+0,6045c9cd56c8123a1d54a09f,Elan,96,DMX,NEC2,-1
+0,6045c9cd56c8123a1d54a0a0,Elan,14,DMX,RC5,-1
+0,6045c9ce56c8123a1d54a0a3,Elan,1,HD,RECS80,-1
+0,6045c9ce56c8123a1d54a0a1,Elan,2,HD,Lumagen,-1
+0,6045c9ce56c8123a1d54a0a4,Elan,5,HD,RECS80,-1
+0,6045c9ce56c8123a1d54a0a5,Elan,,HD,Velleman,-1
+0,6045c9ce56c8123a1d54a0a7,Elan,4,HD,Velleman,-1
+0,6045c9ce56c8123a1d54a0a2,Elan,,HD,RECS80,-1
+0,6045c9ce56c8123a1d54a0a6,Elan,1,HD,Velleman,-1
+0,6045c9ce56c8123a1d54a0a8,Elan,5,HD,Velleman,-1
+0,6045c9ce56c8123a1d54a0a9,Elan,96,Jukebox,NEC,-1
+0,6045c9ce56c8123a1d54a0aa,Elan,,Pre-Amplifier,RECS80,-1
+0,6045c9ce56c8123a1d54a0ab,Elan,26,Satellite Radio,ScAtl-6,-1
+0,6045c9ce56c8123a1d54a0ac,Elan,129,Tuner,NEC1,115
+0,6045c9ce56c8123a1d54a0ad,Elan,,Video Controller,RECS80,-1
+0,6045c9ce56c8123a1d54a0ae,Elan,,Video Switcher,Velleman,-1
+0,6045c9ce56c8123a1d54a0af,Elan,1,Video Switcher,Velleman,-1
+0,6045c9ce56c8123a1d54a0b2,Elan,,Volume Control,Velleman,-1
+0,6045c9ce56c8123a1d54a0b0,Elan,1,Volume Control,NEC2,241
+0,6045c9ce56c8123a1d54a0b1,Elan,255,Volume Control,NEC2,15
+0,6045c9ce56c8123a1d54a0b3,Electrocompaniet,20,CD Player,RC5,-1
+0,6045c9ce56c8123a1d54a0b4,Electrocompaniet,16,Integrated Amplifier,RC5,-1
+0,6045c9cf56c8123a1d54a0b5,Electrokinetics,,Plasma Lift,NEC1,-1
+0,6045c9cf56c8123a1d54a0b6,Elmo,128,Camera,NEC1,-1
+0,6045c9cf56c8123a1d54a0b7,Elmo,132,Video Projector,NECx1,132
+0,6045c9cf56c8123a1d54a0b8,Elmo,134,Video Projector,NECx1,134
+0,6045c9cf56c8123a1d54a0b9,Emerson,40,VCR,Emerson,-1
+0,6045c9cf56c8123a1d54a0ba,Emerson,4,VCR,NEC1,-1
+0,6045c9cf56c8123a1d54a0bb,Emerson,21,VCR,Proton,-1
+0,6045c9cf56c8123a1d54a0be,Emerson,135,TV,NEC1,34
+0,6045c9cf56c8123a1d54a0bc,Emerson,135,TV,NEC,34
+0,6045c9cf56c8123a1d54a0bd,Emerson,,TV,NEC1,-1
+0,6045c9cf56c8123a1d54a0bf,Epson,131,Video Projector,NEC2,85
+0,6045c9cf56c8123a1d54a0c0,Epson,131,Projector,NEC2,85
+0,6045c9cf56c8123a1d54a0c3,Escient,91,CD Management,Sony15,-1
+0,6045c9cf56c8123a1d54a0c1,Escient,,CD Management,Sejin-1-38,
+0,6045c9cf56c8123a1d54a0c4,Escient,14,CD Management,XMP-1/2,
+0,6045c9cf56c8123a1d54a0c5,Escient,14,CD Management,XMP-2,
+0,6045c9cf56c8123a1d54a0c2,Escient,,CD Management,Sejin-1-56,
+0,6045c9cf56c8123a1d54a0c7,Escient,8,DVD Library,Nokia12,-1
+0,6045c9cf56c8123a1d54a0c6,Escient,1,DVD Library,MCE,22
+0,6045c9cf56c8123a1d54a0cb,Escient,4,DVD Player,MCE,22
+0,6045c9cf56c8123a1d54a0c8,Escient,1,DVD Player,MCE,22
+0,6045c9cf56c8123a1d54a0ca,Escient,3,DVD Player,MCE,22
+0,6045c9cf56c8123a1d54a0c9,Escient,2,DVD Player,MCE,22
+0,6045c9cf56c8123a1d54a0cc,Escient,8,DVD Player,Nokia12,-1
+0,6045c9d056c8123a1d54a0cd,Escient,15,Digital Jukebox,XMP,
+0,6045c9d056c8123a1d54a0cf,Escient,15,Digital Jukebox,XMP-2,
+0,6045c9d056c8123a1d54a0ce,Escient,15,Digital Jukebox,XMP-1/2,
+0,6045c9d056c8123a1d54a0d1,Escient,15,Digital Media Receiver,RCA,-1
+0,6045c9d056c8123a1d54a0d0,Escient,1,Digital Media Receiver,MCE,22
+0,6045c9d056c8123a1d54a0d2,Escient,15,Hard Drive Recorder,XMP-1/2,
+0,6045c9d056c8123a1d54a0d3,Escient,15,Hard Drive Recorder,XMP-2,
+0,6045c9d056c8123a1d54a0d5,Escient,,CD Jukebox,Sejin-1-38,
+0,6045c9d056c8123a1d54a0d6,Escient,,CD Jukebox,Sejin-1-56,
+0,6045c9d056c8123a1d54a0d4,Escient,48,CD Jukebox,Mitsubishi,-1
+0,6045c9d056c8123a1d54a0d7,Escient,91,CD Jukebox,Sony15,-1
+0,6045c9d056c8123a1d54a0d8,Escient,15,CD Jukebox,XMP,
+0,6045c9d056c8123a1d54a0d9,Escient,15,CD Jukebox,XMP-1/2,
+0,6045c9d056c8123a1d54a0da,Escient,14,CD Jukebox,XMP-2,
+0,6045c9d056c8123a1d54a0db,Escient,15,CD Jukebox,XMP-2,
+0,6045c9d056c8123a1d54a0dd,Escient,1,MP3 Player,MCE,22
+0,6045c9d056c8123a1d54a0df,Escient,14,MP3 Player,RCA-38,-1
+0,6045c9d056c8123a1d54a0de,Escient,4,MP3 Player,MCE,22
+0,6045c9d056c8123a1d54a0dc,Escient,,MP3 Player,G.I. Cable,-1
+0,6045c9d056c8123a1d54a0e0,Escient,15,MP3 Player,RCA-38,-1
+0,6045c9d056c8123a1d54a0e1,Escient,1,Media Manager,MCE,22
+0,6045c9d056c8123a1d54a0e2,Escient,2,Media Manager,MCE,22
+0,6045c9d056c8123a1d54a0e3,Escient,3,Media Manager,MCE,22
+0,6045c9d056c8123a1d54a0e4,Escient,4,Media Manager,MCE,22
+0,6045c9d056c8123a1d54a0e5,Escient,48,Media Manager,Mitsubishi,-1
+0,6045c9d056c8123a1d54a0e6,Escient,33,Media Manager,Nokia,184
+0,6045c9d056c8123a1d54a0e8,Escient,15,Media Manager,XMP,
+0,6045c9d056c8123a1d54a0e7,Escient,15,Media Manager,RCA-38,-1
+0,6045c9d056c8123a1d54a0e9,Escient,15,Media Manager,XMP-1/2,
+0,6045c9d056c8123a1d54a0ea,Escient,15,Media Manager,XMP-2,
+0,6045c9d056c8123a1d54a0ec,Escient,4,Media Server,MCE,22
+0,6045c9d056c8123a1d54a0eb,Escient,1,Media Server,MCE,22
+0,6045c9d056c8123a1d54a0ed,Esoteric Audio,133,DVD Player,NEC1,32
+0,6045c9d056c8123a1d54a0ef,Extron,128,Switcher,NEC1,84
+0,6045c9d056c8123a1d54a0ee,Extron,,Switcher,NEC1,-1
+0,6045c9d156c8123a1d54a0f0,FSC,4,DVD Player,MCE,15
+0,6045c9d156c8123a1d54a0f2,Faroudja,175,DVD Player,Pioneer,-1
+0,6045c9d156c8123a1d54a0f1,Faroudja,163,DVD Player,Pioneer,-1
+0,6045c9d156c8123a1d54a0f3,Faroudja,1,Line Doubler,RC5,-1
+0,6045c9d156c8123a1d54a0f4,Faroudja,1,Line Quadrupler,RC5,-1
+0,6045c9d156c8123a1d54a0f5,Faroudja,1,Video Processor,RC5,-1
+0,6045c9d156c8123a1d54a0f6,Faroudja,27,Video Processor,RC5,-1
+0,6045c9d156c8123a1d54a0f7,Faroudja,24,Video Projector,NEC1,-1
+0,6045c9d156c8123a1d54a0f9,Faroudja,135,Video Projector,NEC1,78
+0,6045c9d156c8123a1d54a0fa,Faroudja,,Video Projector,RC5,-1
+0,6045c9d156c8123a1d54a0fb,Faroudja,1,Video Projector,RC5,-1
+0,6045c9d156c8123a1d54a0fc,Faroudja,13,Video Projector,RC5,-1
+0,6045c9d156c8123a1d54a0f8,Faroudja,24,Video Projector,NEC1,24
+0,6045c9d156c8123a1d54a0fd,Faroudja,30,Video Projector,RC5,-1
+0,6045c9d156c8123a1d54a0fe,Faroudja,1,Processor,RC5,-1
+0,6045c9d156c8123a1d54a0ff,Fast,28,TVS,RC5,-1
+0,6045c9d156c8123a1d54a100,Fast,28,TV,RC5,-1
+0,6045c9d156c8123a1d54a101,Fedders,32,Air Conditioner,NEC1,-1
+0,6045c9d256c8123a1d54a103,Fisher,,TV,NEC1,-1
+0,6045c9d256c8123a1d54a104,Fisher,56,TV,NEC1,-1
+0,6045c9d256c8123a1d54a102,Fisher,56,TV,NEC,-1
+0,6045c9d256c8123a1d54a105,Fisher,56,TV,NEC2,-1
+0,6045c9d256c8123a1d54a106,Fisher,48,Surround Processor,NEC1,48
+0,6045c9d256c8123a1d54a107,Fisher,54,Surround Processor,NEC1,200
+0,6045c9d256c8123a1d54a108,Fosgate,132,Surround Processor,NEC1,66
+0,6045c9d256c8123a1d54a10b,Fosgate,131,Pre-Amplifier,NEC1,95
+0,6045c9d256c8123a1d54a109,Fosgate,131,Pre-Amplifier,NEC,69
+0,6045c9d256c8123a1d54a10c,Fosgate,64,Pre-Amplifier,NEC2,64
+0,6045c9d256c8123a1d54a10d,Fosgate,131,Pre-Amplifier,NEC2,69
+0,6045c9d256c8123a1d54a10a,Fosgate,64,Pre-Amplifier,NEC1,64
+0,6045c9d256c8123a1d54a10e,Foxtel,33,Set Top Box,Nokia32,160
+0,6045c9d256c8123a1d54a110,Friedrich,1,Air Conditioner,RC5,-1
+0,6045c9d256c8123a1d54a10f,Friedrich,16,Air Conditioner,Fujitsu,-1
+0,6045c9d256c8123a1d54a113,Fujitsu,132,Monitor,Fujitsu,139
+0,6045c9d256c8123a1d54a112,Fujitsu,132,Monitor,Fujitsu,138
+0,6045c9d256c8123a1d54a114,Fujitsu,132,Monitor,Fujitsu,140
+0,6045c9d256c8123a1d54a111,Fujitsu,132,Monitor,Fujitsu,-1
+0,6045c9d256c8123a1d54a115,Fujitsu,132,TV,Fujitsu,-1
+0,6045c9d256c8123a1d54a11b,Fujitsu,132,Plasma,Fujitsu,138
+0,6045c9d256c8123a1d54a116,Fujitsu,132,Plasma,Fujitsu,-1
+0,6045c9d256c8123a1d54a11a,Fujitsu,132,Plasma,Fujitsu,136
+0,6045c9d256c8123a1d54a119,Fujitsu,132,Plasma,Fujitsu,134
+0,6045c9d256c8123a1d54a117,Fujitsu,132,Plasma,Fujitsu,129
+0,6045c9d256c8123a1d54a11d,Fujitsu,132,Plasma,Fujitsu,140
+0,6045c9d256c8123a1d54a11c,Fujitsu,132,Plasma,Fujitsu,139
+0,6045c9d256c8123a1d54a11e,Fujitsu,132,Plasma,Fujitsu,141
+0,6045c9d256c8123a1d54a118,Fujitsu,132,Plasma,Fujitsu,130
+0,6045c9d256c8123a1d54a11f,Fujitsu,140,Plasma,Fujitsu,132
+0,6045c9d256c8123a1d54a120,Fusion Research,17,DVD Server,RC5-7F,-1
+0,6045c9d356c8123a1d54a122,GE,15,TV,RCA-38,-1
+0,6045c9d356c8123a1d54a121,GE,15,TV,RCA,-1
+0,6045c9d356c8123a1d54a125,GE,26,VCR,Sony20,73
+0,6045c9d356c8123a1d54a123,GE,14,VCR,RCA,-1
+0,6045c9d356c8123a1d54a124,GE,11,VCR,Sony12,-1
+0,6045c9d356c8123a1d54a126,GE,15,Unknown,RCA,-1
+0,6045c9d356c8123a1d54a127,Galaxis,13,Satellite,Nokia32,80
+0,6045c9d356c8123a1d54a128,Gefen Systems,11,HDMI Switcher,RC5,-1
+0,6045c9d356c8123a1d54a129,Gefen Systems,11,DVI Switcher,RC5,-1
+0,6045c9d356c8123a1d54a12a,Gefen Systems,11,Matrix Switcher,RC5,-1
+0,6045c9d356c8123a1d54a12b,Gefen Systems,24,Unknown,Denon,-1
+0,6045c9d356c8123a1d54a12e,General Electric,26,VCR,Sony20,73
+0,6045c9d356c8123a1d54a12c,General Electric,14,VCR,RCA,-1
+0,6045c9d356c8123a1d54a12d,General Electric,11,VCR,Sony12,-1
+0,6045c9d456c8123a1d54a12f,General Electric,15,TV,RCA,-1
+0,6045c9d456c8123a1d54a130,General Instrument,130,Satellite,NEC1,110
+0,6045c9d456c8123a1d54a131,General Instrument,1,Satellite,Sony12,-1
+0,6045c9d456c8123a1d54a134,General Instrument,87,Cable Box,Mitsubishi,-1
+0,6045c9d456c8123a1d54a135,General Instrument,64,Cable Box,NEC1,-1
+0,6045c9d456c8123a1d54a136,General Instrument,122,Cable Box,NEC1,-1
+0,6045c9d456c8123a1d54a137,General Instrument,15,Cable Box,Old),-1
+0,6045c9d456c8123a1d54a139,General Instrument,,Cable Box,RC5,-1
+0,6045c9d456c8123a1d54a138,General Instrument,144,Cable Box,Panasonic,
+0,6045c9d456c8123a1d54a133,General Instrument,,Cable Box,G.I. Cable{1},-1
+0,6045c9d456c8123a1d54a132,General Instrument,,Cable Box,G.I. Cable,-1
+0,6045c9d456c8123a1d54a13a,General Instrument,1,Cable Box,Sony12,-1
+0,6045c9d456c8123a1d54a13b,Genesis,,Theater in Box,NEC1,-1
+0,6045c9d456c8123a1d54a13c,Gericom,3,Plasma,NEC2,-1
+0,6045c9d456c8123a1d54a13d,Go Video,132,VCR,NEC1,98
+0,6045c9d456c8123a1d54a13f,Go Video,5,VCR,NECx2,5
+0,6045c9d456c8123a1d54a13e,Go Video,7,VCR,NECx1,7
+0,6045c9d456c8123a1d54a140,Go Video,10,DVD Recorder,NEC1,247
+0,6045c9d456c8123a1d54a141,Go Video,10,DVD Recorder,NEC2,247
+0,6045c9d456c8123a1d54a142,Go Video,5,VCR/DVD Combo,Akai,-1
+0,6045c9d456c8123a1d54a144,Go Video,110,VCR/DVD Combo,NEC1,-1
+0,6045c9d456c8123a1d54a143,Go Video,33,VCR/DVD Combo,Mitsubishi,-1
+0,6045c9d456c8123a1d54a145,Go Video,45,VCR/DVD Combo,NECx1,45
+0,6045c9d456c8123a1d54a146,Go Video,5,VCR/DVD Combo,NECx2,5
+0,6045c9d456c8123a1d54a147,Go Video,21,VCR/DVD Combo,Proton,-1
+0,6045c9d456c8123a1d54a148,GoldStar,110,VCR,NEC1,-1
+0,6045c9d456c8123a1d54a149,Goldmund,20,CD Player,RC5,-1
+0,6045c9d556c8123a1d54a14a,Grand Tech,2,Cable Box,NEC1,-1
+0,6045c9d556c8123a1d54a14b,Griffin,212,iPod,NEC1,190
+0,6045c9d556c8123a1d54a14e,Grundig,2,Satellite,Proton,-1
+0,6045c9d556c8123a1d54a14d,Grundig,8,Satellite,DirecTV,-1
+0,6045c9d556c8123a1d54a14c,Grundig,1,Satellite,DirecTV,-1
+0,6045c9d556c8123a1d54a14f,Grundig,,TV,Blaupunkt,-1
+0,6045c9d556c8123a1d54a150,Grundig,127,Video Recorder,Grundig16-30,-1
+0,6045c9d556c8123a1d54a151,Gryphon,16,Integrated Amplifier,RC5,-1
+0,6045c9d556c8123a1d54a152,HQV,128,Video Processor,NEC1,-1
+0,6045c9d556c8123a1d54a153,Harman Kardon,128,CD Changer,NEC1,112
+0,6045c9d556c8123a1d54a154,Harman Kardon,128,Amplifier,NEC1,112
+0,6045c9d556c8123a1d54a155,Harman Kardon,130,Amplifier,NEC1,114
+0,6045c9d556c8123a1d54a156,Harman Kardon,132,Blu-Ray,NEC1,116
+0,6045c9d656c8123a1d54a159,Harman Kardon,131,CD Player,NEC1,74
+0,6045c9d656c8123a1d54a158,Harman Kardon,128,CD Player,NEC1,112
+0,6045c9d656c8123a1d54a15a,Harman Kardon,128,CD Player,NEC2,112
+0,6045c9d656c8123a1d54a15b,Harman Kardon,131,CD Player,NEC2,74
+0,6045c9d656c8123a1d54a157,Harman Kardon,,CD Player,Akai,-1
+0,6045c9d656c8123a1d54a15c,Harman Kardon,128,CD-R,NEC1,112
+0,6045c9d656c8123a1d54a15d,Harman Kardon,130,Cassette Tape,NEC2,114
+0,6045c9d656c8123a1d54a161,Harman Kardon,130,DVD Player,Pioneer,114
+0,6045c9d656c8123a1d54a15f,Harman Kardon,130,DVD Player,NEC1,114
+0,6045c9d656c8123a1d54a15e,Harman Kardon,130,DVD Player,NEC,114
+0,6045c9d656c8123a1d54a160,Harman Kardon,130,DVD Player,NEC2,114
+0,6045c9d656c8123a1d54a162,Harman Kardon,128,Pre-Amplifier,NEC1,112
+0,6045c9d656c8123a1d54a163,Harman Kardon,128,Pre-Amplifier,NEC2,112
+0,6045c9d656c8123a1d54a164,Harman Kardon,130,Pre-Amplifier,NEC2,114
+0,6045c9d656c8123a1d54a167,Harman Kardon,128,Surround Processor,NEC1,112
+0,6045c9d656c8123a1d54a169,Harman Kardon,128,Surround Processor,NEC2,112
+0,6045c9d656c8123a1d54a16a,Harman Kardon,130,Surround Processor,NEC2,114
+0,6045c9d656c8123a1d54a16b,Harman Kardon,,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a16d,Harman Kardon,6,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a165,Harman Kardon,128,Surround Processor,NEC,112
+0,6045c9d656c8123a1d54a16c,Harman Kardon,5,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a16e,Harman Kardon,12,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a166,Harman Kardon,64,Surround Processor,NEC1,-1
+0,6045c9d656c8123a1d54a168,Harman Kardon,130,Surround Processor,NEC1,114
+0,6045c9d656c8123a1d54a16f,Harman Kardon,16,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a170,Harman Kardon,17,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a171,Harman Kardon,18,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a172,Harman Kardon,20,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a173,Harman Kardon,23,Surround Processor,RC5,-1
+0,6045c9d656c8123a1d54a174,Harman Kardon,40,Receiver,Emerson,-1
+0,6045c9d656c8123a1d54a175,Harman Kardon,128,Receiver,NEC,112
+0,6045c9d656c8123a1d54a176,Harman Kardon,4,Receiver,NEC1,-1
+0,6045c9d656c8123a1d54a177,Harman Kardon,128,Receiver,NEC1,112
+0,6045c9d656c8123a1d54a179,Harman Kardon,132,Receiver,NEC1,66
+0,6045c9d656c8123a1d54a178,Harman Kardon,130,Receiver,NEC1,114
+0,6045c9d656c8123a1d54a17a,Harman Kardon,132,Receiver,NEC1,116
+0,6045c9d656c8123a1d54a17b,Harman Kardon,134,Receiver,NEC1,118
+0,6045c9d656c8123a1d54a17c,Harman Kardon,128,Receiver,NEC2,112
+0,6045c9d656c8123a1d54a17d,Harman Kardon,130,Receiver,NEC2,114
+0,6045c9d656c8123a1d54a17e,Harman Kardon,164,Receiver,NEC2,-1
+0,6045c9d656c8123a1d54a17f,Harman Kardon,130,Receiver,Pioneer,114
+0,6045c9d656c8123a1d54a180,Harman Kardon,161,Receiver,Pioneer,-1
+0,6045c9d656c8123a1d54a181,Harman Kardon,7,Receiver,RCA-38,-1
+0,6045c9d656c8123a1d54a184,Harman Kardon,130,Surround Receiver,NEC2,114
+0,6045c9d656c8123a1d54a183,Harman Kardon,130,Surround Receiver,NEC1,114
+0,6045c9d656c8123a1d54a182,Harman Kardon,128,Surround Receiver,NEC1,112
+0,6045c9d656c8123a1d54a186,Harman Kardon,128,Tuner,NEC1,112
+0,6045c9d656c8123a1d54a185,Harman Kardon,,Tuner,Akai,-1
+0,6045c9d656c8123a1d54a187,Harman Kardon,130,Tuner,NEC1,114
+0,6045c9d656c8123a1d54a188,Harman Kardon,130,Tuner,NEC2,114
+0,6045c9d756c8123a1d54a189,Harman Kardon,130,Unknown,NEC2,114
+0,6045c9d756c8123a1d54a18b,Harman Kardon,30,Video Projector,Barco,-1
+0,6045c9d756c8123a1d54a18a,Harman Kardon,,Video Projector,Barco,-1
+0,6045c9d756c8123a1d54a18c,Harman Kardon,1,Video Projector,Sharp,-1
+0,6045c9d756c8123a1d54a18d,Harman Kardon,7,Video Projector,Zenith,
+0,6045c9d756c8123a1d54a18f,Harman Kardon,130,iPod,NEC2,114
+0,6045c9d756c8123a1d54a18e,Harman Kardon,130,iPod,NEC1,114
+0,6045c9d756c8123a1d54a190,Harman Video,1,Video Projector,Sharp,-1
+0,6045c9d756c8123a1d54a191,Harman Video,7,Video Projector,Zenith,
+0,6045c9d756c8123a1d54a192,Harmony,11,PS3 Adaptor,Logitech,-1
+0,6045c9d756c8123a1d54a193,Herma,5,Dipper,Akai,-1
+0,6045c9d756c8123a1d54a194,Hewlett Packard,2,Plasma,MCE,17
+0,6045c9d756c8123a1d54a195,Hewlett Packard,18,Plasma,MCE,17
+0,6045c9d756c8123a1d54a196,Hewlett Packard,2,TV,MCE,17
+0,6045c9d756c8123a1d54a197,Hewlett Packard,18,TV,MCE,17
+0,6045c9d756c8123a1d54a198,Hirschmann,32,Satellite,NEC1,255
+0,6045c9d756c8123a1d54a199,Hitachi,80,Cable Box,NEC1,-1
+0,6045c9d856c8123a1d54a19a,Hitachi,102,DVD Player,Aiwa,
+0,6045c9d856c8123a1d54a19b,Hitachi,40,DVD/VCR Combo,Emerson,-1
+0,6045c9d856c8123a1d54a19d,Hitachi,128,DVD/VCR Combo,NEC1,35
+0,6045c9d856c8123a1d54a19c,Hitachi,44,DVD/VCR Combo,Emerson,-1
+0,6045c9d856c8123a1d54a19e,Hitachi,80,Display,NEC1,-1
+0,6045c9d856c8123a1d54a19f,Hitachi,86,LCD,NEC1,171
+0,6045c9d856c8123a1d54a1a0,Hitachi,80,Plasma,NEC1,-1
+0,6045c9d856c8123a1d54a1a1,Hitachi,80,Plasma,NEC1,173
+0,6045c9d856c8123a1d54a1a3,Hitachi,96,Monitor,NEC1,-1
+0,6045c9d856c8123a1d54a1a2,Hitachi,80,Monitor,NEC1,-1
+0,6045c9d856c8123a1d54a1a4,Hitachi,97,Monitor,NEC1,-1
+0,6045c9d856c8123a1d54a1a5,Hitachi,96,Monitor,NEC2,-1
+0,6045c9d856c8123a1d54a1a6,Hitachi,96,Monitor,NEC2,158
+0,6045c9d856c8123a1d54a1a7,Hitachi,144,Monitor,Panasonic,
+0,6045c9d856c8123a1d54a1a8,Hitachi,168,CD Player,Pioneer,-1
+0,6045c9d856c8123a1d54a1ac,Hitachi,80,DSS,NEC1,-1
+0,6045c9d856c8123a1d54a1aa,Hitachi,4,DSS,NEC1,-1
+0,6045c9d856c8123a1d54a1a9,Hitachi,3,DSS,NEC1,-1
+0,6045c9d856c8123a1d54a1ab,Hitachi,12,DSS,NEC1,251
+0,6045c9d856c8123a1d54a1ad,Hitachi,96,DSS,NEC1,-1
+0,6045c9d856c8123a1d54a1ae,Hitachi,97,DSS,NEC1,-1
+0,6045c9d856c8123a1d54a1af,Hitachi,184,DSS,NEC1,
+0,6045c9d856c8123a1d54a1b0,Hitachi,80,TV,NEC,-1
+0,6045c9d856c8123a1d54a1b2,Hitachi,80,TV,NEC1,-1
+0,6045c9d856c8123a1d54a1b4,Hitachi,80,TV,NEC1,173
+0,6045c9d856c8123a1d54a1b5,Hitachi,96,TV,NEC1,-1
+0,6045c9d856c8123a1d54a1b1,Hitachi,12,TV,NEC1,251
+0,6045c9d856c8123a1d54a1b3,Hitachi,80,TV,NEC1,143
+0,6045c9d856c8123a1d54a1b6,Hitachi,80,TV,NEC2,-1
+0,6045c9d856c8123a1d54a1b7,Hitachi,,VCR,Barco,-1
+0,6045c9d856c8123a1d54a1b8,Hitachi,40,VCR,Emerson,-1
+0,6045c9d856c8123a1d54a1b9,Hitachi,44,VCR,Emerson,-1
+0,6045c9d856c8123a1d54a1ba,Hitachi,96,VCR,NEC,-1
+0,6045c9d856c8123a1d54a1bb,Hitachi,40,VCR,NEC1,-1
+0,6045c9d856c8123a1d54a1bd,Hitachi,83,VCR,NEC1,-1
+0,6045c9d856c8123a1d54a1be,Hitachi,96,VCR,NEC1,-1
+0,6045c9d856c8123a1d54a1bf,Hitachi,96,VCR,NEC1,158
+0,6045c9d856c8123a1d54a1c0,Hitachi,97,VCR,NEC1,-1
+0,6045c9d856c8123a1d54a1bc,Hitachi,80,VCR,NEC1,-1
+0,6045c9d856c8123a1d54a1c1,Hitachi,97,VCR,NEC1,159
+0,6045c9d856c8123a1d54a1c2,Hitachi,96,VCR,NEC2,-1
+0,6045c9d856c8123a1d54a1c3,Hitachi,96,VCR,NEC2,158
+0,6045c9d856c8123a1d54a1c4,Hitachi,,VCR,Panasonic_Old,-1
+0,6045c9d856c8123a1d54a1c5,Hitachi,5,VCR,Zenith,1
+0,6045c9d956c8123a1d54a1c7,Hitachi,135,Video Projector,NEC1,69
+0,6045c9d956c8123a1d54a1c6,Hitachi,80,Video Projector,NEC1,-1
+0,6045c9d956c8123a1d54a1c8,Hiteker,,DVD Player,NEC1,-1
+0,6045c9d956c8123a1d54a1c9,Homecast,1,Satellite Receiver,NEC1,-1
+0,6045c9d956c8123a1d54a1cb,Hughes,71,DSS,Mitsubishi,-1
+0,6045c9d956c8123a1d54a1cd,Hughes,12,DSS,NEC1,251
+0,6045c9d956c8123a1d54a1cc,Hughes,4,DSS,NEC1,-1
+0,6045c9d956c8123a1d54a1ca,Hughes,12,DSS,DirecTV,-1
+0,6045c9d956c8123a1d54a1ce,Hughes,60,DSS,NEC1,178
+0,6045c9d956c8123a1d54a1cf,Hughes,136,DSS,NEC1,-1
+0,6045c9d956c8123a1d54a1d0,Hughes,12,DSS,NEC2,251
+0,6045c9d956c8123a1d54a1d1,Hughes,1,DSS,Sharp,-1
+0,6045c9d956c8123a1d54a1d2,Hughes,1,DSS,Sony12,-1
+0,6045c9d956c8123a1d54a1d3,Hughes,133,DSS,Tivo unit=0,48
+0,6045c9d956c8123a1d54a1d4,Hughes,133,HD Satellite HD Tivo,Tivo unit=0,48
+0,6045c9d956c8123a1d54a1d5,Hughes,12,DVR,DirecTV,-1
+0,6045c9d956c8123a1d54a1d6,Hughes,133,DVR,Tivo unit=0,48
+0,6045c9d956c8123a1d54a1d7,Hughes,133,HD with TiVo,Tivo unit=0,48
+0,6045c9d956c8123a1d54a1d9,Hughes,133,Sat/TiVo,Tivo unit=0,48
+0,6045c9d956c8123a1d54a1d8,Hughes,210,Sat/TiVo,NEC1,109
+0,6045c9d956c8123a1d54a1db,Hughes,71,Satellite,Mitsubishi,-1
+0,6045c9d956c8123a1d54a1da,Hughes,12,Satellite,DirecTV,-1
+0,6045c9d956c8123a1d54a1dd,Hughes,12,Satellite,NEC1,251
+0,6045c9d956c8123a1d54a1de,Hughes,60,Satellite,NEC1,178
+0,6045c9d956c8123a1d54a1df,Hughes,136,Satellite,NEC1,-1
+0,6045c9d956c8123a1d54a1e0,Hughes,12,Satellite,NEC2,251
+0,6045c9d956c8123a1d54a1dc,Hughes,4,Satellite,NEC1,-1
+0,6045c9d956c8123a1d54a1e1,Hughes,1,Satellite,Sharp,-1
+0,6045c9d956c8123a1d54a1e2,Hughes,1,Satellite,Sony12,-1
+0,6045c9d956c8123a1d54a1e3,Hughes,133,Satellite,Tivo unit=0,48
+0,6045c9da56c8123a1d54a1e4,Hughes,133,TiVo,Tivo unit=0,48
+0,6045c9da56c8123a1d54a1e7,Hughes,97,VCR,NEC1,-1
+0,6045c9da56c8123a1d54a1e6,Hughes,96,VCR,NEC1,-1
+0,6045c9da56c8123a1d54a1e5,Hughes,96,VCR,NEC,-1
+0,6045c9da56c8123a1d54a1e8,Humax,,Com Hem Box,NEC1,16
+0,6045c9da56c8123a1d54a1ea,Humax,,DVD/VCR Combo,NEC1,23
+0,6045c9da56c8123a1d54a1e9,Humax,,DVD/VCR Combo,NEC1,16
+0,6045c9da56c8123a1d54a1eb,Humax,,Satellite,NEC1,17
+0,6045c9da56c8123a1d54a1ed,Humax,,Satellite,NEC1,73
+0,6045c9da56c8123a1d54a1ec,Humax,,Satellite,NEC1,23
+0,6045c9da56c8123a1d54a1ee,Humax,133,Tivo + DVD,Tivo unit=0,48
+0,6045c9da56c8123a1d54a1ef,Humax,,HDTV Tuner,NEC1,16
+0,6045c9da56c8123a1d54a1f1,Humax,,HDTV Tuner,NEC1,65
+0,6045c9da56c8123a1d54a1f2,Humax,,HDTV Tuner,NEC1,73
+0,6045c9da56c8123a1d54a1f0,Humax,,HDTV Tuner,NEC1,48
+0,6045c9da56c8123a1d54a1f4,I-O Data,8,DVD Player,NEC1,230
+0,6045c9da56c8123a1d54a1f3,I-O Data,8,DVD Player,NEC,230
+0,6045c9da56c8123a1d54a1f5,IR4PS3,26,Blu-Ray,Sony20,35
+0,6045c9da56c8123a1d54a1f8,Imerge,163,Digital Jukebox,NEC2,-1
+0,6045c9da56c8123a1d54a1f7,Imerge,162,Digital Jukebox,NEC2,-1
+0,6045c9da56c8123a1d54a1f6,Imerge,161,Digital Jukebox,NEC2,-1
+0,6045c9da56c8123a1d54a1f9,Imerge,164,Digital Jukebox,NEC2,-1
+0,6045c9da56c8123a1d54a1fa,Imerge,165,Digital Jukebox,NEC2,-1
+0,6045c9da56c8123a1d54a1fb,Imerge,166,Digital Jukebox,NEC2,-1
+0,6045c9da56c8123a1d54a1fc,Imerge,191,Digital Jukebox,NEC2,-1
+0,6045c9da56c8123a1d54a1fd,Imerge,255,Digital Jukebox,NEC2,-1
+0,6045c9da56c8123a1d54a1fe,Imerge,14,Digital Jukebox,RC5,-1
+0,6045c9db56c8123a1d54a1ff,InFocus,15,DLP Projector,RCA,-1
+0,6045c9db56c8123a1d54a200,InFocus,7,Plasma,NEC1,-1
+0,6045c9db56c8123a1d54a201,InFocus,135,Projector,NEC,78
+0,6045c9db56c8123a1d54a202,InFocus,135,Projector,NEC1,78
+0,6045c9db56c8123a1d54a203,Insignia,133,Blu-Ray,NEC1,237
+0,6045c9db56c8123a1d54a204,Insignia,135,Blu-Ray,NEC1,34
+0,6045c9db56c8123a1d54a205,InFocus,2,Video Projector,Aiwa,1
+0,6045c9db56c8123a1d54a206,InFocus,123,Video Projector,NEC,2
+0,6045c9db56c8123a1d54a207,InFocus,135,Video Projector,NEC,78
+0,6045c9db56c8123a1d54a208,InFocus,78,Video Projector,NEC1,135
+0,6045c9db56c8123a1d54a209,InFocus,80,Video Projector,NEC1,79
+0,6045c9db56c8123a1d54a20b,InFocus,135,Video Projector,NEC1,78
+0,6045c9db56c8123a1d54a20a,InFocus,131,Video Projector,NEC1,85
+0,6045c9db56c8123a1d54a20c,InFocus,123,Video Projector,NEC2,2
+0,6045c9db56c8123a1d54a20d,InFocus,15,Video Projector,RCA,-1
+0,6045c9db56c8123a1d54a20e,InFocus,1,Video Projector,Sony12,-1
+0,6045c9db56c8123a1d54a20f,Insignia,110,DVD/VCR Combo,NEC1,-1
+0,6045c9db56c8123a1d54a210,Insignia,45,DVD/VCR Combo,NECx1,45
+0,6045c9db56c8123a1d54a211,Insignia,135,DVD Player,NEC1,34
+0,6045c9db56c8123a1d54a213,Insignia,134,TV,NEC1,5
+0,6045c9db56c8123a1d54a212,Insignia,134,TV,NEC,5
+0,6045c9db56c8123a1d54a217,Instant Replay,3,VCR,Panasonic_Old,-1
+0,6045c9db56c8123a1d54a215,Instant Replay,97,VCR,NEC1,-1
+0,6045c9db56c8123a1d54a216,Instant Replay,2,VCR,Panasonic_Old,-1
+0,6045c9db56c8123a1d54a218,Instant Replay,25,VCR,Panasonic_Old,-1
+0,6045c9db56c8123a1d54a214,Instant Replay,96,VCR,NEC1,-1
+0,6045c9db56c8123a1d54a21b,Integra,210,Amplifier,NEC2,109
+0,6045c9db56c8123a1d54a219,Integra,71,Amplifier,Mitsubishi,-1
+0,6045c9db56c8123a1d54a21a,Integra,210,Amplifier,NEC1,109
+0,6045c9dc56c8123a1d54a21c,Integra,210,Blu-Ray,NEC1-f16,31
+0,6045c9dc56c8123a1d54a21e,Integra,210,CD Player,NEC2,44
+0,6045c9dc56c8123a1d54a21d,Integra,210,CD Player,NEC1,44
+0,6045c9dc56c8123a1d54a21f,Integra,69,DVD Player,NEC,181
+0,6045c9dc56c8123a1d54a220,Integra,210,DVD Player,NEC,43
+0,6045c9dc56c8123a1d54a222,Integra,210,DVD Player,NEC1,43
+0,6045c9dc56c8123a1d54a221,Integra,69,DVD Player,NEC1,181
+0,6045c9dc56c8123a1d54a223,Integra,210,DVD Player,NEC1-f16,31
+0,6045c9dc56c8123a1d54a224,Integra,210,DVD Player,NEC2,43
+0,6045c9dc56c8123a1d54a226,Integra,210,Digital Audio,NEC1,4
+0,6045c9dc56c8123a1d54a225,Integra,210,Digital Audio,NEC1,3
+0,6045c9dc56c8123a1d54a227,Integra,210,Digital Audio,NEC1,9
+0,6045c9dc56c8123a1d54a228,Integra,210,Digital Audio,NEC2,3
+0,6045c9dc56c8123a1d54a229,Integra,210,Digital Audio,NEC2,9
+0,6045c9dc56c8123a1d54a22b,Integra,69,HD DVD,NEC1,181
+0,6045c9dc56c8123a1d54a22a,Integra,69,HD DVD,NEC,181
+0,6045c9dc56c8123a1d54a22e,Integra,210,Integrated Amplifier,NEC2,109
+0,6045c9dc56c8123a1d54a22c,Integra,71,Integrated Amplifier,Mitsubishi,-1
+0,6045c9dc56c8123a1d54a22d,Integra,210,Integrated Amplifier,NEC1,109
+0,6045c9dc56c8123a1d54a22f,Integra,4,Media PC,MCE,15
+0,6045c9dc56c8123a1d54a234,Integra,210,Pre-Amplifier,NEC1,172
+0,6045c9dc56c8123a1d54a230,Integra,210,Pre-Amplifier,NEC1,2
+0,6045c9dc56c8123a1d54a233,Integra,210,Pre-Amplifier,NEC1,109
+0,6045c9dc56c8123a1d54a235,Integra,210,Pre-Amplifier,NEC1-f16,30
+0,6045c9dc56c8123a1d54a231,Integra,210,Pre-Amplifier,NEC1,25
+0,6045c9dc56c8123a1d54a232,Integra,210,Pre-Amplifier,NEC1,108
+0,6045c9dc56c8123a1d54a236,Integra,210,Pre-Amplifier,NEC2-f16,30
+0,6045c9dc56c8123a1d54a239,Integra,210,Receiver,NEC1,1
+0,6045c9dc56c8123a1d54a23a,Integra,210,Receiver,NEC1,2
+0,6045c9dc56c8123a1d54a237,Integra,210,Receiver,NEC,25
+0,6045c9dc56c8123a1d54a238,Integra,210,Receiver,NEC,109
+0,6045c9dc56c8123a1d54a23c,Integra,210,Receiver,NEC1,18
+0,6045c9dc56c8123a1d54a23d,Integra,210,Receiver,NEC1,19
+0,6045c9dc56c8123a1d54a23b,Integra,210,Receiver,NEC1,17
+0,6045c9dc56c8123a1d54a23e,Integra,210,Receiver,NEC1,20
+0,6045c9dc56c8123a1d54a23f,Integra,210,Receiver,NEC1,21
+0,6045c9dc56c8123a1d54a240,Integra,210,Receiver,NEC1,22
+0,6045c9dc56c8123a1d54a241,Integra,210,Receiver,NEC1,23
+0,6045c9dc56c8123a1d54a243,Integra,210,Receiver,NEC1,25
+0,6045c9dc56c8123a1d54a242,Integra,210,Receiver,NEC1,24
+0,6045c9dc56c8123a1d54a244,Integra,210,Receiver,NEC1,43
+0,6045c9dc56c8123a1d54a245,Integra,210,Receiver,NEC1,108
+0,6045c9dc56c8123a1d54a246,Integra,210,Receiver,NEC1,109
+0,6045c9dc56c8123a1d54a247,Integra,210,Receiver,NEC1,172
+0,6045c9dc56c8123a1d54a248,Integra,210,Receiver,NEC1-f16,30
+0,6045c9dc56c8123a1d54a249,Integra,210,Receiver,NEC2,2
+0,6045c9dc56c8123a1d54a24a,Integra,210,Receiver,NEC2,17
+0,6045c9dc56c8123a1d54a24b,Integra,210,Receiver,NEC2,20
+0,6045c9dc56c8123a1d54a24c,Integra,210,Receiver,NEC2,21
+0,6045c9dc56c8123a1d54a24e,Integra,210,Receiver,NEC2,109
+0,6045c9dc56c8123a1d54a24d,Integra,210,Receiver,NEC2,108
+0,6045c9dc56c8123a1d54a24f,Integra,210,Receiver,NEC2-f16,30
+0,6045c9dd56c8123a1d54a250,Integra,210,Tuner,NEC1,2
+0,6045c9dd56c8123a1d54a251,Integra,210,Tuner,NEC1,109
+0,6045c9dd56c8123a1d54a252,Integra,210,iPod,NEC1,2
+0,6045c9dd56c8123a1d54a254,Integra,210,iPod,NEC1,109
+0,6045c9dd56c8123a1d54a255,Integra,210,iPod,NEC1,172
+0,6045c9dd56c8123a1d54a253,Integra,210,iPod,NEC1,108
+0,6045c9dd56c8123a1d54a257,IntelliNet Controls,,Distributed Audio,NEC1,90
+0,6045c9dd56c8123a1d54a256,IntelliNet Controls,,Distributed Audio,NEC,90
+0,6045c9dd56c8123a1d54a258,IntelliNet Controls,,Distributed Audio,NEC2,90
+0,6045c9dd56c8123a1d54a259,Intervideo,49,VCR,NEC1,-1
+0,6045c9dd56c8123a1d54a25b,JBL,130,Surround Processor,NEC1,11
+0,6045c9dd56c8123a1d54a25a,JBL,28,Surround Processor,Denon,-1
+0,6045c9dd56c8123a1d54a25c,JBL,132,Surround Processor,NEC1,66
+0,6045c9dd56c8123a1d54a25d,JBL,64,Receiver,NEC1,47
+0,6045c9dd56c8123a1d54a25e,JENSEN,1,VCR,Akai,-1
+0,6045c9dd56c8123a1d54a25f,JVC,34,CD Jukebox,JVC-48,33
+0,6045c9dd56c8123a1d54a261,JVC,179,CD Jukebox,NEC2-f16,
+0,6045c9dd56c8123a1d54a260,JVC,34,CD Jukebox,JVC-48,48
+0,6045c9dd56c8123a1d54a263,JVC,34,CD Player,JVC-48,33
+0,6045c9dd56c8123a1d54a262,JVC,179,CD Player,JVC,-1
+0,6045c9dd56c8123a1d54a264,JVC,34,CD Player,JVC-48,48
+0,6045c9dd56c8123a1d54a266,JVC,179,CD Player,NEC2-f16,
+0,6045c9dd56c8123a1d54a265,JVC,179,CD Player,JVC{2},-1
+0,6045c9dd56c8123a1d54a267,JVC,67,Camcorder,JVC,-1
+0,6045c9dd56c8123a1d54a268,JVC,211,Camcorder,JVC,-1
+0,6045c9dd56c8123a1d54a269,JVC,67,D-VHS,JVC,-1
+0,6045c9de56c8123a1d54a26a,JVC,131,Cassette Tape,JVC,-1
+0,6045c9de56c8123a1d54a26c,JVC,239,DVD Player,JVC,-1
+0,6045c9de56c8123a1d54a26b,JVC,179,DVD Player,JVC,-1
+0,6045c9de56c8123a1d54a26e,JVC,26,DVD Player,RC5,-1
+0,6045c9de56c8123a1d54a26f,JVC,26,DVD Player,RC6,-1
+0,6045c9de56c8123a1d54a26d,JVC,239,DVD Player,JVC{2},-1
+0,6045c9de56c8123a1d54a270,JVC,111,DVD Recorder,JVC,-1
+0,6045c9de56c8123a1d54a271,JVC,67,DVD/VCR Combo,JVC,-1
+0,6045c9de56c8123a1d54a273,JVC,15,HD-ILA Projection,JVC,-1
+0,6045c9de56c8123a1d54a275,JVC,115,HD-ILA Projection,JVC,-1
+0,6045c9de56c8123a1d54a274,JVC,67,HD-ILA Projection,JVC,-1
+0,6045c9de56c8123a1d54a272,JVC,3,HD-ILA Projection,JVC,-1
+0,6045c9de56c8123a1d54a278,JVC,191,Karaoke,JVC,-1
+0,6045c9de56c8123a1d54a276,JVC,3,Karaoke,JVC,-1
+0,6045c9de56c8123a1d54a277,JVC,179,Karaoke,JVC,-1
+0,6045c9de56c8123a1d54a27b,JVC,35,LCD,JVC,-1
+0,6045c9de56c8123a1d54a27c,JVC,67,LCD,JVC,-1
+0,6045c9de56c8123a1d54a279,JVC,3,LCD,JVC,-1
+0,6045c9de56c8123a1d54a27a,JVC,15,LCD,JVC,-1
+0,6045c9de56c8123a1d54a27d,JVC,3,LCD TV,JVC,-1
+0,6045c9de56c8123a1d54a27e,JVC,31,Mini System,JVC,-1
+0,6045c9de56c8123a1d54a280,JVC,159,Mini System,JVC,-1
+0,6045c9de56c8123a1d54a27f,JVC,131,Mini System,JVC,-1
+0,6045c9de56c8123a1d54a281,JVC,163,Mini System,JVC,-1
+0,6045c9de56c8123a1d54a283,JVC,179,Mini System,JVC,-1
+0,6045c9de56c8123a1d54a282,JVC,175,Mini System,JVC,-1
+0,6045c9df56c8123a1d54a284,JVC,3,Monitor,JVC,-1
+0,6045c9df56c8123a1d54a285,JVC,67,Monitor,JVC,-1
+0,6045c9df56c8123a1d54a286,JVC,31,Plasma,JVC,-1
+0,6045c9df56c8123a1d54a287,JVC,115,Projector,JVC,-1
+0,6045c9df56c8123a1d54a288,JVC,1,Receiver,Akai,-1
+0,6045c9df56c8123a1d54a289,JVC,3,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a28a,JVC,67,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a28b,JVC,83,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a28c,JVC,131,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a28d,JVC,147,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a28e,JVC,159,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a28f,JVC,163,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a290,JVC,175,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a291,JVC,179,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a292,JVC,191,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a293,JVC,239,Receiver,JVC,-1
+0,6045c9df56c8123a1d54a294,JVC,34,Receiver,JVC-48,84
+0,6045c9df56c8123a1d54a295,JVC,121,Receiver,NEC1,-1
+0,6045c9df56c8123a1d54a296,JVC,67,S-VHS,JVC,-1
+0,6045c9df56c8123a1d54a299,JVC,16,Satellite,Dish_Network,
+0,6045c9df56c8123a1d54a297,JVC,,Satellite,Dish_Network,
+0,6045c9df56c8123a1d54a29a,JVC,24,Satellite,Dish_Network,
+0,6045c9df56c8123a1d54a298,JVC,8,Satellite,Dish_Network,
+0,6045c9df56c8123a1d54a29b,JVC,243,Switcher,JVC,-1
+0,6045c9df56c8123a1d54a29d,JVC,15,TV,JVC,-1
+0,6045c9df56c8123a1d54a29e,JVC,31,TV,JVC,-1
+0,6045c9df56c8123a1d54a29f,JVC,67,TV,JVC,-1
+0,6045c9df56c8123a1d54a2a0,JVC,3,TV,JVC{2},-1
+0,6045c9df56c8123a1d54a29c,JVC,3,TV,JVC,-1
+0,6045c9df56c8123a1d54a2a2,JVC,67,Tuner,JVC,-1
+0,6045c9df56c8123a1d54a2a1,JVC,3,Tuner,JVC,-1
+0,6045c9df56c8123a1d54a2a3,JVC,131,Tuner,JVC,-1
+0,6045c9df56c8123a1d54a2a4,JVC,147,Tuner,JVC,-1
+0,6045c9df56c8123a1d54a2a6,JVC,179,Tuner,JVC,-1
+0,6045c9df56c8123a1d54a2a5,JVC,163,Tuner,JVC,-1
+0,6045c9df56c8123a1d54a2aa,JVC,8,VCR,Dish_Network,14
+0,6045c9df56c8123a1d54a2a9,JVC,1,VCR,Dish_Network,14
+0,6045c9df56c8123a1d54a2ab,JVC,3,VCR,JVC,-1
+0,6045c9df56c8123a1d54a2ac,JVC,67,VCR,JVC,-1
+0,6045c9df56c8123a1d54a2a8,JVC,,VCR,Dish_Network,14
+0,6045c9df56c8123a1d54a2ad,JVC,83,VCR,JVC,-1
+0,6045c9df56c8123a1d54a2a7,JVC,1,VCR,Akai,-1
+0,6045c9df56c8123a1d54a2af,JVC,163,VCR,JVC,-1
+0,6045c9df56c8123a1d54a2ae,JVC,131,VCR,JVC,-1
+0,6045c9df56c8123a1d54a2b0,JVC,179,VCR,JVC,-1
+0,6045c9df56c8123a1d54a2b1,JVC,3,VCR,JVC{2},-1
+0,6045c9df56c8123a1d54a2b2,JVC,67,VCR,JVC{2},-1
+0,6045c9df56c8123a1d54a2b4,JVC,64,VCR,NEC1,-1
+0,6045c9df56c8123a1d54a2b3,JVC,83,VCR,JVC{2},-1
+0,6045c9df56c8123a1d54a2b5,JVC,80,VCR,NEC1,-1
+0,6045c9df56c8123a1d54a2b6,JVC,1,VCR,Sony12,-1
+0,6045c9df56c8123a1d54a2b7,JVC,5,VCR,Zenith,1
+0,6045c9e056c8123a1d54a2b8,JVC,67,VCR/MiniDV,JVC,-1
+0,6045c9e056c8123a1d54a2bb,JVC,111,VCR/DVD Combo,JVC,-1
+0,6045c9e056c8123a1d54a2ba,JVC,67,VCR/DVD Combo,JVC,-1
+0,6045c9e056c8123a1d54a2b9,JVC,3,VCR/DVD Combo,JVC,-1
+0,6045c9e056c8123a1d54a2bc,JVC,115,Video Projector,JVC,-1
+0,6045c9e056c8123a1d54a2bd,JVC,115,Video Projector,JVC{2},-1
+0,6045c9e056c8123a1d54a2be,JVC,131,Video Projector,NEC1,85
+0,6045c9e056c8123a1d54a2bf,JVC,243,Video Switcher,JVC,-1
+0,6045c9e056c8123a1d54a2c0,Jamo,25,DVD Receiver,RC5,-1
+0,6045c9e056c8123a1d54a2c2,Jerrold,1,Cable Box,Sony12,-1
+0,6045c9e056c8123a1d54a2c1,Jerrold,,Cable Box,G.I. Cable,-1
+0,6045c9e056c8123a1d54a2c3,KEY DIGITAL,130,Component Switcher,NEC1,19
+0,6045c9e056c8123a1d54a2c4,KEY DIGITAL,130,Matrix Switcher,NEC1,19
+0,6045c9e056c8123a1d54a2c7,KEY DIGITAL,27,Matrix Switcher,Panasonic_Old,-1
+0,6045c9e056c8123a1d54a2c5,KEY DIGITAL,132,Matrix Switcher,NEC1,-1
+0,6045c9e056c8123a1d54a2c6,KEY DIGITAL,130,Matrix Switcher,NEC2,19
+0,6045c9e056c8123a1d54a2c9,KEY DIGITAL,130,Video Switcher,NEC2,19
+0,6045c9e056c8123a1d54a2c8,KEY DIGITAL,132,Video Switcher,NEC1,-1
+0,6045c9e056c8123a1d54a2ca,KEY DIGITAL,27,Video Switcher,Panasonic_Old,-1
+0,6045c9e056c8123a1d54a2cb,KEY DIGITAL,130,Switcher,NEC1,19
+0,6045c9e156c8123a1d54a2cc,Kaleidescape,69,DVD Player,NEC1,-1
+0,6045c9e156c8123a1d54a2cd,Kaleidescape,69,Distributed,NEC,-1
+0,6045c9e156c8123a1d54a2cf,Kathrein,34,Satellite,Nokia32,144
+0,6045c9e156c8123a1d54a2ce,Kathrein,,Satellite,Kathrein,-1
+0,6045c9e156c8123a1d54a2d0,Kathrein,34,DVBS-Receiver,Nokia32,144
+0,6045c9e156c8123a1d54a2d1,Kawasaki,154,DVD/Amp,NEC1,-1
+0,6045c9e156c8123a1d54a2d2,Kensington,51,MP3 Player,NEC1,170
+0,6045c9e156c8123a1d54a2d3,Kensington,51,iPod Dock,NEC1,170
+0,6045c9e156c8123a1d54a2d6,Kenwood,184,CD Changer,NEC1,-1
+0,6045c9e156c8123a1d54a2d5,Kenwood,182,CD Changer,NEC1,72
+0,6045c9e156c8123a1d54a2d4,Kenwood,182,CD Changer,NEC1,-1
+0,6045c9e156c8123a1d54a2d8,Kenwood,182,CD Player,NEC1,
+0,6045c9e156c8123a1d54a2d7,Kenwood,182,CD Player,NEC1,-1
+0,6045c9e156c8123a1d54a2d9,Kenwood,184,CD Player,NEC1,-1
+0,6045c9e156c8123a1d54a2da,Kenwood,182,CD/DVD/MP-3,NEC1,12
+0,6045c9e256c8123a1d54a2db,Kenwood,184,Cassette Tape,NEC1,-1
+0,6045c9e256c8123a1d54a2dc,Kenwood,182,DVD Changer,NEC1,
+0,6045c9e256c8123a1d54a2dd,Kenwood,182,DVD Changer,NEC1,12
+0,6045c9e256c8123a1d54a2de,Kenwood,182,DVD Changer,NEC2,
+0,6045c9e256c8123a1d54a2df,Kenwood,184,Amplifier,NEC1,
+0,6045c9e256c8123a1d54a2e2,Kenwood,184,Amplifier,NEC1,4
+0,6045c9e256c8123a1d54a2e1,Kenwood,184,Amplifier,NEC1,2
+0,6045c9e256c8123a1d54a2e3,Kenwood,184,Amplifier,NEC1,7
+0,6045c9e256c8123a1d54a2e0,Kenwood,184,Amplifier,NEC1,1
+0,6045c9e256c8123a1d54a2e5,Kenwood,182,DVD Player,NEC1,12
+0,6045c9e256c8123a1d54a2e7,Kenwood,184,DVD Player,NEC1,
+0,6045c9e256c8123a1d54a2e6,Kenwood,182,DVD Player,NEC1,88
+0,6045c9e256c8123a1d54a2e4,Kenwood,182,DVD Player,NEC1,
+0,6045c9e256c8123a1d54a2e8,Kenwood,182,DVD Player,NEC2,
+0,6045c9e256c8123a1d54a2e9,Kenwood,182,Laser Disc,NEC1,75
+0,6045c9e256c8123a1d54a2ea,Kenwood,182,Pre-Amplifier,NEC1,75
+0,6045c9e256c8123a1d54a2eb,Kenwood,184,Pre-Amplifier,NEC1,-1
+0,6045c9e256c8123a1d54a2ec,Kenwood,184,Pre-Amplifier,NEC1,1
+0,6045c9e256c8123a1d54a2ee,Kenwood,40,Receiver,Emerson,-1
+0,6045c9e256c8123a1d54a2ed,Kenwood,1,Receiver,Akai,-1
+0,6045c9e256c8123a1d54a2f1,Kenwood,184,Receiver,NEC,3
+0,6045c9e256c8123a1d54a2f0,Kenwood,184,Receiver,NEC,1
+0,6045c9e256c8123a1d54a2f2,Kenwood,184,Receiver,NEC,4
+0,6045c9e256c8123a1d54a2f4,Kenwood,184,Receiver,NEC,6
+0,6045c9e256c8123a1d54a2f3,Kenwood,184,Receiver,NEC,5
+0,6045c9e256c8123a1d54a2f5,Kenwood,184,Receiver,NEC,7
+0,6045c9e256c8123a1d54a2ef,Kenwood,184,Receiver,NEC,
+0,6045c9e256c8123a1d54a2f6,Kenwood,4,Receiver,NEC1,-1
+0,6045c9e256c8123a1d54a2f7,Kenwood,25,Receiver,NEC1,-1
+0,6045c9e256c8123a1d54a2f8,Kenwood,182,Receiver,NEC1,75
+0,6045c9e256c8123a1d54a2f9,Kenwood,184,Receiver,NEC1,-1
+0,6045c9e256c8123a1d54a2fa,Kenwood,184,Receiver,NEC1,
+0,6045c9e256c8123a1d54a2fb,Kenwood,184,Receiver,NEC1,1
+0,6045c9e256c8123a1d54a2fc,Kenwood,184,Receiver,NEC1,2
+0,6045c9e256c8123a1d54a2fd,Kenwood,184,Receiver,NEC1,3
+0,6045c9e256c8123a1d54a2fe,Kenwood,184,Receiver,NEC1,4
+0,6045c9e256c8123a1d54a2ff,Kenwood,184,Receiver,NEC1,5
+0,6045c9e256c8123a1d54a300,Kenwood,184,Receiver,NEC1,6
+0,6045c9e256c8123a1d54a301,Kenwood,184,Receiver,NEC1,7
+0,6045c9e256c8123a1d54a302,Kenwood,4,Receiver,NEC2,-1
+0,6045c9e256c8123a1d54a303,Kenwood,184,Receiver,NEC2,
+0,6045c9e256c8123a1d54a304,Kenwood,184,Receiver,NEC2,3
+0,6045c9e256c8123a1d54a305,Kenwood,184,Receiver,NEC2,4
+0,6045c9e256c8123a1d54a307,Kenwood,12,Receiver,Sharp,-1
+0,6045c9e256c8123a1d54a306,Kenwood,184,Receiver,NEC2,6
+0,6045c9e256c8123a1d54a308,Kenwood,1,Receiver,Sony12,-1
+0,6045c9e256c8123a1d54a30a,Kenwood,2,Satellite Radio,NEC1,255
+0,6045c9e256c8123a1d54a309,Kenwood,2,Satellite Radio,NEC,255
+0,6045c9e256c8123a1d54a30c,Kenwood,2,Sirius,NEC1,255
+0,6045c9e256c8123a1d54a30b,Kenwood,2,Sirius,NEC,255
+0,6045c9e356c8123a1d54a30d,Kenwood,182,Tuner,NEC1,75
+0,6045c9e356c8123a1d54a30e,Kenwood,184,Tuner,NEC1,-1
+0,6045c9e356c8123a1d54a30f,Kenwood,184,Tuner,NEC1,1
+0,6045c9e356c8123a1d54a310,Kenwood,184,VCR,NEC1,-1
+0,6045c9e356c8123a1d54a311,Kenwood,184,VCR,NEC1,1
+0,6045c9e356c8123a1d54a312,Kinergetics Research,,Receiver,RC5,-1
+0,6045c9e356c8123a1d54a313,Kinergetics Research,7,Surround Processor,RC5,-1
+0,6045c9e356c8123a1d54a314,Kinergetics Research,28,Pre-Amplifier,RC5,-1
+0,6045c9e356c8123a1d54a315,Klipsch,17,Subwoofer,NEC1,81
+0,6045c9e356c8123a1d54a316,Knoll,24,Video Projector,NEC1,233
+0,6045c9e356c8123a1d54a318,Krell,20,CD Player,RC5,-1
+0,6045c9e356c8123a1d54a317,Krell,16,CD Player,RC5,-1
+0,6045c9e356c8123a1d54a319,Krell,27,DVD Player,RC5,-1
+0,6045c9e356c8123a1d54a31c,Krell,28,Pre-Amplifier,RC5,-1
+0,6045c9e356c8123a1d54a31b,Krell,25,Pre-Amplifier,RC5,-1
+0,6045c9e356c8123a1d54a31a,Krell,16,Pre-Amplifier,RC5,-1
+0,6045c9e456c8123a1d54a31d,Krell,28,Receiver,RC5,-1
+0,6045c9e456c8123a1d54a31e,Krell,31,Receiver,RC5,-1
+0,6045c9e456c8123a1d54a31f,Krell,16,Surround Processor,RC5,-1
+0,6045c9e456c8123a1d54a320,Krell,25,Surround Processor,RC5,-1
+0,6045c9e456c8123a1d54a322,Krell,31,Surround Processor,RC5,-1
+0,6045c9e456c8123a1d54a321,Krell,28,Surround Processor,RC5,-1
+0,6045c9e456c8123a1d54a323,Kyocera,119,CD Player,NEC1,-1
+0,6045c9e456c8123a1d54a324,LG,45,Blu-Ray,NECx,45
+0,6045c9e456c8123a1d54a325,LG,45,Blu-Ray,NECx1,45
+0,6045c9e456c8123a1d54a326,LG,45,DVD Player,NECx,45
+0,6045c9e456c8123a1d54a329,LG,45,DVD Player,NECx1,45
+0,6045c9e456c8123a1d54a327,LG,16,DVD Player,NECx1,16
+0,6045c9e456c8123a1d54a328,LG,44,DVD Player,NECx1,44
+0,6045c9e456c8123a1d54a32a,LG,45,DVR,NECx1,45
+0,6045c9e456c8123a1d54a32b,LG,45,DVD/VCR Combo,NECx1,45
+0,6045c9e456c8123a1d54a32c,LG,247,HDTV Tuner,NEC1,-1
+0,6045c9e456c8123a1d54a32d,LG,1,Plasma,NEC1,1
+0,6045c9e456c8123a1d54a32e,LG,4,Plasma,NEC1,-1
+0,6045c9e456c8123a1d54a32f,LG,4,Plasma,NEC1-f16,-1
+0,6045c9e456c8123a1d54a330,LG,4,LCD/DVD,NEC1,-1
+0,6045c9e456c8123a1d54a331,LG,45,LCD/DVD,NECx1,45
+0,6045c9e556c8123a1d54a332,LG,247,Satellite,NEC1,-1
+0,6045c9e556c8123a1d54a333,LG,44,Sound Bar,NECx1,44
+0,6045c9e556c8123a1d54a337,LG,4,TV,NECx1,-1
+0,6045c9e556c8123a1d54a334,LG,4,TV,NEC,-1
+0,6045c9e556c8123a1d54a335,LG,1,TV,NEC1,1
+0,6045c9e556c8123a1d54a336,LG,4,TV,NEC1,-1
+0,6045c9e556c8123a1d54a338,LP Morgan,,Screen,RECS80,-1
+0,6045c9e556c8123a1d54a339,LXI,4,TV,NEC1,-1
+0,6045c9e556c8123a1d54a33a,Lexicon,130,Receiver,NEC1,11
+0,6045c9e556c8123a1d54a33c,Lexicon,130,Surround Processor,NEC1,11
+0,6045c9e556c8123a1d54a33e,Lexicon,130,Surround Processor,NEC2,11
+0,6045c9e556c8123a1d54a33b,Lexicon,28,Surround Processor,Denon,-1
+0,6045c9e556c8123a1d54a33d,Lexicon,133,Surround Processor,NEC1,2
+0,6045c9e556c8123a1d54a33f,Lexicon,4,DVD Player,RC6,-1
+0,6045c9e556c8123a1d54a340,Lightolier,,Lighting Controller,Denon,-1
+0,6045c9e656c8123a1d54a341,Linksys,134,Media Adapter,NEC2,107
+0,6045c9e656c8123a1d54a343,Linn,16,Surround Processor,RC5,-1
+0,6045c9e656c8123a1d54a342,Linn,4,Surround Processor,RC5,-1
+0,6045c9e656c8123a1d54a344,Linn,23,Surround Processor,RC5,-1
+0,6045c9e656c8123a1d54a345,Linn,16,Classic music,RC5,-1
+0,6045c9e656c8123a1d54a346,Linn,17,Classic music,RC5,-1
+0,6045c9e656c8123a1d54a347,Linn,20,Classic music,RC5,-1
+0,6045c9e656c8123a1d54a348,Linn,20,CD Player,RC5,-1
+0,6045c9e656c8123a1d54a349,LiteOn,10,DVD Recorder,NEC1,247
+0,6045c9e656c8123a1d54a34a,LiteTouch,129,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a34b,LiteTouch,130,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a34d,LiteTouch,132,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a34c,LiteTouch,131,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a34e,LiteTouch,133,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a34f,LiteTouch,134,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a350,LiteTouch,135,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a351,LiteTouch,136,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a352,LiteTouch,137,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a353,LiteTouch,144,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a354,LiteTouch,145,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a355,LiteTouch,146,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a356,LiteTouch,147,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a357,LiteTouch,148,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a358,LiteTouch,149,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a359,LiteTouch,150,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a35a,LiteTouch,151,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a35b,LiteTouch,152,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a35c,LiteTouch,153,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a35d,LiteTouch,255,Lighting Controller,NEC1-f16,-1
+0,6045c9e656c8123a1d54a35e,Loewe,32,DVD Player,Konka,-1
+0,6045c9e656c8123a1d54a35f,Loewe,33,DVD Player,Konka,-1
+0,6045c9e656c8123a1d54a361,Loewe,,DVD Player,RC5,-1
+0,6045c9e656c8123a1d54a360,Loewe,45,DVD Player,NECx1,45
+0,6045c9e656c8123a1d54a362,Loewe,4,DVD Player,RC6,-1
+0,6045c9e656c8123a1d54a364,Loewe,,TV,RC5,-1
+0,6045c9e656c8123a1d54a365,Loewe,5,TV,RC5,-1
+0,6045c9e656c8123a1d54a366,Loewe,6,TV,RC5,-1
+0,6045c9e656c8123a1d54a367,Loewe,27,TV,RC5,-1
+0,6045c9e656c8123a1d54a363,Loewe,33,TV,Konka,-1
+0,6045c9e656c8123a1d54a368,Loewe,31,TV,Sony12,-1
+0,6045c9e656c8123a1d54a36b,Loewe,5,VCR,RC5,-1
+0,6045c9e656c8123a1d54a369,Loewe,144,VCR,Panasonic,
+0,6045c9e656c8123a1d54a36a,Loewe,144,VCR,Panasonic,1
+0,6045c9e656c8123a1d54a36c,Lumagen,2,Scaler,Lumagen,-1
+0,6045c9e656c8123a1d54a36d,Luxman,204,Receiver,NEC1,-1
+0,6045c9e756c8123a1d54a36e,Luxman,204,CD Player,NEC1,-1
+0,6045c9e756c8123a1d54a36f,MAGIC LIGHTING,,Lighting,NEC1,None
+0,6045c9e756c8123a1d54a370,MGA,87,VCR,Mitsubishi,-1
+0,6045c9e756c8123a1d54a371,MISSION,20,CD Player,RC5,-1
+0,6045c9e756c8123a1d54a373,Madrigal,2,CD Player,RECS80,-1
+0,6045c9e756c8123a1d54a372,Madrigal,,CD Player,RECS80,-1
+0,6045c9e756c8123a1d54a374,Madrigal,7,CD Player,RECS80,-1
+0,6045c9e756c8123a1d54a375,Madrigal,5,Receiver,RECS80,-1
+0,6045c9e756c8123a1d54a376,Magnavox,128,DSS,NEC2,63
+0,6045c9e756c8123a1d54a377,Magnavox,135,DVD Recorder,NEC1,34
+0,6045c9e756c8123a1d54a379,Magnavox,135,DVD Player,NEC1,34
+0,6045c9e756c8123a1d54a37a,Magnavox,4,DVD Player,RC6,-1
+0,6045c9e756c8123a1d54a378,Magnavox,1,DVD Player,NEC1,-1
+0,6045c9e856c8123a1d54a37b,Magnavox,,TV,RC5,-1
+0,6045c9e856c8123a1d54a37c,Magnavox,5,VCR,RC5,-1
+0,6045c9e856c8123a1d54a37d,Magnum Dynalab,7,Tuner,NEC1,-1
+0,6045c9e856c8123a1d54a37e,Malata,1,DVD Player,NEC1,-1
+0,6045c9e856c8123a1d54a37f,Makita,2,Drapery Controller,Akai,-1
+0,6045c9e856c8123a1d54a380,Marantz,16,Amplifier,RC5,-1
+0,6045c9e856c8123a1d54a383,Marantz,20,Amplifier,RC5,-1
+0,6045c9e856c8123a1d54a382,Marantz,18,Amplifier,RC5,-1
+0,6045c9e856c8123a1d54a381,Marantz,17,Amplifier,RC5,-1
+0,6045c9e856c8123a1d54a384,Marantz,21,Amplifier,RC5,-1
+0,6045c9e856c8123a1d54a385,Marantz,23,Amplifier,RC5,-1
+0,6045c9e856c8123a1d54a386,Marantz,26,Amplifier,RC5,-1
+0,6045c9e856c8123a1d54a388,Marantz,17,AM/FM Tuner,RC5,-1
+0,6045c9e856c8123a1d54a387,Marantz,16,AM/FM Tuner,RC5,-1
+0,6045c9e856c8123a1d54a389,Marantz,20,CD Changer,RC5,-1
+0,6045c9e856c8123a1d54a38a,Marantz,20,CD Jukebox,RC5,-1
+0,6045c9e856c8123a1d54a38b,Marantz,20,CD Player,RC5,-1
+0,6045c9e956c8123a1d54a38c,Marantz,18,Cassette Tape,RC5,-1
+0,6045c9e956c8123a1d54a38d,Marantz,23,Cassette Tape,RC5,-1
+0,6045c9e956c8123a1d54a38e,Marantz,3,D-VHS,JVC,-1
+0,6045c9e956c8123a1d54a38f,Marantz,67,D-VHS,JVC,-1
+0,6045c9e956c8123a1d54a390,Marantz,67,D-VHS,JVC{2},-1
+0,6045c9e956c8123a1d54a392,Marantz,4,DVD,RC6,-1
+0,6045c9e956c8123a1d54a391,Marantz,69,DVD,NEC1,-1
+0,6045c9e956c8123a1d54a396,Marantz,20,DVD Player,RC5,-1
+0,6045c9e956c8123a1d54a395,Marantz,4,DVD Player,RC5,-1
+0,6045c9e956c8123a1d54a394,Marantz,69,DVD Player,NEC2,-1
+0,6045c9e956c8123a1d54a393,Marantz,69,DVD Player,NEC1,-1
+0,6045c9e956c8123a1d54a397,Marantz,4,DVD Player,RC6,-1
+0,6045c9e956c8123a1d54a398,Marantz,41,DVD Player,RC6,-1
+0,6045c9e956c8123a1d54a399,Marantz,14,MP3 Player,RC5,-1
+0,6045c9e956c8123a1d54a39a,Marantz,16,MP3 Player,RC5,-1
+0,6045c9e956c8123a1d54a39d,Marantz,24,Plasma,NEC1,24
+0,6045c9e956c8123a1d54a39c,Marantz,24,Plasma,NEC1,-1
+0,6045c9e956c8123a1d54a39b,Marantz,80,Plasma,NEC,-1
+0,6045c9e956c8123a1d54a39e,Marantz,24,Plasma,NEC1,247
+0,6045c9e956c8123a1d54a39f,Marantz,80,Plasma,NEC1,-1
+0,6045c9e956c8123a1d54a3a0,Marantz,24,Plasma,NEC2,-1
+0,6045c9e956c8123a1d54a3a1,Marantz,24,Plasma,NEC2,24
+0,6045c9e956c8123a1d54a3a2,Marantz,,Plasma,RC5,-1
+0,6045c9e956c8123a1d54a3a3,Marantz,24,Plasma Displays,NEC1,-1
+0,6045c9e956c8123a1d54a3a5,Marantz,24,Plasma Displays,NEC2,-1
+0,6045c9e956c8123a1d54a3a4,Marantz,24,Plasma Displays,NEC1,24
+0,6045c9e956c8123a1d54a3a6,Marantz,24,Plasma Displays,NEC2,24
+0,6045c9e956c8123a1d54a3a8,Marantz,17,Pre-Amplifier,RC5,-1
+0,6045c9e956c8123a1d54a3a9,Marantz,23,Pre-Amplifier,RC5,-1
+0,6045c9e956c8123a1d54a3aa,Marantz,11,Pre-Amplifier,RC5-7F,-1
+0,6045c9e956c8123a1d54a3a7,Marantz,,Pre-Amplifier,RC5,-1
+0,6045c9e956c8123a1d54a3ab,Marantz,,Projector,RC5,-1
+0,6045c9ea56c8123a1d54a3ae,Marantz,,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3ad,Marantz,7,Receiver,Old),-1
+0,6045c9ea56c8123a1d54a3ac,Marantz,176,Receiver,NEC1,-1
+0,6045c9ea56c8123a1d54a3af,Marantz,5,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b0,Marantz,6,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b2,Marantz,12,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b1,Marantz,8,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b3,Marantz,16,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b4,Marantz,17,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b5,Marantz,18,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b6,Marantz,20,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b7,Marantz,21,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b8,Marantz,23,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3b9,Marantz,26,Receiver,RC5,-1
+0,6045c9ea56c8123a1d54a3ba,Marantz,4,Receiver,RC6,-1
+0,6045c9ea56c8123a1d54a3bb,Marantz,39,Receiver,RC6,-1
+0,6045c9ea56c8123a1d54a3bf,Marantz,24,TV,NEC1,24
+0,6045c9ea56c8123a1d54a3c1,Marantz,80,TV,NEC1,-1
+0,6045c9ea56c8123a1d54a3be,Marantz,24,TV,NEC1,-1
+0,6045c9ea56c8123a1d54a3c0,Marantz,24,TV,NEC1,247
+0,6045c9ea56c8123a1d54a3bc,Marantz,,TV,G.I. Cable,-1
+0,6045c9ea56c8123a1d54a3bd,Marantz,80,TV,NEC,-1
+0,6045c9ea56c8123a1d54a3c2,Marantz,144,TV,Panasonic,
+0,6045c9ea56c8123a1d54a3c3,Marantz,,TV,RC5,-1
+0,6045c9ea56c8123a1d54a3c5,Marantz,17,Tuner,RC5,-1
+0,6045c9ea56c8123a1d54a3c6,Marantz,20,Tuner,RC5,-1
+0,6045c9ea56c8123a1d54a3c4,Marantz,16,Tuner,RC5,-1
+0,6045c9ea56c8123a1d54a3c7,Marantz,17,Tuner Section,RC5,-1
+0,6045c9ea56c8123a1d54a3ca,Marantz,23,VCR,RC5,-1
+0,6045c9ea56c8123a1d54a3c8,Marantz,134,VCR,NEC1,97
+0,6045c9ea56c8123a1d54a3c9,Marantz,5,VCR,RC5,-1
+0,6045c9ea56c8123a1d54a3cc,Marantz,13,Video Projector,Sharp,-1
+0,6045c9ea56c8123a1d54a3cb,Marantz,,Video Projector,RC5,-1
+0,6045c9ea56c8123a1d54a3ce,Marantz,16,iPod Dock,RC5,-1
+0,6045c9ea56c8123a1d54a3cd,Marantz,14,iPod Dock,RC5,-1
+0,6045c9ea56c8123a1d54a3d0,Mark Levinson,7,Pre-Amplifier,RECS80,-1
+0,6045c9ea56c8123a1d54a3cf,Mark Levinson,4,Pre-Amplifier,Mitsubishi,-1
+0,6045c9ea56c8123a1d54a3d1,Mark Levinson,16,CD Player,Mitsubishi,-1
+0,6045c9ea56c8123a1d54a3d3,Mark Levinson,2,CD Player,RECS80,-1
+0,6045c9ea56c8123a1d54a3d2,Mark Levinson,1,CD Player,RECS80,-1
+0,6045c9ea56c8123a1d54a3d4,Mark Levinson,3,CD Player,RECS80,-1
+0,6045c9ea56c8123a1d54a3d5,Maxx,32,Plasma,NEC1,64
+0,6045c9ea56c8123a1d54a3d6,Maxx,96,Plasma,NEC1,-1
+0,6045c9eb56c8123a1d54a3d7,McIntosh,168,Laser Disc,Pioneer,-1
+0,6045c9eb56c8123a1d54a3d8,McIntosh,202,CD Player,NEC1,149
+0,6045c9eb56c8123a1d54a3d9,McIntosh,202,Pre-Amplifier,NEC2,85
+0,6045c9eb56c8123a1d54a3da,McIntosh,128,DVD Player,NEC2,80
+0,6045c9eb56c8123a1d54a3db,McIntosh,202,Control System,NEC2,85
+0,6045c9eb56c8123a1d54a3dc,McIntosh,202,Receiver,NEC2,85
+0,6045c9eb56c8123a1d54a3dd,Memorex,,DVD Player,NEC1,-1
+0,6045c9eb56c8123a1d54a3de,Memorex,4,TV,NEC1,-1
+0,6045c9eb56c8123a1d54a3df,Meridian,19,CD Player,RC5,-1
+0,6045c9eb56c8123a1d54a3e0,Meridian,19,DVD,RC5,-1
+0,6045c9ec56c8123a1d54a3e1,Meridian,19,800 System Remote,RC5,-1
+0,6045c9ec56c8123a1d54a3e2,Meridian,69,DVD Player,NEC1,-1
+0,6045c9ec56c8123a1d54a3e3,Meridian,19,DVD Player,RC5,-1
+0,6045c9ec56c8123a1d54a3e5,Meridian,26,Pre-Amplifier,Sony20,73
+0,6045c9ec56c8123a1d54a3e4,Meridian,19,Pre-Amplifier,RC5,-1
+0,6045c9ec56c8123a1d54a3e6,Meridian,19,CD-R,RC5,-1
+0,6045c9ec56c8123a1d54a3e7,Meridian,19,Processor,RC5,-1
+0,6045c9ec56c8123a1d54a3e8,Meridian,19,Remote Control,RC5,-1
+0,6045c9ec56c8123a1d54a3e9,Meridian,19,System Remote,RC5,-1
+0,6045c9ec56c8123a1d54a3ea,Meridian,19,Surround Processor,RC5,-1
+0,6045c9ec56c8123a1d54a3eb,Metronome,20,CD Player,RC5,-1
+0,6045c9ed56c8123a1d54a3ec,Micromega,4,DVD Player,RC6,-1
+0,6045c9ed56c8123a1d54a3ed,Microsoft,4,Home Media PC,MCE,15
+0,6045c9ed56c8123a1d54a3ee,Microsoft,5,DVD Player,RCA,-1
+0,6045c9ed56c8123a1d54a3ef,Microsoft,4,Windows Media Center,MCE,15
+0,6045c9ed56c8123a1d54a3f0,Microsoft,4,Game Console,MCE,15
+0,6045c9ed56c8123a1d54a3f1,Microsoft,116,Game Console,MCE,15
+0,6045c9ed56c8123a1d54a3f2,Microsoft,5,Game Console,RCA,-1
+0,6045c9ed56c8123a1d54a3f3,Midiland,81,Digital Decoder,NEC1,175
+0,6045c9ed56c8123a1d54a3f4,Mintek,,DVD Player,NEC1,153
+0,6045c9ed56c8123a1d54a3f5,Mitsubishi,119,CD Player,Mitsubishi,-1
+0,6045c9ed56c8123a1d54a3f6,Mitsubishi,168,CD Player/Laser Disc,Pioneer,-1
+0,6045c9ed56c8123a1d54a3f7,Mitsubishi,,Cable Box,G.I. Cable,-1
+0,6045c9ed56c8123a1d54a3f9,Mitsubishi,138,Cassette Tape,NEC1,-1
+0,6045c9ed56c8123a1d54a3fa,Mitsubishi,141,Cassette Tape,NEC1,-1
+0,6045c9ed56c8123a1d54a3f8,Mitsubishi,119,Cassette Tape,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a3fd,Mitsubishi,12,DSS,NEC1,251
+0,6045c9ee56c8123a1d54a3fb,Mitsubishi,71,DSS,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a3fc,Mitsubishi,12,DSS,NEC,251
+0,6045c9ee56c8123a1d54a3fe,Mitsubishi,64,DSS,NEC1,-1
+0,6045c9ee56c8123a1d54a3ff,Mitsubishi,103,DVD,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a400,Mitsubishi,71,DVD Player,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a401,Mitsubishi,87,DVD Player,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a402,Mitsubishi,103,DVD Player,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a404,Mitsubishi,12,HDTV Receiver,NEC1,251
+0,6045c9ee56c8123a1d54a403,Mitsubishi,71,HDTV Receiver,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a406,Mitsubishi,175,Laser Disc,Pioneer,-1
+0,6045c9ee56c8123a1d54a405,Mitsubishi,168,Laser Disc,Pioneer,-1
+0,6045c9ee56c8123a1d54a407,Mitsubishi,71,Monitor,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a409,Mitsubishi,119,Monitor,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a408,Mitsubishi,87,Monitor,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a40a,Mitsubishi,4,Monitor,NEC1,-1
+0,6045c9ee56c8123a1d54a40b,Mitsubishi,130,Monitor,NEC1,100
+0,6045c9ee56c8123a1d54a40c,Mitsubishi,2,Monitor,Panasonic_Old,-1
+0,6045c9ee56c8123a1d54a40d,Mitsubishi,1,Monitor,Sharp,-1
+0,6045c9ee56c8123a1d54a40e,Mitsubishi,71,Receiver,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a411,Mitsubishi,168,Receiver,NEC1,-1
+0,6045c9ee56c8123a1d54a410,Mitsubishi,119,Receiver,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a40f,Mitsubishi,87,Receiver,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a412,Mitsubishi,12,Satellite,NEC1,251
+0,6045c9ee56c8123a1d54a414,Mitsubishi,87,TV,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a415,Mitsubishi,119,TV,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a413,Mitsubishi,71,TV,Mitsubishi,-1
+0,6045c9ee56c8123a1d54a416,Mitsubishi,1,TV,Sharp,-1
+0,6045c9ef56c8123a1d54a417,Mitsubishi,71,Unknown,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a418,Mitsubishi,87,Unknown,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a419,Mitsubishi,119,Unknown,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a41a,Mitsubishi,3,VCR,Akai,-1
+0,6045c9ef56c8123a1d54a41b,Mitsubishi,7,VCR,Akai,-1
+0,6045c9ef56c8123a1d54a41c,Mitsubishi,71,VCR,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a41e,Mitsubishi,119,VCR,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a41d,Mitsubishi,87,VCR,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a41f,Mitsubishi,23,VCR,Sharp{1},-1
+0,6045c9ef56c8123a1d54a420,Mitsubishi,71,Video Projector,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a424,Motorola,,Cable Box,NEC1,-1
+0,6045c9ef56c8123a1d54a425,Motorola,4,Cable Box,NEC1,-1
+0,6045c9ef56c8123a1d54a426,Motorola,64,Cable Box,NEC1,-1
+0,6045c9ef56c8123a1d54a427,Motorola,68,Cable Box,NEC1,-1
+0,6045c9ef56c8123a1d54a421,Motorola,,Cable Box,G.I. Cable,-1
+0,6045c9ef56c8123a1d54a428,Motorola,170,Cable Box,NEC2,-1
+0,6045c9ef56c8123a1d54a429,Motorola,9,Cable Box,Panasonic_Old,-1
+0,6045c9ef56c8123a1d54a42a,Motorola,,Cable Box,RC5,-1
+0,6045c9ef56c8123a1d54a423,Motorola,3,Cable Box,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a422,Motorola,,Cable Box,G.I. Cable{1},-1
+0,6045c9ef56c8123a1d54a42b,Motorola,5,Cable Box,RC5,-1
+0,6045c9ef56c8123a1d54a42c,Motorola,15,Cable Box,RCA-38,-1
+0,6045c9ef56c8123a1d54a42d,Motorola,1,Cable Box,Sony12,-1
+0,6045c9ef56c8123a1d54a42e,Motorola,18,Cable Box,XMP-1,
+0,6045c9ef56c8123a1d54a42f,Motorola,18,Cable Box,XMP-1/2,
+0,6045c9ef56c8123a1d54a430,Motorola,5,Cable Box,Zenith,1
+0,6045c9ef56c8123a1d54a432,Motorola,64,Cox,NEC1,-1
+0,6045c9ef56c8123a1d54a431,Motorola,,Cox,G.I. Cable,-1
+0,6045c9ef56c8123a1d54a433,Motorola,,DVR,G.I. Cable,-1
+0,6045c9ef56c8123a1d54a434,Motorola,16,IP box,Zaptor-56,
+0,6045c9ef56c8123a1d54a435,Motorola,1,DSS,Sony12,-1
+0,6045c9ef56c8123a1d54a436,Motorola,,Remote,G.I. Cable,-1
+0,6045c9ef56c8123a1d54a438,Motorola,3,Remote,Mitsubishi,-1
+0,6045c9ef56c8123a1d54a437,Motorola,,Remote,G.I. Cable{1},-1
+0,6045c9ef56c8123a1d54a43b,Myryad,17,Receiver,RC5,-1
+0,6045c9ef56c8123a1d54a439,Myryad,,Receiver,RC5,-1
+0,6045c9ef56c8123a1d54a43a,Myryad,16,Receiver,RC5,-1
+0,6045c9ef56c8123a1d54a43c,Myryad,18,Receiver,RC5,-1
+0,6045c9ef56c8123a1d54a43d,Myryad,20,Receiver,RC5,-1
+0,6045c9ef56c8123a1d54a43e,Myryad,21,Receiver,RC5,-1
+0,6045c9ef56c8123a1d54a43f,Myryad,23,Receiver,RC5,-1
+0,6045c9f056c8123a1d54a440,Myryad,,Pre-Amplifier,RC5,-1
+0,6045c9f056c8123a1d54a441,Myryad,16,Pre-Amplifier,RC5,-1
+0,6045c9f056c8123a1d54a444,Myryad,20,Pre-Amplifier,RC5,-1
+0,6045c9f056c8123a1d54a442,Myryad,17,Pre-Amplifier,RC5,-1
+0,6045c9f056c8123a1d54a445,Myryad,21,Pre-Amplifier,RC5,-1
+0,6045c9f056c8123a1d54a443,Myryad,18,Pre-Amplifier,RC5,-1
+0,6045c9f056c8123a1d54a446,Myryad,23,Pre-Amplifier,RC5,-1
+0,6045c9f056c8123a1d54a449,NAD,135,CD Player,NEC1,124
+0,6045c9f056c8123a1d54a447,NAD,42,CD Player,NEC1,-1
+0,6045c9f056c8123a1d54a448,NAD,133,CD Player,NEC1,111
+0,6045c9f056c8123a1d54a44a,NAD,135,Cassette Tape,NEC1,124
+0,6045c9f056c8123a1d54a44b,NAD,64,Monitor,NEC1,-1
+0,6045c9f056c8123a1d54a44c,NAD,64,Monitor,NEC2,-1
+0,6045c9f056c8123a1d54a44d,NAD,135,Receiver,NEC1,124
+0,6045c9f056c8123a1d54a44e,NAD,135,Receiver/CD,NEC1,124
+0,6045c9f056c8123a1d54a450,NAD,135,Surround Processor,NEC,124
+0,6045c9f056c8123a1d54a44f,NAD,93,Surround Processor,Grundig16,-1
+0,6045c9f056c8123a1d54a451,NAD,135,Surround Processor,NEC1,124
+0,6045c9f056c8123a1d54a452,NAD,135,Tuner,NEC1,124
+0,6045c9f056c8123a1d54a453,NAD,135,Amplifier,NEC1,124
+0,6045c9f156c8123a1d54a454,NAD,135,Unknown,NEC1,124
+0,6045c9f156c8123a1d54a455,NEC,4,Receiver,NEC1,-1
+0,6045c9f156c8123a1d54a456,NEC,25,Receiver,NEC1,-1
+0,6045c9f156c8123a1d54a457,NEC,26,Receiver,NEC1,-1
+0,6045c9f156c8123a1d54a458,NEC,26,Receiver,NEC1,197
+0,6045c9f156c8123a1d54a459,NEC,26,Receiver,NEC1,225
+0,6045c9f156c8123a1d54a45b,NEC,26,Receiver,NEC1,231
+0,6045c9f156c8123a1d54a45a,NEC,26,Receiver,NEC1,228
+0,6045c9f156c8123a1d54a45d,NEC,25,Monitor,NEC1,-1
+0,6045c9f156c8123a1d54a45c,NEC,4,Monitor,NEC1,-1
+0,6045c9f156c8123a1d54a45e,NEC,13,Surround Processor,NEC1,-1
+0,6045c9f156c8123a1d54a45f,NEC,26,Surround Processor,NEC1,228
+0,6045c9f156c8123a1d54a461,NEC,24,TV,NEC1,-1
+0,6045c9f156c8123a1d54a460,NEC,4,TV,NEC1,-1
+0,6045c9f156c8123a1d54a462,NEC,24,TV,NEC1,24
+0,6045c9f156c8123a1d54a463,NEC,4,VCR,NEC1,-1
+0,6045c9f156c8123a1d54a465,NEC,25,VCR,NEC1,-1
+0,6045c9f156c8123a1d54a464,NEC,10,VCR,NEC1,-1
+0,6045c9f156c8123a1d54a467,NEC,25,Unknown,NEC1,231
+0,6045c9f156c8123a1d54a466,NEC,25,Unknown,NEC1,-1
+0,6045c9f156c8123a1d54a46a,NEC,24,Video Projector,NEC1,247
+0,6045c9f156c8123a1d54a468,NEC,24,Video Projector,48-NEC1,247
+0,6045c9f156c8123a1d54a469,NEC,24,Video Projector,NEC1,233
+0,6045c9f156c8123a1d54a46b,NET TV,2,TV,Proton,-1
+0,6045c9f156c8123a1d54a46c,Nakamichi,92,DVD Player,NEC2,162
+0,6045c9f256c8123a1d54a46d,Nakamichi,87,Amplifier,NEC1,-1
+0,6045c9f256c8123a1d54a46f,Nakamichi,92,Receiver,NEC1,161
+0,6045c9f256c8123a1d54a472,Nakamichi,186,Receiver,NEC2,-1
+0,6045c9f256c8123a1d54a471,Nakamichi,130,Receiver,NEC1,93
+0,6045c9f256c8123a1d54a470,Nakamichi,103,Receiver,NEC1,-1
+0,6045c9f256c8123a1d54a46e,Nakamichi,92,Receiver,NEC1,-1
+0,6045c9f256c8123a1d54a473,Nakamichi,92,Tuner,NEC1,-1
+0,6045c9f256c8123a1d54a474,Nakamichi,103,Tuner,NEC1,-1
+0,6045c9f256c8123a1d54a475,Nakamichi,92,CD Player,NEC1,-1
+0,6045c9f256c8123a1d54a476,Nakamichi,103,CD Player,NEC1,-1
+0,6045c9f256c8123a1d54a478,Niles Audio,132,Unknown,NEC1,18
+0,6045c9f256c8123a1d54a477,Niles Audio,128,Unknown,NEC1,93
+0,6045c9f256c8123a1d54a479,Nokia,6,Satellite,Barco,-1
+0,6045c9f256c8123a1d54a47a,Nokia,24,Satellite,Barco,-1
+0,6045c9f256c8123a1d54a47b,Novaplex,27,Cable Box,Panasonic_Old,-1
+0,6045c9f256c8123a1d54a47c,Onkyo,132,Cassette Tape,NEC1,89
+0,6045c9f256c8123a1d54a47d,Onkyo,210,Cassette Tape,NEC1,13
+0,6045c9f256c8123a1d54a47f,Onkyo,210,Amplifier,NEC1,108
+0,6045c9f256c8123a1d54a481,Onkyo,210,Amplifier,NEC2,109
+0,6045c9f256c8123a1d54a47e,Onkyo,210,Amplifier,NEC,109
+0,6045c9f256c8123a1d54a480,Onkyo,210,Amplifier,NEC1,109
+0,6045c9f256c8123a1d54a482,Onkyo,168,Laser Disc,Pioneer,-1
+0,6045c9f356c8123a1d54a484,Onkyo,210,DVD Player,NEC1,43
+0,6045c9f356c8123a1d54a483,Onkyo,69,DVD Player,NEC1,-1
+0,6045c9f356c8123a1d54a485,Onkyo,132,CD Player,NEC1,117
+0,6045c9f356c8123a1d54a489,Onkyo,210,CD Player,NEC2,13
+0,6045c9f356c8123a1d54a487,Onkyo,210,CD Player,NEC1,44
+0,6045c9f356c8123a1d54a488,Onkyo,210,CD Player,NEC1,109
+0,6045c9f356c8123a1d54a48a,Onkyo,210,CD Player,NEC2,44
+0,6045c9f356c8123a1d54a486,Onkyo,210,CD Player,NEC1,13
+0,6045c9f356c8123a1d54a48b,Onkyo,210,CD Player,NEC2,109
+0,6045c9f356c8123a1d54a48e,Onkyo,210,Receiver,NEC2,108
+0,6045c9f356c8123a1d54a48f,Onkyo,210,Receiver,NEC2,109
+0,6045c9f356c8123a1d54a48c,Onkyo,210,Receiver,NEC1,108
+0,6045c9f356c8123a1d54a48d,Onkyo,210,Receiver,NEC1,109
+0,6045c9f356c8123a1d54a492,Onkyo,210,Unknown,NEC1,109
+0,6045c9f356c8123a1d54a490,Onkyo,210,Unknown,NEC,109
+0,6045c9f356c8123a1d54a491,Onkyo,210,Unknown,NEC1,44
+0,6045c9f356c8123a1d54a494,Onkyo,210,Unknown,NEC2,109
+0,6045c9f356c8123a1d54a493,Onkyo,210,Unknown,NEC2,44
+0,6045c9f356c8123a1d54a498,Onkyo,210,Tuner,NEC2,109
+0,6045c9f356c8123a1d54a496,Onkyo,210,Tuner,NEC1,109
+0,6045c9f356c8123a1d54a495,Onkyo,210,Tuner,NEC1,37
+0,6045c9f356c8123a1d54a497,Onkyo,210,Tuner,NEC2,37
+0,6045c9f356c8123a1d54a499,Onkyo Integra,210,DVD Changer,NEC1,43
+0,6045c9f356c8123a1d54a49b,Onkyo Integra,210,Receiver,NEC1,109
+0,6045c9f356c8123a1d54a49d,Onkyo Integra,210,Receiver,NEC2,109
+0,6045c9f356c8123a1d54a49a,Onkyo Integra,210,Receiver,NEC1,108
+0,6045c9f356c8123a1d54a49c,Onkyo Integra,210,Receiver,NEC2,108
+0,6045c9f356c8123a1d54a49e,PHAST,85,PLR-IR1,Dgtec,-1
+0,6045c9f356c8123a1d54a49f,PS Audio,20,CD Player,RC5,-1
+0,6045c9f456c8123a1d54a4a1,Panasonic,128,Plasma,Panasonic,4
+0,6045c9f456c8123a1d54a4a0,Panasonic,128,Plasma,Panasonic,
+0,6045c9f456c8123a1d54a4a3,Panasonic,160,DVD Player,Panasonic,
+0,6045c9f456c8123a1d54a4a2,Panasonic,128,DVD Player,Panasonic,
+0,6045c9f456c8123a1d54a4a4,Panasonic,160,DVD Player,Panasonic,4
+0,6045c9f456c8123a1d54a4a5,Panasonic,160,DVD Player,Panasonic,16
+0,6045c9f456c8123a1d54a4a6,Panasonic,160,DVD Player,Panasonic,18
+0,6045c9f456c8123a1d54a4a7,Panasonic,160,DVD Player,Panasonic,28
+0,6045c9f456c8123a1d54a4a9,Panasonic,176,DVD Player,Panasonic,
+0,6045c9f456c8123a1d54a4a8,Panasonic,160,DVD Player,Panasonic,34
+0,6045c9f456c8123a1d54a4aa,Panasonic,160,Receiver,Panasonic,
+0,6045c9f456c8123a1d54a4ab,Panasonic,160,Receiver,Panasonic,4
+0,6045c9f456c8123a1d54a4ac,Panasonic,160,Receiver,Panasonic,28
+0,6045c9f456c8123a1d54a4ad,Panasonic,128,HDTV Tuner,Panasonic,2
+0,6045c9f456c8123a1d54a4af,Panasonic,128,TV,Panasonic,4
+0,6045c9f456c8123a1d54a4ae,Panasonic,128,TV,Panasonic,
+0,6045c9f456c8123a1d54a4b3,Panasonic,2,VCR,Panasonic_Old,-1
+0,6045c9f456c8123a1d54a4b1,Panasonic,144,VCR,Panasonic,1
+0,6045c9f456c8123a1d54a4b2,Panasonic,144,VCR,Panasonic,5
+0,6045c9f456c8123a1d54a4b0,Panasonic,144,VCR,Panasonic,
+0,6045c9f456c8123a1d54a4b4,Panasonic,144,Laser Disc,Panasonic,64
+0,6045c9f456c8123a1d54a4b5,Parasound,3,Surround Processor,NEC1,240
+0,6045c9f456c8123a1d54a4b7,Parasound,134,Receiver,NEC1,97
+0,6045c9f456c8123a1d54a4b8,Parasound,27,Receiver,RC5,-1
+0,6045c9f456c8123a1d54a4b6,Parasound,3,Receiver,NEC1,240
+0,6045c9f456c8123a1d54a4ba,Philips,26,CD-R,RC5,-1
+0,6045c9f456c8123a1d54a4b9,Philips,20,CD-R,RC5,-1
+0,6045c9f556c8123a1d54a4bc,Philips,133,DSS,Tivo unit=0,48
+0,6045c9f556c8123a1d54a4bb,Philips,39,DSS,RC6,-1
+0,6045c9f556c8123a1d54a4bf,Philips,133,Digital Recorder,Tivo unit=2,48
+0,6045c9f556c8123a1d54a4c0,Philips,133,Digital Recorder,Tivo unit=3,48
+0,6045c9f556c8123a1d54a4c2,Philips,133,Digital Recorder,Tivo unit=5,48
+0,6045c9f556c8123a1d54a4c1,Philips,133,Digital Recorder,Tivo unit=4,48
+0,6045c9f556c8123a1d54a4c3,Philips,133,Digital Recorder,Tivo unit=6,48
+0,6045c9f556c8123a1d54a4c4,Philips,133,Digital Recorder,Tivo unit=7,48
+0,6045c9f556c8123a1d54a4c5,Philips,133,Digital Recorder,Tivo unit=8,48
+0,6045c9f556c8123a1d54a4bd,Philips,133,Digital Recorder,Tivo unit=0,48
+0,6045c9f556c8123a1d54a4c6,Philips,133,Digital Recorder,Tivo unit=9,48
+0,6045c9f556c8123a1d54a4be,Philips,133,Digital Recorder,Tivo unit=1,48
+0,6045c9f556c8123a1d54a4ca,Philips,17,Receiver,RC5,-1
+0,6045c9f556c8123a1d54a4c8,Philips,5,Receiver,RC5,-1
+0,6045c9f556c8123a1d54a4c7,Philips,,Receiver,RC5,-1
+0,6045c9f556c8123a1d54a4cb,Philips,20,Receiver,RC5,-1
+0,6045c9f556c8123a1d54a4c9,Philips,16,Receiver,RC5,-1
+0,6045c9f556c8123a1d54a4cc,Philips,,TV,RC5,-1
+0,6045c9f556c8123a1d54a4cd,Philips,3,TV,RC5,-1
+0,6045c9f556c8123a1d54a4ce,Philips,4,DVD Player,RC6,-1
+0,6045c9f556c8123a1d54a4cf,Philips,5,VCR,RC5,-1
+0,6045c9f556c8123a1d54a4d0,Pioneer,162,CD Player,Pioneer,-1
+0,6045c9f556c8123a1d54a4d1,Pioneer,162,CD Jukebox,Pioneer,-1
+0,6045c9f556c8123a1d54a4d3,Pioneer,168,Cable Box,NEC2,40
+0,6045c9f556c8123a1d54a4d2,Pioneer,172,Cable Box,NEC1,-1
+0,6045c9f556c8123a1d54a4d4,Pioneer,170,Cable Box,Pioneer,-1
+0,6045c9f556c8123a1d54a4d5,Pioneer,161,Cassette Tape,Pioneer,-1
+0,6045c9f556c8123a1d54a4d7,Pioneer,175,DVD Changer,Pioneer,-1
+0,6045c9f556c8123a1d54a4d6,Pioneer,163,DVD Changer,Pioneer,-1
+0,6045c9f656c8123a1d54a4d9,Pioneer,175,DVD Jukebox,Pioneer,-1
+0,6045c9f656c8123a1d54a4d8,Pioneer,163,DVD Jukebox,Pioneer,-1
+0,6045c9f656c8123a1d54a4da,Pioneer,163,DVD Player,NEC,-1
+0,6045c9f656c8123a1d54a4de,Pioneer,163,DVD Player,Pioneer,-1
+0,6045c9f656c8123a1d54a4dd,Pioneer,175,DVD Player,NEC2,-1
+0,6045c9f656c8123a1d54a4df,Pioneer,175,DVD Player,Pioneer,-1
+0,6045c9f656c8123a1d54a4db,Pioneer,175,DVD Player,NEC,-1
+0,6045c9f656c8123a1d54a4dc,Pioneer,163,DVD Player,NEC2,-1
+0,6045c9f656c8123a1d54a4e2,Pioneer,163,Laser Disc,Pioneer,-1
+0,6045c9f656c8123a1d54a4e0,Pioneer,168,Laser Disc,NEC2,-1
+0,6045c9f656c8123a1d54a4e1,Pioneer,175,Laser Disc,NEC2,-1
+0,6045c9f656c8123a1d54a4e3,Pioneer,168,Laser Disc,Pioneer,-1
+0,6045c9f656c8123a1d54a4e4,Pioneer,175,Laser Disc,Pioneer,-1
+0,6045c9f656c8123a1d54a4e7,Pioneer,165,Amplifier,Pioneer,-1
+0,6045c9f656c8123a1d54a4e5,Pioneer,162,Amplifier,Pioneer,-1
+0,6045c9f656c8123a1d54a4e6,Pioneer,164,Amplifier,Pioneer,-1
+0,6045c9f656c8123a1d54a4e8,Pioneer,165,Receiver,NEC2,-1
+0,6045c9f656c8123a1d54a4ea,Pioneer,165,Receiver,Pioneer,-1
+0,6045c9f656c8123a1d54a4e9,Pioneer,164,Receiver,Pioneer,-1
+0,6045c9f656c8123a1d54a4eb,Pioneer,170,TV,Pioneer,-1
+0,6045c9f656c8123a1d54a4ec,Pioneer,175,TV,Pioneer,-1
+0,6045c9f656c8123a1d54a4ed,Pragmatic,172,Router,NEC1,-1
+0,6045c9f656c8123a1d54a4ee,Proceed,5,Surround Processor,RECS80,-1
+0,6045c9f656c8123a1d54a4ef,Proscan,5,DVD Player,RCA,-1
+0,6045c9f656c8123a1d54a4f0,Proscan,15,DVD Player,RCA,-1
+0,6045c9f756c8123a1d54a4f2,Proscan,15,TV,RCA-38,-1
+0,6045c9f756c8123a1d54a4f1,Proscan,15,TV,RCA,-1
+0,6045c9f756c8123a1d54a4f3,Proton,4,TV,NEC1,-1
+0,6045c9f756c8123a1d54a4f5,Proton,3,TV,Proton,-1
+0,6045c9f756c8123a1d54a4f4,Proton,2,TV,Proton,-1
+0,6045c9f756c8123a1d54a4f6,Proton,17,TV,Proton,-1
+0,6045c9f756c8123a1d54a4f7,Quasar,128,TV,Panasonic,
+0,6045c9f756c8123a1d54a4f8,RCA,7,DSS,RCA,-1
+0,6045c9f756c8123a1d54a4f9,RCA,15,DSS,RCA,-1
+0,6045c9f756c8123a1d54a4fa,RCA,13,Laser Disc,RCA,-1
+0,6045c9f756c8123a1d54a4fb,RCA,5,DVD Player,RCA,-1
+0,6045c9f756c8123a1d54a4fc,RCA,5,DVD Player,RCA-38,-1
+0,6045c9f756c8123a1d54a4fd,RCA,14,VCR,RCA,-1
+0,6045c9f756c8123a1d54a4fe,RCA,15,VCR,RCA,-1
+0,6045c9f756c8123a1d54a501,RCA,14,TV,RCA-38,-1
+0,6045c9f756c8123a1d54a500,RCA,7,TV,RCA-38,-1
+0,6045c9f756c8123a1d54a4ff,RCA,15,TV,RCA,-1
+0,6045c9f756c8123a1d54a502,RCA,15,TV,RCA-38,-1
+0,6045c9f756c8123a1d54a503,RSQ,3,Karaoke,JVC,-1
+0,6045c9f756c8123a1d54a504,RSQ,179,Karaoke,JVC,-1
+0,6045c9f756c8123a1d54a505,RSQ,191,Karaoke,JVC,-1
+0,6045c9f756c8123a1d54a506,Rega,110,Receiver,NEC1,-1
+0,6045c9f756c8123a1d54a507,Rega,135,Receiver,NEC1,124
+0,6045c9f756c8123a1d54a508,Rega,16,Receiver,RC5,-1
+0,6045c9f856c8123a1d54a509,Replay Networks,1,Digital Recorder,Replay,
+0,6045c9f856c8123a1d54a50a,Rotel,20,CD Player,RC5,-1
+0,6045c9f856c8123a1d54a50b,Rotel,82,Tuner,Aiwa,
+0,6045c9f856c8123a1d54a50d,Runco,4,Line Doubler,NEC2,-1
+0,6045c9f856c8123a1d54a50c,Runco,4,Line Doubler,NEC1,-1
+0,6045c9f856c8123a1d54a50e,Runco,1,Video Controller,Sharp,-1
+0,6045c9f856c8123a1d54a50f,Runco,1,Controller/DLP,Sharp,-1
+0,6045c9f856c8123a1d54a511,Runco,24,Video Projector,NEC2,247
+0,6045c9f856c8123a1d54a510,Runco,24,Video Projector,NEC1,247
+0,6045c9f856c8123a1d54a513,Runco,5,Video Projector,Zenith,1
+0,6045c9f856c8123a1d54a512,Runco,1,Video Projector,Sharp,-1
+0,6045c9f856c8123a1d54a514,Russound,10,Music Server,DirecTV,-1
+0,6045c9f856c8123a1d54a515,Samsung,7,TV,NECx2,7
+0,6045c9f856c8123a1d54a516,Samsung,1,Air Conditioner,Samsung20,8
+0,6045c9f956c8123a1d54a517,Samsung,7,Rear Projection DLP TV,NECx2,7
+0,6045c9f956c8123a1d54a519,Samsung,2,VCR,NECx2,2
+0,6045c9f956c8123a1d54a51a,Samsung,5,VCR,NECx2,5
+0,6045c9f956c8123a1d54a518,Samsung,2,VCR,NEC2,2
+0,6045c9f956c8123a1d54a51b,Sanyo,56,TV,NEC1,-1
+0,6045c9f956c8123a1d54a51c,Sanyo,48,Video Projector,NEC1,-1
+0,6045c9f956c8123a1d54a51e,Scientific Atlanta,27,Cable Box,Panasonic_Old,-1
+0,6045c9f956c8123a1d54a51d,Scientific Atlanta,71,Cable Box,Mitsubishi,-1
+0,6045c9f956c8123a1d54a520,Seleco,30,TV,Barco,-1
+0,6045c9f956c8123a1d54a51f,Seleco,,TV,Barco,-1
+0,6045c9f956c8123a1d54a521,Sharp,3,VCR,Sharp,-1
+0,6045c9f956c8123a1d54a522,Sharp,1,DTV Decoder,Sharp,-1
+0,6045c9f956c8123a1d54a523,Sharp,13,Video Projector,Sharp,-1
+0,6045c9fa56c8123a1d54a524,Sharp,1,Monitor,Sharp,-1
+0,6045c9fa56c8123a1d54a526,Sharp,1,TV,Sharp{2},-1
+0,6045c9fa56c8123a1d54a525,Sharp,1,TV,Sharp,-1
+0,6045c9fa56c8123a1d54a527,Sherwood,131,Receiver,NEC2,69
+0,6045c9fa56c8123a1d54a528,Sigma Designs,128,DVD Player,NEC1,-1
+0,6045c9fa56c8123a1d54a529,Snell,80,Speaker,Aiwa,
+0,6045c9fa56c8123a1d54a52a,Sonance,132,System Controller,NECx1,132
+0,6045c9fa56c8123a1d54a52b,Sonance,,Distributed Audio,NEC,90
+0,6045c9fa56c8123a1d54a52c,Sonance,,Distributed Audio,NEC1,90
+0,6045c9fa56c8123a1d54a52d,Sonance,,Distributed Audio,NEC2,90
+0,6045c9fa56c8123a1d54a52e,Sony,68,Boombox,Sony15,-1
+0,6045c9fa56c8123a1d54a52f,Sony,100,Boombox,Sony15,-1
+0,6045c9fa56c8123a1d54a530,Sony,17,CD Changer,Sony12,-1
+0,6045c9fa56c8123a1d54a534,Sony,36,CD Jukebox,Sony15,-1
+0,6045c9fa56c8123a1d54a533,Sony,23,CD Jukebox,Sony15,-1
+0,6045c9fa56c8123a1d54a531,Sony,1,CD Jukebox,Sony12,-1
+0,6045c9fa56c8123a1d54a535,Sony,57,CD Jukebox,Sony15,-1
+0,6045c9fa56c8123a1d54a536,Sony,81,CD Jukebox,Sony15,-1
+0,6045c9fa56c8123a1d54a532,Sony,17,CD Jukebox,Sony12,-1
+0,6045c9fa56c8123a1d54a537,Sony,26,CD Jukebox,Sony20,153
+0,6045c9fb56c8123a1d54a53a,Sony,57,CD Player,Sony15,-1
+0,6045c9fb56c8123a1d54a539,Sony,17,CD Player,Sony12,-1
+0,6045c9fb56c8123a1d54a53b,Sony,81,CD Player,Sony15,-1
+0,6045c9fb56c8123a1d54a538,Sony,1,CD Player,Sony12,-1
+0,6045c9fb56c8123a1d54a53c,Sony,14,Cassette Tape,Sony12,-1
+0,6045c9fb56c8123a1d54a53d,Sony,16,Cassette Tape,Sony12,-1
+0,6045c9fb56c8123a1d54a53e,Sony,26,DSP,Sony20,233
+0,6045c9fb56c8123a1d54a53f,Sony,28,DAT,Sony12,-1
+0,6045c9fb56c8123a1d54a542,Sony,1,DSS,Sony12,-1
+0,6045c9fb56c8123a1d54a543,Sony,11,DSS,Sony12,-1
+0,6045c9fb56c8123a1d54a544,Sony,183,DSS,Sony15,-1
+0,6045c9fb56c8123a1d54a545,Sony,23,DSS,Sony20,133
+0,6045c9fb56c8123a1d54a541,Sony,64,DSS,NEC1,-1
+0,6045c9fb56c8123a1d54a540,Sony,3,DSS,JVC,-1
+0,6045c9fb56c8123a1d54a546,Sony,5,DSS,Zenith,1
+0,6045c9fb56c8123a1d54a549,Sony,217,DV Cam,Sony15,-1
+0,6045c9fb56c8123a1d54a548,Sony,185,DV Cam,Sony15,-1
+0,6045c9fb56c8123a1d54a547,Sony,7,DV Cam,Sony12,-1
+0,6045c9fb56c8123a1d54a54c,Sony,164,DVD Player,Sony15,-1
+0,6045c9fb56c8123a1d54a54d,Sony,26,DVD Player,Sony20,73
+0,6045c9fb56c8123a1d54a54f,Sony,26,DVD Player,Sony20,98
+0,6045c9fb56c8123a1d54a550,Sony,26,DVD Player,Sony20,218
+0,6045c9fb56c8123a1d54a54b,Sony,4,DVD Player,Sony15,-1
+0,6045c9fb56c8123a1d54a54a,Sony,1,DVD Player,Sony12,-1
+0,6045c9fb56c8123a1d54a54e,Sony,26,DVD Player,Sony20,83
+0,6045c9fb56c8123a1d54a552,Sony,26,Digital Recorder,Sony20,73
+0,6045c9fb56c8123a1d54a553,Sony,26,Digital Recorder,Sony20,98
+0,6045c9fb56c8123a1d54a551,Sony,1,Digital Recorder,Sony12,-1
+0,6045c9fb56c8123a1d54a554,Sony,26,Digital Recorder,Sony20,154
+0,6045c9fb56c8123a1d54a555,Sony,6,Laser Disc,Sony12,-1
+0,6045c9fc56c8123a1d54a556,Sony,15,Mini-Disc,Sony12,-1
+0,6045c9fc56c8123a1d54a557,Sony,17,Mini-Disc,Sony12,-1
+0,6045c9fc56c8123a1d54a55a,Sony,7,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a559,Sony,6,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a558,Sony,2,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a55b,Sony,11,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a55c,Sony,12,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a55d,Sony,15,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a55e,Sony,16,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a560,Sony,18,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a55f,Sony,17,Pre-Amplifier,Sony12,-1
+0,6045c9fc56c8123a1d54a561,Sony,20,Pre-Amplifier,Sony15,-1
+0,6045c9fc56c8123a1d54a563,Sony,36,Pre-Amplifier,Sony15,-1
+0,6045c9fc56c8123a1d54a564,Sony,144,Pre-Amplifier,Sony15,-1
+0,6045c9fc56c8123a1d54a566,Sony,26,Pre-Amplifier,Sony20,66
+0,6045c9fc56c8123a1d54a565,Sony,183,Pre-Amplifier,Sony15,-1
+0,6045c9fc56c8123a1d54a562,Sony,23,Pre-Amplifier,Sony15,-1
+0,6045c9fc56c8123a1d54a567,Sony,26,Pre-Amplifier,Sony20,73
+0,6045c9fc56c8123a1d54a568,Sony,1,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a569,Sony,2,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a56b,Sony,7,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a56c,Sony,11,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a56d,Sony,12,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a56f,Sony,15,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a56e,Sony,13,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a570,Sony,16,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a56a,Sony,6,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a571,Sony,17,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a573,Sony,4,Receiver,Sony15,-1
+0,6045c9fc56c8123a1d54a574,Sony,20,Receiver,Sony15,-1
+0,6045c9fc56c8123a1d54a575,Sony,23,Receiver,Sony15,-1
+0,6045c9fc56c8123a1d54a576,Sony,36,Receiver,Sony15,-1
+0,6045c9fc56c8123a1d54a572,Sony,18,Receiver,Sony12,-1
+0,6045c9fc56c8123a1d54a577,Sony,48,Receiver,Sony15,-1
+0,6045c9fc56c8123a1d54a578,Sony,121,Receiver,Sony15,-1
+0,6045c9fc56c8123a1d54a57b,Sony,26,Receiver,Sony20,66
+0,6045c9fc56c8123a1d54a579,Sony,144,Receiver,Sony15,-1
+0,6045c9fc56c8123a1d54a57a,Sony,176,Receiver,Sony15,-1
+0,6045c9fc56c8123a1d54a57c,Sony,26,Receiver,Sony20,73
+0,6045c9fc56c8123a1d54a57d,Sony,8,Receiver,Thomson7,-1
+0,6045c9fc56c8123a1d54a57e,Sony,26,Surround Processor,Sony20,233
+0,6045c9fc56c8123a1d54a580,Sony,3,TV,Sony12,-1
+0,6045c9fc56c8123a1d54a583,Sony,151,TV,Sony15,-1
+0,6045c9fc56c8123a1d54a585,Sony,183,TV,Sony15,-1
+0,6045c9fc56c8123a1d54a584,Sony,164,TV,Sony15,-1
+0,6045c9fc56c8123a1d54a57f,Sony,1,TV,Sony12,-1
+0,6045c9fc56c8123a1d54a581,Sony,84,TV,Sony15,-1
+0,6045c9fc56c8123a1d54a582,Sony,119,TV,Sony15,-1
+0,6045c9fc56c8123a1d54a586,Sony,26,TV,Sony20,42
+0,6045c9fc56c8123a1d54a588,Sony,23,TiVo,Sony20,133
+0,6045c9fc56c8123a1d54a589,Sony,26,TiVo,Sony20,154
+0,6045c9fc56c8123a1d54a587,Sony,183,TiVo,Sony15,-1
+0,6045c9fc56c8123a1d54a58a,Sony,,VCR,DirecTV,-1
+0,6045c9fc56c8123a1d54a58b,Sony,5,VCR,DirecTV,-1
+0,6045c9fc56c8123a1d54a58c,Sony,1,VCR,Sony12,-1
+0,6045c9fc56c8123a1d54a58e,Sony,7,VCR,Sony12,-1
+0,6045c9fc56c8123a1d54a58f,Sony,9,VCR,Sony12,-1
+0,6045c9fc56c8123a1d54a591,Sony,180,VCR,Sony15,-1
+0,6045c9fc56c8123a1d54a58d,Sony,2,VCR,Sony12,-1
+0,6045c9fc56c8123a1d54a592,Sony,185,VCR,Sony15,-1
+0,6045c9fc56c8123a1d54a593,Sony,186,VCR,Sony15,-1
+0,6045c9fc56c8123a1d54a590,Sony,11,VCR,Sony12,-1
+0,6045c9fc56c8123a1d54a594,Sony,25,VCR,Sony20,37
+0,6045c9fc56c8123a1d54a595,Sony,25,VCR,Sony20,69
+0,6045c9fc56c8123a1d54a597,Sony,26,Video Projector,Sony20,42
+0,6045c9fc56c8123a1d54a596,Sony,84,Video Projector,Sony15,-1
+0,6045c9fc56c8123a1d54a59a,Sunfire,184,Surround Processor,NEC1,3
+0,6045c9fc56c8123a1d54a59b,Sunfire,184,Surround Processor,NEC2,
+0,6045c9fc56c8123a1d54a59c,Sunfire,184,Surround Processor,NEC2,1
+0,6045c9fc56c8123a1d54a59d,Sunfire,184,Surround Processor,NEC2,3
+0,6045c9fc56c8123a1d54a599,Sunfire,184,Surround Processor,NEC1,1
+0,6045c9fc56c8123a1d54a598,Sunfire,184,Surround Processor,NEC1,
+0,6045c9fc56c8123a1d54a59e,Symphonic,40,VCR,Emerson,-1
+0,6045c9fc56c8123a1d54a59f,Symphonic,44,VCR,Emerson,-1
+0,6045c9fd56c8123a1d54a5a0,Symphonic,41,TV,Emerson,-1
+0,6045c9fd56c8123a1d54a5a1,TEAC,163,DVD Player,Pioneer,-1
+0,6045c9fd56c8123a1d54a5a2,TEAC,175,DVD Player,Pioneer,-1
+0,6045c9fd56c8123a1d54a5a3,Telemann,8,PC HDTV Tuner Card,NEC1,-1
+0,6045c9fd56c8123a1d54a5a4,Terratec,4,Internet Radio,NEC1,243
+0,6045c9fd56c8123a1d54a5a6,Theta Digital,175,DVD Player,Pioneer,-1
+0,6045c9fd56c8123a1d54a5a5,Theta Digital,163,DVD Player,Pioneer,-1
+0,6045c9fd56c8123a1d54a5a7,Theta Digital,16,Surround Processor,RC5,-1
+0,6045c9fd56c8123a1d54a5a8,TiVo,26,PVR,Sony20,154
+0,6045c9fd56c8123a1d54a5a9,TiVo,133,TiVo,Tivo unit=0,48
+0,6045c9fd56c8123a1d54a5aa,Toshiba,64,TV,NEC,-1
+0,6045c9fd56c8123a1d54a5ab,Toshiba,64,TV,NEC1,-1
+0,6045c9fd56c8123a1d54a5ac,Toshiba,69,DVD Player,NEC,-1
+0,6045c9fd56c8123a1d54a5ad,Toshiba,69,DVD Player,NEC1,-1
+0,6045c9fe56c8123a1d54a5ae,Toshiba,68,VCR,NEC1,-1
+0,6045c9fe56c8123a1d54a5af,Turtle Beach,1,MP3 Player,NEC1,-1
+0,6045c9fe56c8123a1d54a5b0,Turtle Beach,1,MP3 Player,NEC1,249
+0,6045c9fe56c8123a1d54a5b2,US Electronics,,Cable Box,RC5,-1
+0,6045c9fe56c8123a1d54a5b1,US Electronics,,Cable Box,G.I. Cable,-1
+0,6045c9fe56c8123a1d54a5b3,Uniden,1,Satellite,Denon,-1
+0,6045c9fe56c8123a1d54a5b4,Velodyne,,Subwoofer,NEC1,69
+0,6045c9fe56c8123a1d54a5b5,Vidikron,,Video Projector,RC5,-1
+0,6045c9fe56c8123a1d54a5b6,VocoPro,32,Karaoke,Aiwa,1
+0,6045c9fe56c8123a1d54a5b7,XORO,,Sat,NEC1,191
+0,6045c9fe56c8123a1d54a5b8,Xantech,6,Programmer,NEC1,-1
+0,6045c9fe56c8123a1d54a5b9,Xantech,6,Relay Module,NEC1,-1
+0,6045c9ff56c8123a1d54a5ba,Yamaha,120,Amplifier,NEC1,-1
+0,6045c9ff56c8123a1d54a5bc,Yamaha,125,Amplifier,NEC1,-1
+0,6045c9ff56c8123a1d54a5bb,Yamaha,122,Amplifier,NEC1,-1
+0,6045c9ff56c8123a1d54a5bf,Yamaha,121,CD Changer,NEC1,-1
+0,6045c9ff56c8123a1d54a5bd,Yamaha,121,CD Changer,NEC,-1
+0,6045c9ff56c8123a1d54a5be,Yamaha,122,CD Changer,NEC,-1
+0,6045c9ff56c8123a1d54a5c0,Yamaha,122,CD Changer,NEC1,-1
+0,6045c9ff56c8123a1d54a5c5,Yamaha,127,A/V Receiver,NEC1-f16,-1
+0,6045c9ff56c8123a1d54a5c1,Yamaha,122,A/V Receiver,NEC1,-1
+0,6045c9ff56c8123a1d54a5c4,Yamaha,126,A/V Receiver,NEC1-f16,-1
+0,6045c9ff56c8123a1d54a5c3,Yamaha,127,A/V Receiver,NEC1,1
+0,6045c9ff56c8123a1d54a5c8,Yamaha,127,A/V Receiver,NEC1-y1,1
+0,6045c9ff56c8123a1d54a5c7,Yamaha,126,A/V Receiver,NEC1-y1,-1
+0,6045c9ff56c8123a1d54a5c6,Yamaha,122,A/V Receiver,NEC1-y1,-1
+0,6045c9ff56c8123a1d54a5c2,Yamaha,126,A/V Receiver,NEC1,-1
+0,6045c9ff56c8123a1d54a5c9,Yamaha,124,Blu-Ray,NEC1,-1
+0,6045c9ff56c8123a1d54a5cb,Yamaha,122,CD Jukebox,NEC1,-1
+0,6045c9ff56c8123a1d54a5ca,Yamaha,121,CD Jukebox,NEC1,-1
+0,6045c9ff56c8123a1d54a5cc,Yamaha,121,CD Jukebox,NEC2,-1
+0,6045c9ff56c8123a1d54a5cd,Yamaha,127,CD-R,NEC1,-1
+0,6045c9ff56c8123a1d54a5cf,Yamaha,122,CD Player,NEC,-1
+0,6045c9ff56c8123a1d54a5d0,Yamaha,121,CD Player,NEC1,-1
+0,6045c9ff56c8123a1d54a5d1,Yamaha,122,CD Player,NEC1,-1
+0,6045c9ff56c8123a1d54a5d2,Yamaha,121,CD Player,NEC2,-1
+0,6045c9ff56c8123a1d54a5ce,Yamaha,121,CD Player,NEC,-1
+0,6045c9ff56c8123a1d54a5d3,Yamaha,121,CD Player,Pioneer,-1
+0,6045c9ff56c8123a1d54a5d5,Yamaha,127,Cassette Tape,NEC1,-1
+0,6045c9ff56c8123a1d54a5d4,Yamaha,122,Cassette Tape,NEC1,-1
+0,6045c9ff56c8123a1d54a5d6,Yamaha,128,DAT,NEC1,55
+0,6045c9ff56c8123a1d54a5d9,Yamaha,80,DSP,NEC1,-1
+0,6045c9ff56c8123a1d54a5d7,Yamaha,6,DSP,Akai,-1
+0,6045c9ff56c8123a1d54a5db,Yamaha,122,DSP,NEC1,-1
+0,6045c9ff56c8123a1d54a5dc,Yamaha,4,DSP,RC6,-1
+0,6045c9ff56c8123a1d54a5da,Yamaha,120,DSP,NEC1,-1
+0,6045c9ff56c8123a1d54a5d8,Yamaha,87,DSP,Mitsubishi,-1
+0,6045ca0056c8123a1d54a5dd,Yamaha,4,DVD Changer,RC6,-1
+0,6045ca0056c8123a1d54a5de,Yamaha,124,DVD,NEC1,-1
+0,6045ca0056c8123a1d54a5e0,Yamaha,4,DVD,RC6,-1
+0,6045ca0056c8123a1d54a5df,Yamaha,176,DVD,Panasonic,
+0,6045ca0056c8123a1d54a5e2,Yamaha,176,DVD Player,Panasonic,
+0,6045ca0056c8123a1d54a5e3,Yamaha,4,DVD Player,RC6,-1
+0,6045ca0056c8123a1d54a5e1,Yamaha,124,DVD Player,NEC1,-1
+0,6045ca0056c8123a1d54a5e4,Yamaha,120,DVD Pre-amp,NEC1,-1
+0,6045ca0056c8123a1d54a5e5,Yamaha,124,DVD Pre-amp,NEC1,-1
+0,6045ca0056c8123a1d54a5e6,Yamaha,120,DVD Receiver,NEC1,-1
+0,6045ca0056c8123a1d54a5e7,Yamaha,124,DVD Receiver,NEC1,-1
+0,6045ca0056c8123a1d54a5e8,Yamaha,71,DVR,Mitsubishi,-1
+0,6045ca0056c8123a1d54a5ea,Yamaha,124,DVR,NEC1,-1
+0,6045ca0056c8123a1d54a5e9,Yamaha,120,DVR,NEC1,-1
+0,6045ca0056c8123a1d54a5eb,Yamaha,124,Laser Disc,NEC1,-1
+0,6045ca0056c8123a1d54a5ec,Yamaha,120,Mini System,NEC1,-1
+0,6045ca0056c8123a1d54a5ed,Yamaha,128,Music Server,NEC1,55
+0,6045ca0056c8123a1d54a5ef,Yamaha,209,Projector,NEC2,-1
+0,6045ca0056c8123a1d54a5f0,Yamaha,240,Projector,Proton,-1
+0,6045ca0056c8123a1d54a5ee,Yamaha,209,Projector,NEC1,-1
+0,6045ca0156c8123a1d54a5f1,Yamaha,80,Plasma,NEC1,-1
+0,6045ca0156c8123a1d54a5f4,Yamaha,120,Sound Projector,NEC2,-1
+0,6045ca0156c8123a1d54a5f2,Yamaha,120,Sound Projector,NEC1,-1
+0,6045ca0156c8123a1d54a5f3,Yamaha,126,Sound Projector,NEC1,-1
+0,6045ca0156c8123a1d54a5f5,Yamaha,126,Sound Projector,NEC2,-1
+0,6045ca0156c8123a1d54a5f8,Yamaha,122,Receiver,NEC,-1
+0,6045ca0156c8123a1d54a5f9,Yamaha,124,Receiver,NEC,-1
+0,6045ca0156c8123a1d54a5f7,Yamaha,8,Receiver,DirecTV,-1
+0,6045ca0156c8123a1d54a5fa,Yamaha,120,Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a5f6,Yamaha,6,Receiver,Akai,-1
+0,6045ca0156c8123a1d54a5fb,Yamaha,121,Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a5fc,Yamaha,122,Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a5fe,Yamaha,125,Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a5fd,Yamaha,124,Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a5ff,Yamaha,126,Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a600,Yamaha,127,Receiver,NEC1,1
+0,6045ca0156c8123a1d54a602,Yamaha,,Receiver,NEC1-f16,
+0,6045ca0156c8123a1d54a601,Yamaha,209,Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a603,Yamaha,122,Receiver,NEC1-f16,-1
+0,6045ca0156c8123a1d54a604,Yamaha,126,Receiver,NEC1-f16,-1
+0,6045ca0156c8123a1d54a606,Yamaha,122,Receiver,NEC1-y1,-1
+0,6045ca0156c8123a1d54a605,Yamaha,127,Receiver,NEC1-f16,1
+0,6045ca0156c8123a1d54a607,Yamaha,126,Receiver,NEC1-y1,-1
+0,6045ca0156c8123a1d54a609,Yamaha,122,Receiver,NEC1-y2,-1
+0,6045ca0156c8123a1d54a608,Yamaha,127,Receiver,NEC1-y1,1
+0,6045ca0156c8123a1d54a60a,Yamaha,126,Receiver,NEC1-y2,-1
+0,6045ca0156c8123a1d54a60b,Yamaha,127,Receiver,NEC1-y2,1
+0,6045ca0156c8123a1d54a60c,Yamaha,122,Receiver,NEC1-y3,-1
+0,6045ca0156c8123a1d54a60d,Yamaha,126,Receiver,NEC1-y3,-1
+0,6045ca0156c8123a1d54a60e,Yamaha,127,Receiver,NEC1-y3,1
+0,6045ca0156c8123a1d54a610,Yamaha,126,Receiver,NEC2,-1
+0,6045ca0156c8123a1d54a60f,Yamaha,122,Receiver,NEC2,-1
+0,6045ca0156c8123a1d54a611,Yamaha,15,Receiver,Old),-1
+0,6045ca0156c8123a1d54a612,Yamaha,122,Receiver,Pioneer,-1
+0,6045ca0156c8123a1d54a613,Yamaha,,Receiver,RC5,-1
+0,6045ca0156c8123a1d54a614,Yamaha,4,Receiver,RC6,-1
+0,6045ca0156c8123a1d54a615,Yamaha,125,Stereo Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a616,Yamaha,126,Stereo Receiver,NEC1,-1
+0,6045ca0156c8123a1d54a618,Yamaha,209,Tuner,NEC1,-1
+0,6045ca0156c8123a1d54a617,Yamaha,122,Tuner,NEC1,-1
+0,6045ca0156c8123a1d54a619,Yamaha,209,Video Projector,NEC1,-1
+0,6045ca0156c8123a1d54a61a,Yamaha,127,iPod Dock,NEC1,1
+0,6045ca0156c8123a1d54a61b,Yamakawa,32,DVD Player,NEC1,-1
+0,6045ca0156c8123a1d54a61c,Zenith,7,VCR,Zenith,
+0,6045ca0156c8123a1d54a61e,Zenith,7,TV,Zenith,
+0,6045ca0156c8123a1d54a61f,Zenith,7,TV,Zenith,1
+0,6045ca0156c8123a1d54a61d,Zenith,5,TV,Zenith,1
+0,6045ca0256c8123a1d54a621,Zenith,6,Video Projector,Zenith,
+0,6045ca0256c8123a1d54a620,Zenith,5,Video Projector,Zenith,1
+0,6045ca0256c8123a1d54a622,Zinwell,64,Satellite Receiver,NEC1,223
+0,6045ca0256c8123a1d54a623,e:max,,DVD Player,NEC1,223
+0,6045ca0256c8123a1d54a624,iPort,1,iPod,NEC1,222
+0,6045ca0256c8123a1d54a625,iPort,1,MP3 Player,NEC1,222
+0,6045ca0256c8123a1d54a626,iPort,1,iPort,NEC1,222

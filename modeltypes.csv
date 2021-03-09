@@ -1,0 +1,767 @@
+__v,_id,brand,devicetype
+0,6045c921a949c739d34f383e,3M,Projector
+0,6045c921a949c739d34f3841,ADB,Set Top Box
+0,6045c921a949c739d34f3842,AMX,PLR-IR1
+0,6045c921a949c739d34f3843,AMC,CD Player
+0,6045c921a949c739d34f3844,AMC,Input Selector
+0,6045c921a949c739d34f3845,AMC,Pre-Amplifier
+0,6045c921a949c739d34f3846,AMC,Tuner
+0,6045c921a949c739d34f383f,3M,Video Projector
+0,6045c921a949c739d34f3840,ADA,Millenium
+0,6045c921a949c739d34f3847,Accupel,Signal Generator
+0,6045c921a949c739d34f3848,Acer,Projector
+0,6045c921a949c739d34f3849,Acesonic,Karaoke
+0,6045c921a949c739d34f384a,Adelphia,Cable Box
+0,6045c921a949c739d34f384c,Adcom,CD Player
+0,6045c921a949c739d34f384b,Adcom,AV Preamplifier
+0,6045c921a949c739d34f384d,Adcom,Pre-Amplifier
+0,6045c921a949c739d34f384e,Adcom,Receiver
+0,6045c921a949c739d34f3850,Adcom,Tuner
+0,6045c921a949c739d34f384f,Adcom,Surround Processor
+0,6045c921a949c739d34f3851,Adcom,Unknown
+0,6045c922a949c739d34f3852,Aesthetix,Pre-Amplifier
+0,6045c922a949c739d34f3854,Aiwa,Cassette Tape
+0,6045c922a949c739d34f3856,Aiwa,Receiver
+0,6045c922a949c739d34f3857,Aiwa,Unknown
+0,6045c922a949c739d34f3858,Aiwa,VCR
+0,6045c922a949c739d34f3853,Aiwa,CD Player
+0,6045c922a949c739d34f3855,Aiwa,Mini System
+0,6045c922a949c739d34f3859,Akai,CD Player
+0,6045c922a949c739d34f385a,Alphaluxx,Screen
+0,6045c922a949c739d34f385b,AmPro,Video Projector
+0,6045c922a949c739d34f385c,Amstrad,Twin Receiver
+0,6045c922a949c739d34f385d,Antex Electronics,Satellite Radio
+0,6045c922a949c739d34f385e,Aopen,Media PC
+0,6045c922a949c739d34f385f,Apex,DVD Player
+0,6045c922a949c739d34f3860,Apple,Apple TV
+0,6045c922a949c739d34f3861,Apple,Computer
+0,6045c922a949c739d34f3862,Apple,Digital Jukebox
+0,6045c922a949c739d34f3863,Apple,MP3 Player
+0,6045c922a949c739d34f3864,Apple,iPod
+0,6045c923a949c739d34f3865,Aragon,Pre-Amplifier
+0,6045c923a949c739d34f3866,Arcam,CD Player
+0,6045c923a949c739d34f3867,Arcam,DVD Player
+0,6045c923a949c739d34f3868,Arcam,Music System
+0,6045c923a949c739d34f386a,Arcam,Receiver
+0,6045c923a949c739d34f3869,Arcam,Pre-Amplifier
+0,6045c923a949c739d34f386b,Arcam,Surround Receiver
+0,6045c923a949c739d34f386c,Arcam,Tuner
+0,6045c923a949c739d34f386d,Architectural Audio,Amplifier
+0,6045c923a949c739d34f386e,Architectural Audio,Multi-Zone Receiver
+0,6045c923a949c739d34f386f,Arrakis Systems,CD Jukebox
+0,6045c923a949c739d34f3870,Astro,Satellite
+0,6045c923a949c739d34f3871,Atlantic Technology,Surround Processor
+0,6045c923a949c739d34f3872,Atlona,Matrix Switcher
+0,6045c923a949c739d34f3873,Atlona,Switcher
+0,6045c923a949c739d34f3874,Audio Access,Pre-Amplifier
+0,6045c923a949c739d34f3875,Audio Access,Zone Controller
+0,6045c923a949c739d34f3877,Audio Authority,IR to Bluetooth
+0,6045c923a949c739d34f3876,Audio Authority,HDMI Switcher
+0,6045c923a949c739d34f3878,Audio Authority,Switcher
+0,6045c923a949c739d34f387b,Audio Control,Receiver
+0,6045c923a949c739d34f3879,Audio Control,Pre-Amplifier
+0,6045c923a949c739d34f387a,Audio Control,Processor
+0,6045c924a949c739d34f387e,Audio Refinement,Tuner
+0,6045c924a949c739d34f387c,Audio Refinement,Amplifier
+0,6045c924a949c739d34f387d,Audio Refinement,CD Player
+0,6045c924a949c739d34f387f,Audio Research,Pre-Amplifier
+0,6045c924a949c739d34f3880,Audiovox.,Monitor
+0,6045c924a949c739d34f3881,Austar,Cable Box
+0,6045c924a949c739d34f3882,Axonix,DVD Player
+0,6045c924a949c739d34f3883,Axonix,Media Server
+0,6045c924a949c739d34f3884,Axonix,MediaMax
+0,6045c924a949c739d34f3885,Ayre,Amplifier
+0,6045c924a949c739d34f3886,B.A.T.,Pre-Amplifier
+0,6045c924a949c739d34f3887,B&K Components,2-Channel Preamp
+0,6045c924a949c739d34f3888,B&K Components,6 Zone Receiver
+0,6045c924a949c739d34f3889,B&K Components,Matrix Switcher
+0,6045c924a949c739d34f388a,B&K Components,Multi-Zone Receiver
+0,6045c924a949c739d34f388b,B&K Components,Pre-Amplifier
+0,6045c924a949c739d34f388c,B&K Components,Receiver
+0,6045c924a949c739d34f388d,B&K Components,Surround Processor
+0,6045c924a949c739d34f388e,B&K Components,Theater Preamplifier
+0,6045c924a949c739d34f388f,B&K Components,Theater-Zone 2
+0,6045c924a949c739d34f3890,B&K Components,Tuner/preamp
+0,6045c924a949c739d34f3891,BTX,Drapery Controller
+0,6045c924a949c739d34f3892,Bang & Olufsen,CD Player
+0,6045c925a949c739d34f3893,Barix,CD Jukebox
+0,6045c925a949c739d34f3894,Barco,Video Projector
+0,6045c925a949c739d34f3895,Bell,Satellite
+0,6045c925a949c739d34f3897,Bell ExpressVu,Satellite
+0,6045c925a949c739d34f3896,Bell ExpressVu,HD DVR
+0,6045c925a949c739d34f3899,BenQ,Projector
+0,6045c925a949c739d34f3898,BenQ,DLP Projector
+0,6045c925a949c739d34f389a,Big Ben,Game Console
+0,6045c925a949c739d34f389b,Bogen,Amplifier
+0,6045c925a949c739d34f389c,Bose,3-2-1
+0,6045c925a949c739d34f389d,Bose,A/V Switcher
+0,6045c925a949c739d34f389f,Bose,Lifestyle
+0,6045c925a949c739d34f389e,Bose,CCF Conversion
+0,6045c925a949c739d34f38a0,Bose,Media Center
+0,6045c925a949c739d34f38a2,Bose,Receiver
+0,6045c925a949c739d34f38a1,Bose,Music Center
+0,6045c925a949c739d34f38a3,Bose,Switcher/Amplifier
+0,6045c925a949c739d34f38a4,Bose,System
+0,6045c925a949c739d34f38a5,Bose,Tuner
+0,6045c925a949c739d34f38a6,Boxlight,Projector
+0,6045c926a949c739d34f38a7,Broksonic,VCR
+0,6045c926a949c739d34f38a8,Busch-Jaeger,Elektro
+0,6045c926a949c739d34f38a9,Bush,Light
+0,6045c926a949c739d34f38aa,ByDesign,LCD
+0,6045c926a949c739d34f38ab,CIS BOX,CD Player
+0,6045c926a949c739d34f38ac,CIS BOX,DSS
+0,6045c926a949c739d34f38ad,CIS BOX,DVD Changer
+0,6045c926a949c739d34f38af,CIS BOX,HDTV ALL
+0,6045c926a949c739d34f38ae,CIS BOX,DVD Player
+0,6045c926a949c739d34f38b0,CIS BOX,LCD Projector
+0,6045c926a949c739d34f38b1,CIS BOX,Plasma
+0,6045c926a949c739d34f38b2,CIS BOX,Receiver
+0,6045c926a949c739d34f38b3,CIS BOX,TV
+0,6045c926a949c739d34f38b4,CIS BOX,VCR
+0,6045c926a949c739d34f38b5,Cables to Go,VGA Switcher
+0,6045c926a949c739d34f38b6,Calrad,Video Switcher
+0,6045c926a949c739d34f38b7,Calypso,Amplifier
+0,6045c926a949c739d34f38b8,Calypso,Control System
+0,6045c926a949c739d34f38b9,Cambridge Audio,Amp/CD
+0,6045c926a949c739d34f38bb,Cambridge Audio,Receiver
+0,6045c926a949c739d34f38ba,Cambridge Audio,DVD Player
+0,6045c926a949c739d34f38bc,Camera,Camera Multi Plex
+0,6045c927a949c739d34f38bd,Canalsat,Satellite
+0,6045c927a949c739d34f38be,Canon,Video Projector
+0,6045c927a949c739d34f38c0,Carver,CD Player
+0,6045c927a949c739d34f38c1,Carver,Cassette Tape
+0,6045c927a949c739d34f38c2,Carver,Laser Disc
+0,6045c927a949c739d34f38bf,Carver,Amplifier
+0,6045c927a949c739d34f38c5,Carver,Tuner
+0,6045c927a949c739d34f38c4,Carver,Receiver
+0,6045c927a949c739d34f38c3,Carver,Pre-Amplifier
+0,6045c927a949c739d34f38c7,Cary Audio Design,DVD Player
+0,6045c927a949c739d34f38c8,Cary Audio Design,Receiver
+0,6045c927a949c739d34f38c6,Cary Audio Design,CD Player
+0,6045c927a949c739d34f38c9,Celadon,IR to RS232
+0,6045c927a949c739d34f38ca,Channel Master,Satellite
+0,6045c927a949c739d34f38cb,Channel Plus,Video Switcher
+0,6045c927a949c739d34f38cc,Chief Manufacturing,Motorized Lift
+0,6045c927a949c739d34f38cd,Cinemateq,DVD Player
+0,6045c927a949c739d34f38ce,Cinemateq,Video Scaler
+0,6045c927a949c739d34f38cf,Cisco,DVR
+0,6045c928a949c739d34f38d0,Citation,Surround Processor
+0,6045c928a949c739d34f38d1,Classe Audio,Amplifier
+0,6045c928a949c739d34f38d3,Classe Audio,CD/DVD
+0,6045c928a949c739d34f38d5,Classe Audio,DVD Player
+0,6045c928a949c739d34f38d4,Classe Audio,CRCD
+0,6045c928a949c739d34f38d2,Classe Audio,CD Player
+0,6045c928a949c739d34f38d6,Classe Audio,Integrated Amplifier
+0,6045c928a949c739d34f38d7,Classe Audio,Pre-Amplifier
+0,6045c928a949c739d34f38d8,Classe Audio,SACD
+0,6045c928a949c739d34f38d9,Classe Audio,Surround Processor
+0,6045c928a949c739d34f38da,Classe Audio,Surround Sound
+0,6045c928a949c739d34f38db,Classe Audio,Tuner
+0,6045c928a949c739d34f38dd,Coby,TV
+0,6045c928a949c739d34f38dc,Coby,DVD Player
+0,6045c928a949c739d34f38de,Colorado Vnet,Music Server
+0,6045c928a949c739d34f38df,Comcast,Cable Box
+0,6045c928a949c739d34f38e0,Comcast,Digital Cable
+0,6045c928a949c739d34f38e1,Comcast,HD Cable with DVR
+0,6045c928a949c739d34f38e2,Cool Sat,Satellite
+0,6045c928a949c739d34f38e3,Copland,CD Player
+0,6045c928a949c739d34f38e4,Corvo,Relaybox
+0,6045c928a949c739d34f38e5,Cox,Digital Cable
+0,6045c928a949c739d34f38e6,Creek,Line/Volume Control
+0,6045c929a949c739d34f38e7,Crestron,IR Receiver
+0,6045c929a949c739d34f38e8,Crestron,Lighting Controller
+0,6045c929a949c739d34f38e9,Crestron,Music Server
+0,6045c929a949c739d34f38ea,Curtis Mathes,VCR
+0,6045c929a949c739d34f38eb,Cyberhome,DVD Player
+0,6045c929a949c739d34f38ec,Cyron,Lighting Controller
+0,6045c929a949c739d34f38ed,D-LINK,MP3 Player
+0,6045c929a949c739d34f38ee,D-LINK,Media Center
+0,6045c929a949c739d34f38ef,DK digital,DVD Player
+0,6045c929a949c739d34f38f0,DLO,HomeDock
+0,6045c929a949c739d34f38f1,DVDO,Scaler
+0,6045c929a949c739d34f38f2,DVDO,Video Processor
+0,6045c929a949c739d34f38f3,Da Lite,Screen
+0,6045c92aa949c739d34f38f4,Daewoo,DVD Player
+0,6045c92aa949c739d34f38f5,Daewoo,TV
+0,6045c92aa949c739d34f38f6,Daewoo,VCR
+0,6045c92aa949c739d34f38f7,Dantax,DVD Player
+0,6045c92aa949c739d34f38f8,Dedicated Micros,Camera Switcher
+0,6045c92aa949c739d34f38f9,Dell,TV
+0,6045c92aa949c739d34f38fa,Dell,Video Projector
+0,6045c92aa949c739d34f38fb,Delphi,Satellite Receiver
+0,6045c92aa949c739d34f38fc,Digital Music Expres,DMX
+0,6045c92aa949c739d34f38fd,Digital Projection,Projector
+0,6045c92aa949c739d34f38fe,Digital Projection,Video Projector
+0,6045c92aa949c739d34f38ff,Digital Projection,Video Scaler
+0,6045c92aa949c739d34f3900,Digital Stream,HDTV Tuner
+0,6045c92aa949c739d34f3901,Denon,A/V Receiver
+0,6045c92aa949c739d34f3902,Denon,AV Processor
+0,6045c92aa949c739d34f3903,Denon,Amplifier
+0,6045c92aa949c739d34f3904,Denon,Blu-Ray
+0,6045c92aa949c739d34f3905,Denon,CD Jukebox
+0,6045c92aa949c739d34f3906,Denon,CD Player
+0,6045c92aa949c739d34f3907,Denon,CD Receiver
+0,6045c92aa949c739d34f3908,Denon,Cassette Tape
+0,6045c92aa949c739d34f3909,Denon,DAT
+0,6045c92aa949c739d34f390a,Denon,DVD Player
+0,6045c92aa949c739d34f390b,Denon,Laser Disc
+0,6045c92aa949c739d34f390c,Denon,Mini-Disc
+0,6045c92aa949c739d34f390d,Denon,Pre-Amplifier
+0,6045c92aa949c739d34f390e,Denon,Processor
+0,6045c92aa949c739d34f390f,Denon,Receiver
+0,6045c92aa949c739d34f3910,Denon,Receiver/CD
+0,6045c92aa949c739d34f3911,Denon,Surround Receiver
+0,6045c92aa949c739d34f3912,Denon,Tuner
+0,6045c92aa949c739d34f3913,Denon,Unknown
+0,6045c92aa949c739d34f3914,DigitalView,HDTV Tuner
+0,6045c92ba949c739d34f3915,DirecTV,Basic Satellite
+0,6045c92ba949c739d34f3916,DirecTV,DSS
+0,6045c92ba949c739d34f3917,DirecTV,DVR
+0,6045c92ba949c739d34f3918,DirecTV,HDTV Tuner
+0,6045c92ba949c739d34f391a,DirecTV,Receiver HDDVR
+0,6045c92ba949c739d34f3919,DirecTV,Receiver HD
+0,6045c92ba949c739d34f391b,DirecTV,Receiver SD
+0,6045c92ba949c739d34f391c,DirecTV,Receiver SDDVR
+0,6045c92ba949c739d34f391d,DirecTV,Receiver/HDR
+0,6045c92ba949c739d34f391e,DirecTV,Satellite
+0,6045c92ba949c739d34f391f,DirecTV,Tivo/Sat Reciever
+0,6045c92ba949c739d34f3920,DirecTV,Unknown
+0,6045c92ba949c739d34f3921,Dish Network,Satelite DVR
+0,6045c92ba949c739d34f3922,Dish Network,Satellite
+0,6045c92ba949c739d34f3924,Draper,Electric Screen
+0,6045c92ba949c739d34f3923,Draper,Dropdown Screen
+0,6045c92ba949c739d34f3925,Draper,Screen
+0,6045c92ba949c739d34f3926,Dream,Satellite
+0,6045c92ba949c739d34f3927,Dream Vision,DLP Projector
+0,6045c92ba949c739d34f3929,Dwin,Plasma
+0,6045c92ba949c739d34f392a,Dwin,Projector
+0,6045c92ba949c739d34f3928,Dwin,Line Multiplier
+0,6045c92ba949c739d34f392b,Dwin,TV
+0,6045c92ba949c739d34f392c,Dwin,Video Processor
+0,6045c92ba949c739d34f392d,Dwin,Video Projector
+0,6045c92ba949c739d34f3930,Echostar,Dish Network
+0,6045c92ba949c739d34f3931,Echostar,PVR SAT
+0,6045c92ba949c739d34f3933,Echostar,Satelite DVR
+0,6045c92ba949c739d34f3932,Echostar,Sat/PVR Recorder Box
+0,6045c92ba949c739d34f392e,Echostar,DSS
+0,6045c92ba949c739d34f3934,Echostar,Satellite
+0,6045c92ba949c739d34f392f,Echostar,DVR
+0,6045c92ba949c739d34f3935,Elan,A/V Distributor
+0,6045c92ba949c739d34f3938,Elan,DVD Manager
+0,6045c92ba949c739d34f393a,Elan,IR Router
+0,6045c92ba949c739d34f3936,Elan,Camera Switcher
+0,6045c92ba949c739d34f393c,Elan,Master Controller
+0,6045c92ba949c739d34f3937,Elan,DMX
+0,6045c92ba949c739d34f3939,Elan,HD
+0,6045c92ba949c739d34f393b,Elan,Jukebox
+0,6045c92ba949c739d34f393d,Elan,Pre-Amplifier
+0,6045c92ba949c739d34f393e,Elan,Satellite Radio
+0,6045c92ba949c739d34f393f,Elan,Tuner
+0,6045c92ba949c739d34f3940,Elan,Video Controller
+0,6045c92ba949c739d34f3941,Elan,Video Switcher
+0,6045c92ba949c739d34f3942,Elan,Volume Control
+0,6045c92ba949c739d34f3943,Electrokinetics,Plasma Lift
+0,6045c92ba949c739d34f3944,Electrocompaniet,CD Player
+0,6045c92ba949c739d34f3945,Electrocompaniet,Integrated Amplifier
+0,6045c92ca949c739d34f3946,Elmo,Camera
+0,6045c92ca949c739d34f3947,Elmo,Video Projector
+0,6045c92ca949c739d34f3949,Emerson,VCR
+0,6045c92ca949c739d34f3948,Emerson,TV
+0,6045c92ca949c739d34f394b,Epson,Video Projector
+0,6045c92ca949c739d34f394a,Epson,Projector
+0,6045c92ca949c739d34f394d,Escient,CD Management
+0,6045c92ca949c739d34f394e,Escient,DVD Library
+0,6045c92ca949c739d34f394f,Escient,DVD Player
+0,6045c92ca949c739d34f3950,Escient,Digital Jukebox
+0,6045c92ca949c739d34f3951,Escient,Digital Media Receiver
+0,6045c92ca949c739d34f3952,Escient,Hard Drive Recorder
+0,6045c92ca949c739d34f394c,Escient,CD Jukebox
+0,6045c92ca949c739d34f3953,Escient,MP3 Player
+0,6045c92ca949c739d34f3954,Escient,Media Manager
+0,6045c92ca949c739d34f3955,Escient,Media Server
+0,6045c92ca949c739d34f3956,Esoteric Audio,DVD Player
+0,6045c92ca949c739d34f3957,Extron,Switcher
+0,6045c92ca949c739d34f3958,FSC,DVD Player
+0,6045c92ca949c739d34f3959,Faroudja,DVD Player
+0,6045c92ca949c739d34f395a,Faroudja,Line Doubler
+0,6045c92ca949c739d34f395b,Faroudja,Line Quadrupler
+0,6045c92ca949c739d34f395d,Faroudja,Video Processor
+0,6045c92ca949c739d34f395e,Faroudja,Video Projector
+0,6045c92ca949c739d34f395c,Faroudja,Processor
+0,6045c92ca949c739d34f3960,Fast,TVS
+0,6045c92ca949c739d34f395f,Fast,TV
+0,6045c92da949c739d34f3961,Fedders,Air Conditioner
+0,6045c92da949c739d34f3963,Fisher,TV
+0,6045c92da949c739d34f3962,Fisher,Surround Processor
+0,6045c92da949c739d34f3965,Fosgate,Surround Processor
+0,6045c92da949c739d34f3964,Fosgate,Pre-Amplifier
+0,6045c92da949c739d34f3966,Foxtel,Set Top Box
+0,6045c92da949c739d34f3967,Friedrich,Air Conditioner
+0,6045c92da949c739d34f3968,Fujitsu,Monitor
+0,6045c92da949c739d34f396a,Fujitsu,TV
+0,6045c92da949c739d34f3969,Fujitsu,Plasma
+0,6045c92da949c739d34f396b,Fusion Research,DVD Server
+0,6045c92da949c739d34f396c,GE,TV
+0,6045c92da949c739d34f396e,GE,VCR
+0,6045c92da949c739d34f396d,GE,Unknown
+0,6045c92da949c739d34f396f,Galaxis,Satellite
+0,6045c92da949c739d34f3971,Gefen Systems,HDMI Switcher
+0,6045c92da949c739d34f3970,Gefen Systems,DVI Switcher
+0,6045c92da949c739d34f3972,Gefen Systems,Matrix Switcher
+0,6045c92da949c739d34f3973,Gefen Systems,Unknown
+0,6045c92ea949c739d34f3975,General Electric,VCR
+0,6045c92ea949c739d34f3974,General Electric,TV
+0,6045c92ea949c739d34f3977,General Instrument,Satellite
+0,6045c92ea949c739d34f3976,General Instrument,Cable Box
+0,6045c92ea949c739d34f3978,Genesis,Theater in Box
+0,6045c92ea949c739d34f3979,Gericom,Plasma
+0,6045c92ea949c739d34f397b,Go Video,VCR
+0,6045c92ea949c739d34f397a,Go Video,DVD Recorder
+0,6045c92ea949c739d34f397c,Go Video,VCR/DVD Combo
+0,6045c92ea949c739d34f397d,GoldStar,VCR
+0,6045c92ea949c739d34f397e,Goldmund,CD Player
+0,6045c92ea949c739d34f397f,Grand Tech,Cable Box
+0,6045c92ea949c739d34f3980,Griffin,iPod
+0,6045c92ea949c739d34f3981,Grundig,Satellite
+0,6045c92ea949c739d34f3982,Grundig,TV
+0,6045c92ea949c739d34f3983,Grundig,Video Recorder
+0,6045c92fa949c739d34f3984,Gryphon,Integrated Amplifier
+0,6045c92fa949c739d34f3985,HQV,Video Processor
+0,6045c92fa949c739d34f3988,Harman Kardon,CD Changer
+0,6045c92fa949c739d34f3986,Harman Kardon,Amplifier
+0,6045c92fa949c739d34f3987,Harman Kardon,Blu-Ray
+0,6045c92fa949c739d34f3989,Harman Kardon,CD Player
+0,6045c92fa949c739d34f398a,Harman Kardon,CD-R
+0,6045c92fa949c739d34f398b,Harman Kardon,Cassette Tape
+0,6045c92fa949c739d34f398c,Harman Kardon,DVD Player
+0,6045c92fa949c739d34f398d,Harman Kardon,Pre-Amplifier
+0,6045c92fa949c739d34f398e,Harman Kardon,Receiver
+0,6045c92fa949c739d34f398f,Harman Kardon,Surround Processor
+0,6045c92fa949c739d34f3990,Harman Kardon,Surround Receiver
+0,6045c92fa949c739d34f3991,Harman Kardon,Tuner
+0,6045c92fa949c739d34f3992,Harman Kardon,Unknown
+0,6045c92fa949c739d34f3993,Harman Kardon,Video Projector
+0,6045c92fa949c739d34f3994,Harman Kardon,iPod
+0,6045c92fa949c739d34f3995,Harman Video,Video Projector
+0,6045c92fa949c739d34f3996,Harmony,PS3 Adaptor
+0,6045c92fa949c739d34f3997,Herma,Dipper
+0,6045c92fa949c739d34f3998,Hewlett Packard,Plasma
+0,6045c92fa949c739d34f3999,Hewlett Packard,TV
+0,6045c92fa949c739d34f399a,Hirschmann,Satellite
+0,6045c92fa949c739d34f399c,Hitachi,Cable Box
+0,6045c92fa949c739d34f399e,Hitachi,DVD Player
+0,6045c92fa949c739d34f399f,Hitachi,DVD/VCR Combo
+0,6045c92fa949c739d34f39a0,Hitachi,Display
+0,6045c92fa949c739d34f39a1,Hitachi,LCD
+0,6045c92fa949c739d34f39a3,Hitachi,Plasma
+0,6045c92fa949c739d34f39a2,Hitachi,Monitor
+0,6045c92fa949c739d34f399b,Hitachi,CD Player
+0,6045c92fa949c739d34f399d,Hitachi,DSS
+0,6045c92fa949c739d34f39a4,Hitachi,TV
+0,6045c92fa949c739d34f39a5,Hitachi,VCR
+0,6045c92fa949c739d34f39a6,Hitachi,Video Projector
+0,6045c930a949c739d34f39a7,Hiteker,DVD Player
+0,6045c930a949c739d34f39a8,Homecast,Satellite Receiver
+0,6045c930a949c739d34f39a9,Hughes,DSS
+0,6045c930a949c739d34f39ab,Hughes,HD Satellite HD Tivo
+0,6045c930a949c739d34f39aa,Hughes,DVR
+0,6045c930a949c739d34f39ac,Hughes,HD with TiVo
+0,6045c930a949c739d34f39ad,Hughes,Sat/TiVo
+0,6045c930a949c739d34f39ae,Hughes,Satellite
+0,6045c930a949c739d34f39af,Hughes,TiVo
+0,6045c930a949c739d34f39b0,Hughes,VCR
+0,6045c930a949c739d34f39b1,Humax,Com Hem Box
+0,6045c930a949c739d34f39b2,Humax,DVD/VCR Combo
+0,6045c930a949c739d34f39b4,Humax,Satellite
+0,6045c930a949c739d34f39b5,Humax,Tivo + DVD
+0,6045c930a949c739d34f39b3,Humax,HDTV Tuner
+0,6045c930a949c739d34f39b6,IR4PS3,Blu-Ray
+0,6045c930a949c739d34f39b7,I-O Data,DVD Player
+0,6045c930a949c739d34f39b8,Imerge,Digital Jukebox
+0,6045c930a949c739d34f39b9,InFocus,DLP Projector
+0,6045c930a949c739d34f39ba,InFocus,Plasma
+0,6045c930a949c739d34f39bb,InFocus,Projector
+0,6045c930a949c739d34f39bc,InFocus,Video Projector
+0,6045c930a949c739d34f39bd,Insignia,Blu-Ray
+0,6045c930a949c739d34f39bf,Insignia,DVD/VCR Combo
+0,6045c930a949c739d34f39be,Insignia,DVD Player
+0,6045c930a949c739d34f39c0,Insignia,TV
+0,6045c930a949c739d34f39c1,Instant Replay,VCR
+0,6045c931a949c739d34f39c2,Integra,Amplifier
+0,6045c931a949c739d34f39c3,Integra,Blu-Ray
+0,6045c931a949c739d34f39c4,Integra,CD Player
+0,6045c931a949c739d34f39c5,Integra,DVD Player
+0,6045c931a949c739d34f39c6,Integra,Digital Audio
+0,6045c931a949c739d34f39c7,Integra,HD DVD
+0,6045c931a949c739d34f39c8,Integra,Integrated Amplifier
+0,6045c931a949c739d34f39c9,Integra,Media PC
+0,6045c931a949c739d34f39ca,Integra,Pre-Amplifier
+0,6045c931a949c739d34f39cb,Integra,Receiver
+0,6045c931a949c739d34f39cc,Integra,Tuner
+0,6045c931a949c739d34f39cd,Integra,iPod
+0,6045c931a949c739d34f39ce,IntelliNet Controls,Distributed Audio
+0,6045c931a949c739d34f39cf,Intervideo,VCR
+0,6045c931a949c739d34f39d1,JBL,Surround Processor
+0,6045c931a949c739d34f39d0,JBL,Receiver
+0,6045c931a949c739d34f39d2,JENSEN,VCR
+0,6045c931a949c739d34f39d3,JVC,CD Jukebox
+0,6045c931a949c739d34f39d4,JVC,CD Player
+0,6045c931a949c739d34f39d5,JVC,Camcorder
+0,6045c931a949c739d34f39d7,JVC,D-VHS
+0,6045c931a949c739d34f39d6,JVC,Cassette Tape
+0,6045c931a949c739d34f39d8,JVC,DVD Player
+0,6045c931a949c739d34f39d9,JVC,DVD Recorder
+0,6045c931a949c739d34f39da,JVC,DVD/VCR Combo
+0,6045c931a949c739d34f39db,JVC,HD-ILA Projection
+0,6045c931a949c739d34f39dc,JVC,Karaoke
+0,6045c931a949c739d34f39dd,JVC,LCD
+0,6045c931a949c739d34f39de,JVC,LCD TV
+0,6045c931a949c739d34f39df,JVC,Mini System
+0,6045c931a949c739d34f39e0,JVC,Monitor
+0,6045c931a949c739d34f39e1,JVC,Plasma
+0,6045c931a949c739d34f39e2,JVC,Projector
+0,6045c931a949c739d34f39e3,JVC,Receiver
+0,6045c931a949c739d34f39e4,JVC,S-VHS
+0,6045c931a949c739d34f39e5,JVC,Satellite
+0,6045c931a949c739d34f39e6,JVC,Switcher
+0,6045c931a949c739d34f39e7,JVC,TV
+0,6045c931a949c739d34f39e8,JVC,Tuner
+0,6045c931a949c739d34f39e9,JVC,VCR
+0,6045c931a949c739d34f39ea,JVC,VCR/DVD Combo
+0,6045c931a949c739d34f39eb,JVC,VCR/MiniDV
+0,6045c931a949c739d34f39ec,JVC,Video Projector
+0,6045c931a949c739d34f39ed,JVC,Video Switcher
+0,6045c931a949c739d34f39ee,Jamo,DVD Receiver
+0,6045c931a949c739d34f39ef,Jerrold,Cable Box
+0,6045c931a949c739d34f39f0,KEY DIGITAL,Component Switcher
+0,6045c931a949c739d34f39f1,KEY DIGITAL,Matrix Switcher
+0,6045c931a949c739d34f39f3,KEY DIGITAL,Video Switcher
+0,6045c931a949c739d34f39f2,KEY DIGITAL,Switcher
+0,6045c931a949c739d34f39f4,Kaleidescape,DVD Player
+0,6045c931a949c739d34f39f5,Kaleidescape,Distributed
+0,6045c932a949c739d34f39f7,Kathrein,Satellite
+0,6045c932a949c739d34f39f6,Kathrein,DVBS-Receiver
+0,6045c932a949c739d34f39f8,Kawasaki,DVD/Amp
+0,6045c932a949c739d34f39f9,Kensington,MP3 Player
+0,6045c932a949c739d34f39fa,Kensington,iPod Dock
+0,6045c932a949c739d34f39fc,Kinergetics Research,Receiver
+0,6045c932a949c739d34f39fd,Kinergetics Research,Surround Processor
+0,6045c932a949c739d34f39fb,Kinergetics Research,Pre-Amplifier
+0,6045c932a949c739d34f39ff,Kenwood,CD Changer
+0,6045c932a949c739d34f3a00,Kenwood,CD Player
+0,6045c932a949c739d34f3a01,Kenwood,CD/DVD/MP-3
+0,6045c932a949c739d34f3a02,Kenwood,Cassette Tape
+0,6045c932a949c739d34f3a03,Kenwood,DVD Changer
+0,6045c932a949c739d34f39fe,Kenwood,Amplifier
+0,6045c932a949c739d34f3a04,Kenwood,DVD Player
+0,6045c932a949c739d34f3a05,Kenwood,Laser Disc
+0,6045c932a949c739d34f3a06,Kenwood,Pre-Amplifier
+0,6045c932a949c739d34f3a07,Kenwood,Receiver
+0,6045c932a949c739d34f3a08,Kenwood,Satellite Radio
+0,6045c932a949c739d34f3a09,Kenwood,Sirius
+0,6045c932a949c739d34f3a0a,Kenwood,Tuner
+0,6045c932a949c739d34f3a0b,Kenwood,VCR
+0,6045c932a949c739d34f3a0c,Klipsch,Subwoofer
+0,6045c932a949c739d34f3a0d,Knoll,Video Projector
+0,6045c932a949c739d34f3a0e,Krell,CD Player
+0,6045c932a949c739d34f3a0f,Krell,DVD Player
+0,6045c932a949c739d34f3a10,Krell,Pre-Amplifier
+0,6045c932a949c739d34f3a11,Krell,Receiver
+0,6045c932a949c739d34f3a12,Krell,Surround Processor
+0,6045c932a949c739d34f3a13,Kyocera,CD Player
+0,6045c932a949c739d34f3a14,LG,Blu-Ray
+0,6045c932a949c739d34f3a15,LG,DVD Player
+0,6045c932a949c739d34f3a17,LG,DVR
+0,6045c932a949c739d34f3a16,LG,DVD/VCR Combo
+0,6045c932a949c739d34f3a18,LG,HDTV Tuner
+0,6045c932a949c739d34f3a1a,LG,Plasma
+0,6045c932a949c739d34f3a19,LG,LCD/DVD
+0,6045c932a949c739d34f3a1b,LG,Satellite
+0,6045c932a949c739d34f3a1c,LG,Sound Bar
+0,6045c932a949c739d34f3a1d,LG,TV
+0,6045c933a949c739d34f3a1e,LP Morgan,Screen
+0,6045c933a949c739d34f3a1f,LXI,TV
+0,6045c933a949c739d34f3a22,Lexicon,Surround Processor
+0,6045c933a949c739d34f3a21,Lexicon,Receiver
+0,6045c933a949c739d34f3a20,Lexicon,DVD Player
+0,6045c933a949c739d34f3a23,Lightolier,Lighting Controller
+0,6045c933a949c739d34f3a24,Linksys,Media Adapter
+0,6045c933a949c739d34f3a27,Linn,Surround Processor
+0,6045c933a949c739d34f3a26,Linn,Classic music
+0,6045c933a949c739d34f3a25,Linn,CD Player
+0,6045c933a949c739d34f3a28,LiteOn,DVD Recorder
+0,6045c933a949c739d34f3a29,LiteTouch,Lighting Controller
+0,6045c933a949c739d34f3a2a,Loewe,DVD Player
+0,6045c933a949c739d34f3a2b,Loewe,TV
+0,6045c933a949c739d34f3a2c,Loewe,VCR
+0,6045c934a949c739d34f3a2d,Lumagen,Scaler
+0,6045c934a949c739d34f3a2f,Luxman,Receiver
+0,6045c934a949c739d34f3a2e,Luxman,CD Player
+0,6045c934a949c739d34f3a30,MAGIC LIGHTING,Lighting
+0,6045c934a949c739d34f3a31,MGA,VCR
+0,6045c934a949c739d34f3a32,MISSION,CD Player
+0,6045c934a949c739d34f3a33,Madrigal,CD Player
+0,6045c934a949c739d34f3a34,Madrigal,Receiver
+0,6045c934a949c739d34f3a35,Magnum Dynalab,Tuner
+0,6045c934a949c739d34f3a36,Magnavox,DSS
+0,6045c934a949c739d34f3a38,Magnavox,DVD Recorder
+0,6045c934a949c739d34f3a37,Magnavox,DVD Player
+0,6045c934a949c739d34f3a39,Magnavox,TV
+0,6045c934a949c739d34f3a3a,Magnavox,VCR
+0,6045c934a949c739d34f3a3b,Makita,Drapery Controller
+0,6045c935a949c739d34f3a3c,Malata,DVD Player
+0,6045c935a949c739d34f3a3e,Marantz,Amplifier
+0,6045c935a949c739d34f3a3d,Marantz,AM/FM Tuner
+0,6045c935a949c739d34f3a3f,Marantz,CD Changer
+0,6045c935a949c739d34f3a40,Marantz,CD Jukebox
+0,6045c935a949c739d34f3a41,Marantz,CD Player
+0,6045c935a949c739d34f3a42,Marantz,Cassette Tape
+0,6045c935a949c739d34f3a43,Marantz,D-VHS
+0,6045c935a949c739d34f3a44,Marantz,DVD
+0,6045c935a949c739d34f3a45,Marantz,DVD Player
+0,6045c935a949c739d34f3a46,Marantz,MP3 Player
+0,6045c935a949c739d34f3a47,Marantz,Plasma
+0,6045c935a949c739d34f3a48,Marantz,Plasma Displays
+0,6045c935a949c739d34f3a49,Marantz,Pre-Amplifier
+0,6045c935a949c739d34f3a4a,Marantz,Projector
+0,6045c935a949c739d34f3a4b,Marantz,Receiver
+0,6045c935a949c739d34f3a4c,Marantz,TV
+0,6045c935a949c739d34f3a4d,Marantz,Tuner
+0,6045c935a949c739d34f3a4e,Marantz,Tuner Section
+0,6045c935a949c739d34f3a4f,Marantz,VCR
+0,6045c935a949c739d34f3a50,Marantz,Video Projector
+0,6045c935a949c739d34f3a51,Marantz,iPod Dock
+0,6045c935a949c739d34f3a53,Mark Levinson,Pre-Amplifier
+0,6045c935a949c739d34f3a52,Mark Levinson,CD Player
+0,6045c935a949c739d34f3a54,Maxx,Plasma
+0,6045c935a949c739d34f3a58,McIntosh,Laser Disc
+0,6045c935a949c739d34f3a55,McIntosh,CD Player
+0,6045c935a949c739d34f3a57,McIntosh,DVD Player
+0,6045c935a949c739d34f3a59,McIntosh,Pre-Amplifier
+0,6045c935a949c739d34f3a56,McIntosh,Control System
+0,6045c935a949c739d34f3a5a,McIntosh,Receiver
+0,6045c935a949c739d34f3a5b,Memorex,DVD Player
+0,6045c935a949c739d34f3a5c,Memorex,TV
+0,6045c935a949c739d34f3a5e,Meridian,CD Player
+0,6045c935a949c739d34f3a60,Meridian,DVD
+0,6045c935a949c739d34f3a5d,Meridian,800 System Remote
+0,6045c935a949c739d34f3a61,Meridian,DVD Player
+0,6045c935a949c739d34f3a62,Meridian,Pre-Amplifier
+0,6045c935a949c739d34f3a5f,Meridian,CD-R
+0,6045c935a949c739d34f3a63,Meridian,Processor
+0,6045c935a949c739d34f3a64,Meridian,Remote Control
+0,6045c935a949c739d34f3a65,Meridian,Surround Processor
+0,6045c935a949c739d34f3a66,Meridian,System Remote
+0,6045c935a949c739d34f3a67,Metronome,CD Player
+0,6045c935a949c739d34f3a68,Micromega,DVD Player
+0,6045c935a949c739d34f3a6b,Microsoft,Home Media PC
+0,6045c935a949c739d34f3a69,Microsoft,DVD Player
+0,6045c935a949c739d34f3a6c,Microsoft,Windows Media Center
+0,6045c935a949c739d34f3a6a,Microsoft,Game Console
+0,6045c936a949c739d34f3a6d,Midiland,Digital Decoder
+0,6045c936a949c739d34f3a6e,Mintek,DVD Player
+0,6045c936a949c739d34f3a6f,Mitsubishi,CD Player
+0,6045c936a949c739d34f3a70,Mitsubishi,CD Player/Laser Disc
+0,6045c936a949c739d34f3a71,Mitsubishi,Cable Box
+0,6045c936a949c739d34f3a72,Mitsubishi,Cassette Tape
+0,6045c936a949c739d34f3a73,Mitsubishi,DSS
+0,6045c936a949c739d34f3a74,Mitsubishi,DVD
+0,6045c936a949c739d34f3a75,Mitsubishi,DVD Player
+0,6045c936a949c739d34f3a76,Mitsubishi,HDTV Receiver
+0,6045c936a949c739d34f3a77,Mitsubishi,Laser Disc
+0,6045c936a949c739d34f3a78,Mitsubishi,Monitor
+0,6045c936a949c739d34f3a79,Mitsubishi,Receiver
+0,6045c936a949c739d34f3a7a,Mitsubishi,Satellite
+0,6045c936a949c739d34f3a7b,Mitsubishi,TV
+0,6045c936a949c739d34f3a7c,Mitsubishi,Unknown
+0,6045c936a949c739d34f3a7d,Mitsubishi,VCR
+0,6045c936a949c739d34f3a7e,Mitsubishi,Video Projector
+0,6045c936a949c739d34f3a7f,Motorola,Cable Box
+0,6045c936a949c739d34f3a80,Motorola,Cox
+0,6045c936a949c739d34f3a82,Motorola,DVR
+0,6045c936a949c739d34f3a83,Motorola,IP box
+0,6045c936a949c739d34f3a81,Motorola,DSS
+0,6045c936a949c739d34f3a84,Motorola,Remote
+0,6045c936a949c739d34f3a86,Myryad,Receiver
+0,6045c936a949c739d34f3a85,Myryad,Pre-Amplifier
+0,6045c936a949c739d34f3a88,NAD,CD Player
+0,6045c936a949c739d34f3a89,NAD,Cassette Tape
+0,6045c936a949c739d34f3a8a,NAD,Monitor
+0,6045c936a949c739d34f3a8b,NAD,Receiver
+0,6045c936a949c739d34f3a8c,NAD,Receiver/CD
+0,6045c936a949c739d34f3a8d,NAD,Surround Processor
+0,6045c936a949c739d34f3a8e,NAD,Tuner
+0,6045c936a949c739d34f3a87,NAD,Amplifier
+0,6045c936a949c739d34f3a8f,NAD,Unknown
+0,6045c936a949c739d34f3a91,NEC,Receiver
+0,6045c936a949c739d34f3a90,NEC,Monitor
+0,6045c936a949c739d34f3a92,NEC,Surround Processor
+0,6045c936a949c739d34f3a93,NEC,TV
+0,6045c936a949c739d34f3a95,NEC,VCR
+0,6045c936a949c739d34f3a94,NEC,Unknown
+0,6045c936a949c739d34f3a96,NEC,Video Projector
+0,6045c936a949c739d34f3a99,Nakamichi,DVD Player
+0,6045c936a949c739d34f3a97,Nakamichi,Amplifier
+0,6045c936a949c739d34f3a9a,Nakamichi,Receiver
+0,6045c936a949c739d34f3a9b,Nakamichi,Tuner
+0,6045c936a949c739d34f3a98,Nakamichi,CD Player
+0,6045c936a949c739d34f3a9c,NET TV,TV
+0,6045c937a949c739d34f3a9d,Niles Audio,Unknown
+0,6045c937a949c739d34f3a9e,Nokia,Satellite
+0,6045c937a949c739d34f3a9f,Novaplex,Cable Box
+0,6045c937a949c739d34f3aa2,Onkyo,Cassette Tape
+0,6045c937a949c739d34f3aa0,Onkyo,Amplifier
+0,6045c937a949c739d34f3aa4,Onkyo,Laser Disc
+0,6045c937a949c739d34f3aa3,Onkyo,DVD Player
+0,6045c937a949c739d34f3aa1,Onkyo,CD Player
+0,6045c937a949c739d34f3aa5,Onkyo,Receiver
+0,6045c937a949c739d34f3aa7,Onkyo,Unknown
+0,6045c937a949c739d34f3aa6,Onkyo,Tuner
+0,6045c937a949c739d34f3aa8,Onkyo Integra,DVD Changer
+0,6045c937a949c739d34f3aa9,Onkyo Integra,Receiver
+0,6045c937a949c739d34f3aaa,PHAST,PLR-IR1
+0,6045c937a949c739d34f3aab,PS Audio,CD Player
+0,6045c937a949c739d34f3aaf,Panasonic,Plasma
+0,6045c937a949c739d34f3aac,Panasonic,DVD Player
+0,6045c937a949c739d34f3ab0,Panasonic,Receiver
+0,6045c937a949c739d34f3aad,Panasonic,HDTV Tuner
+0,6045c937a949c739d34f3ab1,Panasonic,TV
+0,6045c937a949c739d34f3ab2,Panasonic,VCR
+0,6045c937a949c739d34f3aae,Panasonic,Laser Disc
+0,6045c937a949c739d34f3ab4,Parasound,Surround Processor
+0,6045c937a949c739d34f3ab3,Parasound,Receiver
+0,6045c937a949c739d34f3ab5,Philips,CD-R
+0,6045c937a949c739d34f3ab6,Philips,DSS
+0,6045c937a949c739d34f3ab8,Philips,Digital Recorder
+0,6045c937a949c739d34f3ab9,Philips,Receiver
+0,6045c937a949c739d34f3aba,Philips,TV
+0,6045c937a949c739d34f3ab7,Philips,DVD Player
+0,6045c937a949c739d34f3abb,Philips,VCR
+0,6045c937a949c739d34f3abe,Pioneer,CD Player
+0,6045c937a949c739d34f3abd,Pioneer,CD Jukebox
+0,6045c937a949c739d34f3abf,Pioneer,Cable Box
+0,6045c937a949c739d34f3ac0,Pioneer,Cassette Tape
+0,6045c937a949c739d34f3ac1,Pioneer,DVD Changer
+0,6045c937a949c739d34f3ac2,Pioneer,DVD Jukebox
+0,6045c937a949c739d34f3ac3,Pioneer,DVD Player
+0,6045c937a949c739d34f3ac4,Pioneer,Laser Disc
+0,6045c937a949c739d34f3abc,Pioneer,Amplifier
+0,6045c937a949c739d34f3ac5,Pioneer,Receiver
+0,6045c937a949c739d34f3ac6,Pioneer,TV
+0,6045c938a949c739d34f3ac7,Pragmatic,Router
+0,6045c938a949c739d34f3ac8,Proceed,Surround Processor
+0,6045c938a949c739d34f3ac9,Proscan,DVD Player
+0,6045c938a949c739d34f3aca,Proscan,TV
+0,6045c938a949c739d34f3acb,Proton,TV
+0,6045c938a949c739d34f3acc,Quasar,TV
+0,6045c938a949c739d34f3acd,RCA,DSS
+0,6045c938a949c739d34f3acf,RCA,Laser Disc
+0,6045c938a949c739d34f3ace,RCA,DVD Player
+0,6045c938a949c739d34f3ad1,RCA,VCR
+0,6045c938a949c739d34f3ad0,RCA,TV
+0,6045c938a949c739d34f3ad2,RSQ,Karaoke
+0,6045c938a949c739d34f3ad3,Rega,Receiver
+0,6045c938a949c739d34f3ad4,Replay Networks,Digital Recorder
+0,6045c938a949c739d34f3ad5,Rotel,CD Player
+0,6045c938a949c739d34f3ad6,Rotel,Tuner
+0,6045c939a949c739d34f3ad8,Runco,Line Doubler
+0,6045c939a949c739d34f3ad9,Runco,Video Controller
+0,6045c939a949c739d34f3ad7,Runco,Controller/DLP
+0,6045c939a949c739d34f3ada,Runco,Video Projector
+0,6045c939a949c739d34f3adb,Russound,Music Server
+0,6045c939a949c739d34f3ade,Samsung,TV
+0,6045c939a949c739d34f3adc,Samsung,Air Conditioner
+0,6045c939a949c739d34f3add,Samsung,Rear Projection DLP TV
+0,6045c939a949c739d34f3adf,Samsung,VCR
+0,6045c939a949c739d34f3ae0,Sanyo,TV
+0,6045c939a949c739d34f3ae1,Sanyo,Video Projector
+0,6045c939a949c739d34f3ae2,Scientific Atlanta,Cable Box
+0,6045c939a949c739d34f3ae3,Seleco,TV
+0,6045c939a949c739d34f3ae7,Sharp,VCR
+0,6045c939a949c739d34f3ae4,Sharp,DTV Decoder
+0,6045c939a949c739d34f3ae8,Sharp,Video Projector
+0,6045c939a949c739d34f3ae5,Sharp,Monitor
+0,6045c939a949c739d34f3ae6,Sharp,TV
+0,6045c939a949c739d34f3ae9,Sherwood,Receiver
+0,6045c939a949c739d34f3aea,Sigma Designs,DVD Player
+0,6045c93aa949c739d34f3aeb,Snell,Speaker
+0,6045c93aa949c739d34f3aed,Sonance,System Controller
+0,6045c93aa949c739d34f3aec,Sonance,Distributed Audio
+0,6045c93aa949c739d34f3aee,Sunfire,Surround Processor
+0,6045c93aa949c739d34f3af0,Symphonic,VCR
+0,6045c93aa949c739d34f3aef,Symphonic,TV
+0,6045c93aa949c739d34f3af1,Sony,Boombox
+0,6045c93aa949c739d34f3af2,Sony,CD Changer
+0,6045c93aa949c739d34f3af3,Sony,CD Jukebox
+0,6045c93aa949c739d34f3af4,Sony,CD Player
+0,6045c93aa949c739d34f3af5,Sony,Cassette Tape
+0,6045c93aa949c739d34f3af7,Sony,DSP
+0,6045c93aa949c739d34f3af6,Sony,DAT
+0,6045c93aa949c739d34f3af8,Sony,DSS
+0,6045c93aa949c739d34f3af9,Sony,DV Cam
+0,6045c93aa949c739d34f3afa,Sony,DVD Player
+0,6045c93aa949c739d34f3afb,Sony,Digital Recorder
+0,6045c93aa949c739d34f3afc,Sony,Laser Disc
+0,6045c93aa949c739d34f3afd,Sony,Mini-Disc
+0,6045c93aa949c739d34f3afe,Sony,Pre-Amplifier
+0,6045c93aa949c739d34f3aff,Sony,Receiver
+0,6045c93aa949c739d34f3b00,Sony,Surround Processor
+0,6045c93aa949c739d34f3b01,Sony,TV
+0,6045c93aa949c739d34f3b02,Sony,TiVo
+0,6045c93aa949c739d34f3b03,Sony,VCR
+0,6045c93aa949c739d34f3b04,Sony,Video Projector
+0,6045c93aa949c739d34f3b05,TEAC,DVD Player
+0,6045c93aa949c739d34f3b06,Terratec,Internet Radio
+0,6045c93aa949c739d34f3b07,Telemann,PC HDTV Tuner Card
+0,6045c93aa949c739d34f3b08,Theta Digital,DVD Player
+0,6045c93aa949c739d34f3b09,Theta Digital,Surround Processor
+0,6045c93aa949c739d34f3b0a,TiVo,PVR
+0,6045c93aa949c739d34f3b0b,TiVo,TiVo
+0,6045c93aa949c739d34f3b0d,Toshiba,TV
+0,6045c93aa949c739d34f3b0c,Toshiba,DVD Player
+0,6045c93aa949c739d34f3b0e,Toshiba,VCR
+0,6045c93ba949c739d34f3b0f,Turtle Beach,MP3 Player
+0,6045c93ba949c739d34f3b10,US Electronics,Cable Box
+0,6045c93ba949c739d34f3b11,Uniden,Satellite
+0,6045c93ba949c739d34f3b12,Velodyne,Subwoofer
+0,6045c93ba949c739d34f3b13,Vidikron,Video Projector
+0,6045c93ba949c739d34f3b14,VocoPro,Karaoke
+0,6045c93ba949c739d34f3b15,XORO,Sat
+0,6045c93ba949c739d34f3b16,Xantech,Programmer
+0,6045c93ba949c739d34f3b17,Xantech,Relay Module
+0,6045c93ca949c739d34f3b18,Yamakawa,DVD Player
+0,6045c93ca949c739d34f3b1a,Yamaha,Amplifier
+0,6045c93ca949c739d34f3b1c,Yamaha,CD Changer
+0,6045c93ca949c739d34f3b19,Yamaha,A/V Receiver
+0,6045c93ca949c739d34f3b1b,Yamaha,Blu-Ray
+0,6045c93ca949c739d34f3b1d,Yamaha,CD Jukebox
+0,6045c93ca949c739d34f3b1e,Yamaha,CD Player
+0,6045c93ca949c739d34f3b1f,Yamaha,CD-R
+0,6045c93ca949c739d34f3b20,Yamaha,Cassette Tape
+0,6045c93ca949c739d34f3b21,Yamaha,DAT
+0,6045c93ca949c739d34f3b22,Yamaha,DSP
+0,6045c93ca949c739d34f3b24,Yamaha,DVD Changer
+0,6045c93ca949c739d34f3b23,Yamaha,DVD
+0,6045c93ca949c739d34f3b25,Yamaha,DVD Player
+0,6045c93ca949c739d34f3b26,Yamaha,DVD Pre-amp
+0,6045c93ca949c739d34f3b27,Yamaha,DVD Receiver
+0,6045c93ca949c739d34f3b28,Yamaha,DVR
+0,6045c93ca949c739d34f3b29,Yamaha,Laser Disc
+0,6045c93ca949c739d34f3b2a,Yamaha,Mini System
+0,6045c93ca949c739d34f3b2b,Yamaha,Music Server
+0,6045c93ca949c739d34f3b2d,Yamaha,Projector
+0,6045c93ca949c739d34f3b2c,Yamaha,Plasma
+0,6045c93ca949c739d34f3b2e,Yamaha,Receiver
+0,6045c93ca949c739d34f3b2f,Yamaha,Sound Projector
+0,6045c93ca949c739d34f3b30,Yamaha,Stereo Receiver
+0,6045c93ca949c739d34f3b31,Yamaha,Tuner
+0,6045c93ca949c739d34f3b32,Yamaha,Video Projector
+0,6045c93ca949c739d34f3b33,Yamaha,iPod Dock
+0,6045c93ca949c739d34f3b35,Zenith,VCR
+0,6045c93ca949c739d34f3b34,Zenith,TV
+0,6045c93ca949c739d34f3b36,Zenith,Video Projector
+0,6045c93ca949c739d34f3b37,Zinwell,Satellite Receiver
+0,6045c93ca949c739d34f3b38,e:max,DVD Player
+0,6045c93ca949c739d34f3b3a,iPort,iPod
+0,6045c93ca949c739d34f3b39,iPort,MP3 Player
+0,6045c93ca949c739d34f3b3b,iPort,iPort
